@@ -1,2029 +1,2029 @@
-month,value,indicator
-1996-01-01,NA,Gesamtwirtschaft
-1996-02-01,NA,Gesamtwirtschaft
-1996-03-01,NA,Gesamtwirtschaft
-1996-04-01,NA,Gesamtwirtschaft
-1996-05-01,NA,Gesamtwirtschaft
-1996-06-01,NA,Gesamtwirtschaft
-1996-07-01,NA,Gesamtwirtschaft
-1996-08-01,NA,Gesamtwirtschaft
-1996-09-01,NA,Gesamtwirtschaft
-1996-10-01,NA,Gesamtwirtschaft
-1996-11-01,NA,Gesamtwirtschaft
-1996-12-01,NA,Gesamtwirtschaft
-1997-01-01,-1.4623,Gesamtwirtschaft
-1997-02-01,1.3493,Gesamtwirtschaft
-1997-03-01,3.113,Gesamtwirtschaft
-1997-04-01,1.458,Gesamtwirtschaft
-1997-05-01,3.4988,Gesamtwirtschaft
-1997-06-01,3.5614,Gesamtwirtschaft
-1997-07-01,0.0466,Gesamtwirtschaft
-1997-08-01,2.8371,Gesamtwirtschaft
-1997-09-01,5.5328,Gesamtwirtschaft
-1997-10-01,4.5741,Gesamtwirtschaft
-1997-11-01,7.4417,Gesamtwirtschaft
-1997-12-01,7.861,Gesamtwirtschaft
-1998-01-01,7.162,Gesamtwirtschaft
-1998-02-01,10.089,Gesamtwirtschaft
-1998-03-01,9.135,Gesamtwirtschaft
-1998-04-01,5.1672,Gesamtwirtschaft
-1998-05-01,5.7296,Gesamtwirtschaft
-1998-06-01,10.0932,Gesamtwirtschaft
-1998-07-01,8.5536,Gesamtwirtschaft
-1998-08-01,6.0602,Gesamtwirtschaft
-1998-09-01,6.3408,Gesamtwirtschaft
-1998-10-01,4.05,Gesamtwirtschaft
-1998-11-01,3.059,Gesamtwirtschaft
-1998-12-01,2.8573,Gesamtwirtschaft
-1999-01-01,5.2747,Gesamtwirtschaft
-1999-02-01,1.014,Gesamtwirtschaft
-1999-03-01,-0.6197,Gesamtwirtschaft
-1999-04-01,2.8302,Gesamtwirtschaft
-1999-05-01,1.5216,Gesamtwirtschaft
-1999-06-01,0.4594,Gesamtwirtschaft
-1999-07-01,5.2854,Gesamtwirtschaft
-1999-08-01,6.4289,Gesamtwirtschaft
-1999-09-01,6.0772,Gesamtwirtschaft
-1999-10-01,9.2056,Gesamtwirtschaft
-1999-11-01,7.3487,Gesamtwirtschaft
-1999-12-01,8.0347,Gesamtwirtschaft
-2000-01-01,9.3969,Gesamtwirtschaft
-2000-02-01,6.6319,Gesamtwirtschaft
-2000-03-01,10.1108,Gesamtwirtschaft
-2000-04-01,14.9458,Gesamtwirtschaft
-2000-05-01,13.0811,Gesamtwirtschaft
-2000-06-01,11.0049,Gesamtwirtschaft
-2000-07-01,12.923,Gesamtwirtschaft
-2000-08-01,11.9205,Gesamtwirtschaft
-2000-09-01,9.6537,Gesamtwirtschaft
-2000-10-01,10.9805,Gesamtwirtschaft
-2000-11-01,11.3496,Gesamtwirtschaft
-2000-12-01,10.6808,Gesamtwirtschaft
-2001-01-01,8.655,Gesamtwirtschaft
-2001-02-01,8.5787,Gesamtwirtschaft
-2001-03-01,6.6043,Gesamtwirtschaft
-2001-04-01,5.6491,Gesamtwirtschaft
-2001-05-01,7.2184,Gesamtwirtschaft
-2001-06-01,1.9416,Gesamtwirtschaft
-2001-07-01,-0.4197,Gesamtwirtschaft
-2001-08-01,-1.7432,Gesamtwirtschaft
-2001-09-01,-4.7281,Gesamtwirtschaft
-2001-10-01,-6.5643,Gesamtwirtschaft
-2001-11-01,-6.3203,Gesamtwirtschaft
-2001-12-01,-7.1113,Gesamtwirtschaft
-2002-01-01,-6.5017,Gesamtwirtschaft
-2002-02-01,-1.5031,Gesamtwirtschaft
-2002-03-01,0.0278,Gesamtwirtschaft
-2002-04-01,-0.0338,Gesamtwirtschaft
-2002-05-01,-0.4248,Gesamtwirtschaft
-2002-06-01,-0.2767,Gesamtwirtschaft
-2002-07-01,-1.7946,Gesamtwirtschaft
-2002-08-01,-3.3598,Gesamtwirtschaft
-2002-09-01,-4.0182,Gesamtwirtschaft
-2002-10-01,0.1961,Gesamtwirtschaft
-2002-11-01,-0.1853,Gesamtwirtschaft
-2002-12-01,0.1464,Gesamtwirtschaft
-2003-01-01,0.0836,Gesamtwirtschaft
-2003-02-01,1.4516,Gesamtwirtschaft
-2003-03-01,-1.93,Gesamtwirtschaft
-2003-04-01,0.6332,Gesamtwirtschaft
-2003-05-01,-2.6628,Gesamtwirtschaft
-2003-06-01,0.0368,Gesamtwirtschaft
-2003-07-01,0.5455,Gesamtwirtschaft
-2003-08-01,0.3007,Gesamtwirtschaft
-2003-09-01,2.9532,Gesamtwirtschaft
-2003-10-01,5.3809,Gesamtwirtschaft
-2003-11-01,4.8557,Gesamtwirtschaft
-2003-12-01,5.4634,Gesamtwirtschaft
-2004-01-01,5.5324,Gesamtwirtschaft
-2004-02-01,3.109,Gesamtwirtschaft
-2004-03-01,4.34,Gesamtwirtschaft
-2004-04-01,5.8691,Gesamtwirtschaft
-2004-05-01,6.1527,Gesamtwirtschaft
-2004-06-01,6.1734,Gesamtwirtschaft
-2004-07-01,6.8013,Gesamtwirtschaft
-2004-08-01,7.7724,Gesamtwirtschaft
-2004-09-01,8.0493,Gesamtwirtschaft
-2004-10-01,7.9316,Gesamtwirtschaft
-2004-11-01,6.7764,Gesamtwirtschaft
-2004-12-01,7.3079,Gesamtwirtschaft
-2005-01-01,6.1747,Gesamtwirtschaft
-2005-02-01,3.0287,Gesamtwirtschaft
-2005-03-01,0.9054,Gesamtwirtschaft
-2005-04-01,3.3175,Gesamtwirtschaft
-2005-05-01,2.6535,Gesamtwirtschaft
-2005-06-01,1.1206,Gesamtwirtschaft
-2005-07-01,2.6858,Gesamtwirtschaft
-2005-08-01,2.0431,Gesamtwirtschaft
-2005-09-01,4.3058,Gesamtwirtschaft
-2005-10-01,4.0231,Gesamtwirtschaft
-2005-11-01,5.2601,Gesamtwirtschaft
-2005-12-01,6.3635,Gesamtwirtschaft
-2006-01-01,8.4219,Gesamtwirtschaft
-2006-02-01,7.6779,Gesamtwirtschaft
-2006-03-01,7.3956,Gesamtwirtschaft
-2006-04-01,9.7214,Gesamtwirtschaft
-2006-05-01,11.9665,Gesamtwirtschaft
-2006-06-01,13.6453,Gesamtwirtschaft
-2006-07-01,14.5065,Gesamtwirtschaft
-2006-08-01,13.9398,Gesamtwirtschaft
-2006-09-01,16.0793,Gesamtwirtschaft
-2006-10-01,14.7015,Gesamtwirtschaft
-2006-11-01,16.3835,Gesamtwirtschaft
-2006-12-01,16.5367,Gesamtwirtschaft
-2007-01-01,16.1608,Gesamtwirtschaft
-2007-02-01,15.6395,Gesamtwirtschaft
-2007-03-01,16.1566,Gesamtwirtschaft
-2007-04-01,17.3888,Gesamtwirtschaft
-2007-05-01,17.5651,Gesamtwirtschaft
-2007-06-01,16.9825,Gesamtwirtschaft
-2007-07-01,16.3288,Gesamtwirtschaft
-2007-08-01,15.981,Gesamtwirtschaft
-2007-09-01,14.6071,Gesamtwirtschaft
-2007-10-01,14.3968,Gesamtwirtschaft
-2007-11-01,12.718,Gesamtwirtschaft
-2007-12-01,11.8377,Gesamtwirtschaft
-2008-01-01,11.3261,Gesamtwirtschaft
-2008-02-01,10.7355,Gesamtwirtschaft
-2008-03-01,11.3418,Gesamtwirtschaft
-2008-04-01,9.4656,Gesamtwirtschaft
-2008-05-01,8.3894,Gesamtwirtschaft
-2008-06-01,9.147,Gesamtwirtschaft
-2008-07-01,4.6237,Gesamtwirtschaft
-2008-08-01,4.2865,Gesamtwirtschaft
-2008-09-01,3.3074,Gesamtwirtschaft
-2008-10-01,-1.636,Gesamtwirtschaft
-2008-11-01,-9.2559,Gesamtwirtschaft
-2008-12-01,-13.4828,Gesamtwirtschaft
-2009-01-01,-13.6523,Gesamtwirtschaft
-2009-02-01,-18.6745,Gesamtwirtschaft
-2009-03-01,-22.3795,Gesamtwirtschaft
-2009-04-01,-22.2032,Gesamtwirtschaft
-2009-05-01,-21.853,Gesamtwirtschaft
-2009-06-01,-20.4889,Gesamtwirtschaft
-2009-07-01,-18.1497,Gesamtwirtschaft
-2009-08-01,-13.1154,Gesamtwirtschaft
-2009-09-01,-10.7555,Gesamtwirtschaft
-2009-10-01,-5.9591,Gesamtwirtschaft
-2009-11-01,-4.9917,Gesamtwirtschaft
-2009-12-01,-4.0937,Gesamtwirtschaft
-2010-01-01,-3.8101,Gesamtwirtschaft
-2010-02-01,-2.0683,Gesamtwirtschaft
-2010-03-01,0.2988,Gesamtwirtschaft
-2010-04-01,4.8211,Gesamtwirtschaft
-2010-05-01,4.5982,Gesamtwirtschaft
-2010-06-01,4.1787,Gesamtwirtschaft
-2010-07-01,6.7364,Gesamtwirtschaft
-2010-08-01,7.1244,Gesamtwirtschaft
-2010-09-01,7.0456,Gesamtwirtschaft
-2010-10-01,8.2616,Gesamtwirtschaft
-2010-11-01,9.9522,Gesamtwirtschaft
-2010-12-01,11.64,Gesamtwirtschaft
-2011-01-01,13.0841,Gesamtwirtschaft
-2011-02-01,14.7714,Gesamtwirtschaft
-2011-03-01,13.2411,Gesamtwirtschaft
-2011-04-01,13.5663,Gesamtwirtschaft
-2011-05-01,11.9555,Gesamtwirtschaft
-2011-06-01,10.5213,Gesamtwirtschaft
-2011-07-01,10.6096,Gesamtwirtschaft
-2011-08-01,6.914,Gesamtwirtschaft
-2011-09-01,4.186,Gesamtwirtschaft
-2011-10-01,3.3863,Gesamtwirtschaft
-2011-11-01,2.9516,Gesamtwirtschaft
-2011-12-01,4.452,Gesamtwirtschaft
-2012-01-01,4.7416,Gesamtwirtschaft
-2012-02-01,4.8891,Gesamtwirtschaft
-2012-03-01,7.1076,Gesamtwirtschaft
-2012-04-01,5.7437,Gesamtwirtschaft
-2012-05-01,3.9503,Gesamtwirtschaft
-2012-06-01,2.8388,Gesamtwirtschaft
-2012-07-01,3.0686,Gesamtwirtschaft
-2012-08-01,0.5006,Gesamtwirtschaft
-2012-09-01,-0.4507,Gesamtwirtschaft
-2012-10-01,0.0239,Gesamtwirtschaft
-2012-11-01,0.4836,Gesamtwirtschaft
-2012-12-01,0.5341,Gesamtwirtschaft
-2013-01-01,1.9487,Gesamtwirtschaft
-2013-02-01,3.1875,Gesamtwirtschaft
-2013-03-01,3.2329,Gesamtwirtschaft
-2013-04-01,0.0548,Gesamtwirtschaft
-2013-05-01,-0.246,Gesamtwirtschaft
-2013-06-01,-0.041,Gesamtwirtschaft
-2013-07-01,0.2241,Gesamtwirtschaft
-2013-08-01,2.5425,Gesamtwirtschaft
-2013-09-01,2.8926,Gesamtwirtschaft
-2013-10-01,4.0776,Gesamtwirtschaft
-2013-11-01,4.9307,Gesamtwirtschaft
-2013-12-01,4.0226,Gesamtwirtschaft
-2014-01-01,4.2686,Gesamtwirtschaft
-2014-02-01,5.1573,Gesamtwirtschaft
-2014-03-01,4.1958,Gesamtwirtschaft
-2014-04-01,3.3031,Gesamtwirtschaft
-2014-05-01,3.8394,Gesamtwirtschaft
-2014-06-01,3.0774,Gesamtwirtschaft
-2014-07-01,0.672,Gesamtwirtschaft
-2014-08-01,1.0514,Gesamtwirtschaft
-2014-09-01,-0.9384,Gesamtwirtschaft
-2014-10-01,0.7844,Gesamtwirtschaft
-2014-11-01,0.4636,Gesamtwirtschaft
-2014-12-01,1.7325,Gesamtwirtschaft
-2015-01-01,-0.4304,Gesamtwirtschaft
-2015-02-01,-1.5329,Gesamtwirtschaft
-2015-03-01,-2.3451,Gesamtwirtschaft
-2015-04-01,-0.7715,Gesamtwirtschaft
-2015-05-01,-0.6869,Gesamtwirtschaft
-2015-06-01,-0.1281,Gesamtwirtschaft
-2015-07-01,0.3107,Gesamtwirtschaft
-2015-08-01,2.1498,Gesamtwirtschaft
-2015-09-01,2.2125,Gesamtwirtschaft
-2015-10-01,2.3473,Gesamtwirtschaft
-2015-11-01,4.8536,Gesamtwirtschaft
-2015-12-01,4.9315,Gesamtwirtschaft
-2016-01-01,3.3701,Gesamtwirtschaft
-2016-02-01,2.0501,Gesamtwirtschaft
-2016-03-01,2.3563,Gesamtwirtschaft
-2016-04-01,2.5836,Gesamtwirtschaft
-2016-05-01,4.1413,Gesamtwirtschaft
-2016-06-01,3.9467,Gesamtwirtschaft
-2016-07-01,4.8308,Gesamtwirtschaft
-2016-08-01,4.784,Gesamtwirtschaft
-2016-09-01,7.1531,Gesamtwirtschaft
-2016-10-01,7.2542,Gesamtwirtschaft
-2016-11-01,10.0804,Gesamtwirtschaft
-2016-12-01,11.4017,Gesamtwirtschaft
-2017-01-01,10.8911,Gesamtwirtschaft
-2017-02-01,12.7427,Gesamtwirtschaft
-2017-03-01,13.6648,Gesamtwirtschaft
-2017-04-01,14.821,Gesamtwirtschaft
-2017-05-01,15.2003,Gesamtwirtschaft
-2017-06-01,17.0546,Gesamtwirtschaft
-2017-07-01,17.8627,Gesamtwirtschaft
-2017-08-01,16.1592,Gesamtwirtschaft
-2017-09-01,17.2184,Gesamtwirtschaft
-2017-10-01,19.0808,Gesamtwirtschaft
-2017-11-01,18.9431,Gesamtwirtschaft
-2017-12-01,21.0184,Gesamtwirtschaft
-2018-01-01,20.7407,Gesamtwirtschaft
-2018-02-01,21.8898,Gesamtwirtschaft
-2018-03-01,20.5993,Gesamtwirtschaft
-2018-04-01,18.4596,Gesamtwirtschaft
-2018-05-01,19.1581,Gesamtwirtschaft
-2018-06-01,18.4737,Gesamtwirtschaft
-2018-07-01,18.7917,Gesamtwirtschaft
-2018-08-01,17.995,Gesamtwirtschaft
-2018-09-01,19.0983,Gesamtwirtschaft
-2018-10-01,17.1927,Gesamtwirtschaft
-2018-11-01,15.925,Gesamtwirtschaft
-2018-12-01,15.3645,Gesamtwirtschaft
-2019-01-01,14.7525,Gesamtwirtschaft
-2019-02-01,13.5926,Gesamtwirtschaft
-2019-03-01,12.6161,Gesamtwirtschaft
-2019-04-01,12.1281,Gesamtwirtschaft
-2019-05-01,11.4955,Gesamtwirtschaft
-2019-06-01,10.3747,Gesamtwirtschaft
-2019-07-01,10.4459,Gesamtwirtschaft
-2019-08-01,10.5859,Gesamtwirtschaft
-2019-09-01,9.5741,Gesamtwirtschaft
-2019-10-01,8.5668,Gesamtwirtschaft
-2019-11-01,8.9764,Gesamtwirtschaft
-2019-12-01,7.6609,Gesamtwirtschaft
-2020-01-01,10.7375,Gesamtwirtschaft
-2020-02-01,10.9766,Gesamtwirtschaft
-2020-03-01,2.2374,Gesamtwirtschaft
-2020-04-01,-33.3448,Gesamtwirtschaft
-2020-05-01,-28.0123,Gesamtwirtschaft
-2020-06-01,-20.5549,Gesamtwirtschaft
-2020-07-01,-14.3689,Gesamtwirtschaft
-2020-08-01,-10.1385,Gesamtwirtschaft
-2020-09-01,-9.2994,Gesamtwirtschaft
-2020-10-01,-9.4478,Gesamtwirtschaft
-2020-11-01,-15.3721,Gesamtwirtschaft
-2020-12-01,-11.9435,Gesamtwirtschaft
-2021-01-01,-12.955,Gesamtwirtschaft
-2021-02-01,-12.1422,Gesamtwirtschaft
-2021-03-01,-4.7014,Gesamtwirtschaft
-2021-04-01,10.3282,Gesamtwirtschaft
-2021-05-01,15.6754,Gesamtwirtschaft
-2021-06-01,20.3758,Gesamtwirtschaft
-2021-07-01,19.8845,Gesamtwirtschaft
-2021-08-01,17.5429,Gesamtwirtschaft
-2021-09-01,17.1766,Gesamtwirtschaft
-2021-10-01,19.0994,Gesamtwirtschaft
-2021-11-01,17.6936,Gesamtwirtschaft
-2021-12-01,11.6869,Gesamtwirtschaft
-2022-01-01,13.0159,Gesamtwirtschaft
-2022-02-01,15.97,Gesamtwirtschaft
-2022-03-01,17.8638,Gesamtwirtschaft
-2022-04-01,24.5005,Gesamtwirtschaft
-2022-05-01,19.462,Gesamtwirtschaft
-2022-06-01,16.6967,Gesamtwirtschaft
-2022-07-01,10.4373,Gesamtwirtschaft
-2022-08-01,8.473,Gesamtwirtschaft
-2022-09-01,5.2406,Gesamtwirtschaft
-2022-10-01,2.9023,Gesamtwirtschaft
-2022-11-01,4.2162,Gesamtwirtschaft
-2022-12-01,5.5902,Gesamtwirtschaft
-2023-01-01,6.3658,Gesamtwirtschaft
-2023-02-01,5.4926,Gesamtwirtschaft
-2023-03-01,4.7545,Gesamtwirtschaft
-2023-04-01,10.9342,Gesamtwirtschaft
-2023-05-01,4.7731,Gesamtwirtschaft
-2023-06-01,-0.895,Gesamtwirtschaft
-2023-07-01,-5.2366,Gesamtwirtschaft
-2023-08-01,-8.7402,Gesamtwirtschaft
-2023-09-01,-8.3931,Gesamtwirtschaft
-2023-10-01,-7.633,Gesamtwirtschaft
-2023-11-01,-7.0277,Gesamtwirtschaft
-2023-12-01,-6.1904,Gesamtwirtschaft
-2024-01-01,-6.6569,Gesamtwirtschaft
-2024-02-01,-9.8071,Gesamtwirtschaft
-1996-01-01,-22.6392,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1996-02-01,-21.7181,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1996-03-01,-23.4675,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1996-04-01,-23.5768,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1996-05-01,-17.0143,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1996-06-01,-17.5369,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1996-07-01,-16.9406,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1996-08-01,-12.9379,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1996-09-01,-12.1711,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1996-10-01,-12.4776,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1996-11-01,-8.9107,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1996-12-01,-9.8265,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1997-01-01,-9.593,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1997-02-01,-6.7988,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1997-03-01,-2.0113,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1997-04-01,-2.3416,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1997-05-01,0.2126,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1997-06-01,0.5419,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1997-07-01,-0.5915,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1997-08-01,0.238,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1997-09-01,4.5071,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1997-10-01,4.4326,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1997-11-01,4.9051,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1997-12-01,4.6654,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1998-01-01,2.8852,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1998-02-01,5.0736,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1998-03-01,5.1348,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1998-04-01,5.0448,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1998-05-01,1.4243,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1998-06-01,2.9864,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1998-07-01,0.9775,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1998-08-01,-2.0633,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1998-09-01,-7.1325,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1998-10-01,-5.2549,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1998-11-01,-9.0771,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1998-12-01,-7.9333,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1999-01-01,-7.5374,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1999-02-01,-12.1808,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1999-03-01,-13.6928,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1999-04-01,-10.2838,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1999-05-01,-12.9963,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1999-06-01,-10.1724,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1999-07-01,-3.8033,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1999-08-01,-1.1138,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1999-09-01,0.935,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1999-10-01,1.5132,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1999-11-01,3.2535,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1999-12-01,6.3971,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2000-01-01,4.3439,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2000-02-01,3.9928,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2000-03-01,7.419,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2000-04-01,11.3778,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2000-05-01,9.6532,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2000-06-01,7.2375,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2000-07-01,10.2678,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2000-08-01,6.8865,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2000-09-01,9.7417,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2000-10-01,9.6601,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2000-11-01,11.3214,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2000-12-01,9.6636,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2001-01-01,7.8413,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2001-02-01,6.0237,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2001-03-01,2.4072,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2001-04-01,1.6952,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2001-05-01,-0.4954,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2001-06-01,-4.2676,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2001-07-01,-4.9858,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2001-08-01,-8.2931,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2001-09-01,-12.7363,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2001-10-01,-13.3483,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2001-11-01,-13.8068,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2001-12-01,-14.4826,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2002-01-01,-13.1392,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2002-02-01,-7.2637,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2002-03-01,-5.5597,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2002-04-01,-7.2072,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2002-05-01,-6.5873,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2002-06-01,-5.5038,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2002-07-01,-6.3708,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2002-08-01,-9.2454,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2002-09-01,-10.6821,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2002-10-01,-5.7216,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2002-11-01,-7.4144,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2002-12-01,-6.5754,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2003-01-01,-5.8688,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2003-02-01,-2.7881,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2003-03-01,-7.1136,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2003-04-01,-4.6362,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2003-05-01,-7.175,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2003-06-01,-4.6572,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2003-07-01,-7.8143,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2003-08-01,-6.2577,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2003-09-01,-2.5628,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2003-10-01,1.3779,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2003-11-01,1.9404,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2003-12-01,2.3639,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2004-01-01,1.8097,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2004-02-01,-0.368,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2004-03-01,0.3553,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2004-04-01,1.478,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2004-05-01,1.1896,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2004-06-01,2.2953,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2004-07-01,3.1981,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2004-08-01,4.1708,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2004-09-01,5.0192,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2004-10-01,4.7403,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2004-11-01,4.6301,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2004-12-01,0.9045,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2005-01-01,2.9598,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2005-02-01,-0.9077,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2005-03-01,-3.0724,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2005-04-01,-2.6026,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2005-05-01,-1.5708,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2005-06-01,-3.771,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2005-07-01,-2.3551,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2005-08-01,-3.0996,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2005-09-01,0.5965,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2005-10-01,0.8733,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2005-11-01,2.6587,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2005-12-01,2.0004,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2006-01-01,5.0656,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2006-02-01,3.9226,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2006-03-01,6.2659,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2006-04-01,9.2618,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2006-05-01,11.3879,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2006-06-01,12.5039,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2006-07-01,13.6385,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2006-08-01,13.5933,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2006-09-01,14.5443,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2006-10-01,14.5708,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2006-11-01,15.4432,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2006-12-01,17.3682,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2007-01-01,14.4077,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2007-02-01,17.3589,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2007-03-01,16.6538,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2007-04-01,16.5507,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2007-05-01,17.4139,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2007-06-01,17.8976,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2007-07-01,15.825,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2007-08-01,16.1707,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2007-09-01,13.048400000000001,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2007-10-01,11.6667,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2007-11-01,11.5644,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2007-12-01,8.0061,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2008-01-01,7.0751,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2008-02-01,6.607,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2008-03-01,9.3239,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2008-04-01,5.8918,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2008-05-01,4.8873,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2008-06-01,3.5089,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2008-07-01,-0.1,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2008-08-01,-3.317,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2008-09-01,-4.8969,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2008-10-01,-11.3949,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2008-11-01,-20.5424,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2008-12-01,-26.974,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2009-01-01,-28.2823,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2009-02-01,-33.8854,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2009-03-01,-36.3374,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2009-04-01,-33.2457,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2009-05-01,-34.0152,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2009-06-01,-29.1206,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2009-07-01,-27.2522,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2009-08-01,-20.6257,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2009-09-01,-18.6877,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2009-10-01,-16.7344,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2009-11-01,-15.358,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2009-12-01,-11.9858,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2010-01-01,-11.0526,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2010-02-01,-7.4987,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2010-03-01,-3.8266,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2010-04-01,0.6603,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2010-05-01,4.1846,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2010-06-01,4.2184,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2010-07-01,6.6872,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2010-08-01,5.1601,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2010-09-01,3.8973,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2010-10-01,7.9252,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2010-11-01,10.0836,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2010-12-01,12.9454,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2011-01-01,14.2791,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2011-02-01,15.7892,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2011-03-01,14.4225,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2011-04-01,14.8396,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2011-05-01,11.8476,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2011-06-01,8.0384,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2011-07-01,6.6439,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2011-08-01,2.6279,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2011-09-01,-1.0169,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2011-10-01,-3.0539,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2011-11-01,-3.543,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2011-12-01,-1.2356,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2012-01-01,0.0606,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2012-02-01,2.247,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2012-03-01,2.4847,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2012-04-01,0.0811,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2012-05-01,-1.366,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2012-06-01,-2.8919,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2012-07-01,-5.3246,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2012-08-01,-6.6702,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2012-09-01,-6.9122,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2012-10-01,-7.9666,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2012-11-01,-8.7082,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2012-12-01,-7.2851,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2013-01-01,-5.3249,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2013-02-01,-4.4381,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2013-03-01,-3.5615,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2013-04-01,-5.6969,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2013-05-01,-7.345,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2013-06-01,-8.27,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2013-07-01,-5.6027,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2013-08-01,-4.2229,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2013-09-01,-1.7611,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2013-10-01,-1.1772,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2013-11-01,1.8338,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2013-12-01,-1.0432,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2014-01-01,1.2876,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2014-02-01,3.7125,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2014-03-01,2.8641,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2014-04-01,0.9984,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2014-05-01,1.6377,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2014-06-01,2.2526,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2014-07-01,-2.3048,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2014-08-01,0.4084,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2014-09-01,-3.3658,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2014-10-01,-2.3899,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2014-11-01,-1.5123,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2014-12-01,0.1292,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2015-01-01,-2.7216,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2015-02-01,-5.2657,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2015-03-01,-7.099,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2015-04-01,-4.2343,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2015-05-01,-4.4014,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2015-06-01,-5.043,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2015-07-01,-1.5113,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2015-08-01,-2.6068,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2015-09-01,-0.9786,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2015-10-01,-0.6193,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2015-11-01,0.0808,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2015-12-01,1.4964,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2016-01-01,1.2144,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2016-02-01,-4.4683,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2016-03-01,-3.0586,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2016-04-01,-2.8756,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2016-05-01,-2.5594,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2016-06-01,-1.745,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2016-07-01,0.3613,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2016-08-01,0.008,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2016-09-01,4.6532,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2016-10-01,4.4685,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2016-11-01,6.4062,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2016-12-01,7.1598,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2017-01-01,8.7244,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2017-02-01,9.4938,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2017-03-01,11.683,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2017-04-01,11.1081,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2017-05-01,13.5136,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2017-06-01,14.3536,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2017-07-01,15.1675,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2017-08-01,14.4152,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2017-09-01,16.0695,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2017-10-01,18.2291,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2017-11-01,20.0385,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2017-12-01,20.3669,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2018-01-01,18.4176,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2018-02-01,21.2181,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2018-03-01,20.9959,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2018-04-01,18.3579,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2018-05-01,17.4449,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2018-06-01,17.14,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2018-07-01,16.6259,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2018-08-01,17.0657,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2018-09-01,17.0287,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2018-10-01,14.6411,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2018-11-01,13.7344,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2018-12-01,10.706,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2019-01-01,8.8612,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2019-02-01,7.1883,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2019-03-01,4.6704,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2019-04-01,4.0735,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2019-05-01,5.0767,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2019-06-01,2.5694,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2019-07-01,1.0793,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2019-08-01,4.5309,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2019-09-01,0.6458,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2019-10-01,-3.1004,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2019-11-01,-0.8954,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2019-12-01,-2.7262,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2020-01-01,-1.7136,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2020-02-01,1.7604,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2020-03-01,-5.801,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2020-04-01,-32.8964,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2020-05-01,-32.0052,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2020-06-01,-25.0826,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2020-07-01,-19.1443,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2020-08-01,-16.3992,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2020-09-01,-15.8136,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2020-10-01,-10.8047,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2020-11-01,-14.4649,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2020-12-01,-6.4722,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2021-01-01,-7.9347,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2021-02-01,-8.0255,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2021-03-01,-0.9166,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2021-04-01,14.7551,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2021-05-01,17.9036,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2021-06-01,22.1018,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2021-07-01,20.6463,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2021-08-01,18.9445,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2021-09-01,19.6343,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2021-10-01,20.5792,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2021-11-01,19.5206,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2021-12-01,20.3973,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2022-01-01,16.8438,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2022-02-01,18.7285,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2022-03-01,16.9904,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2022-04-01,21.7127,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2022-05-01,15.569,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2022-06-01,16.3123,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2022-07-01,8.0564,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2022-08-01,5.6125,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2022-09-01,3.6979,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2022-10-01,-2.161,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2022-11-01,-1.6354,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2022-12-01,-2.0452,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2023-01-01,-1.3393,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2023-02-01,-0.4712,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2023-03-01,-1.4215,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2023-04-01,0.3321,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2023-05-01,-4.4433,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2023-06-01,-10.3836,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2023-07-01,-12.5929,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2023-08-01,-17.7467,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2023-09-01,-19.2503,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2023-10-01,-20.0004,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2023-11-01,-19.6605,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2023-12-01,-22.4427,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2024-01-01,-19.2451,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-2024-02-01,-23.3837,Sachgütererzeugung (produzierende Industrie und Gewerbe)
-1996-01-01,-31.5685,Bau
-1996-02-01,-28.9672,Bau
-1996-03-01,-30.5788,Bau
-1996-04-01,-30.1453,Bau
-1996-05-01,-18.1706,Bau
-1996-06-01,-16.9516,Bau
-1996-07-01,-17.7371,Bau
-1996-08-01,-17.6294,Bau
-1996-09-01,-18.3861,Bau
-1996-10-01,-13.6685,Bau
-1996-11-01,-18.5384,Bau
-1996-12-01,-13.6166,Bau
-1997-01-01,-16.0062,Bau
-1997-02-01,-16.3303,Bau
-1997-03-01,-16.7906,Bau
-1997-04-01,-16.2214,Bau
-1997-05-01,-19.7511,Bau
-1997-06-01,-22.5112,Bau
-1997-07-01,-23.449,Bau
-1997-08-01,-19.8894,Bau
-1997-09-01,-21.184,Bau
-1997-10-01,-19.6321,Bau
-1997-11-01,-15.7532,Bau
-1997-12-01,-23.1907,Bau
-1998-01-01,-20.0618,Bau
-1998-02-01,-20.2525,Bau
-1998-03-01,-14.7376,Bau
-1998-04-01,-18.9585,Bau
-1998-05-01,-23.0892,Bau
-1998-06-01,-23.3668,Bau
-1998-07-01,-22.9952,Bau
-1998-08-01,-23.622,Bau
-1998-09-01,-19.3206,Bau
-1998-10-01,-22.5836,Bau
-1998-11-01,-21.3915,Bau
-1998-12-01,-18.1251,Bau
-1999-01-01,-15.6402,Bau
-1999-02-01,-19.0661,Bau
-1999-03-01,-22.1296,Bau
-1999-04-01,-15.372,Bau
-1999-05-01,-17.0201,Bau
-1999-06-01,-10.2008,Bau
-1999-07-01,-7.1268,Bau
-1999-08-01,-8.7195,Bau
-1999-09-01,-9.1231,Bau
-1999-10-01,-10.8893,Bau
-1999-11-01,-7.8963,Bau
-1999-12-01,-8.1804,Bau
-2000-01-01,-5.383,Bau
-2000-02-01,-4.0757,Bau
-2000-03-01,-2.3267,Bau
-2000-04-01,0.2385,Bau
-2000-05-01,-3.7396,Bau
-2000-06-01,-6.7884,Bau
-2000-07-01,-3.2331,Bau
-2000-08-01,-5.3665,Bau
-2000-09-01,-7.4316,Bau
-2000-10-01,-8.444,Bau
-2000-11-01,-11.3986,Bau
-2000-12-01,-7.2194,Bau
-2001-01-01,-9.9405,Bau
-2001-02-01,-8.0533,Bau
-2001-03-01,-13.2483,Bau
-2001-04-01,-17.7073,Bau
-2001-05-01,-18.9647,Bau
-2001-06-01,-23.1655,Bau
-2001-07-01,-26.5147,Bau
-2001-08-01,-23.1527,Bau
-2001-09-01,-26.1394,Bau
-2001-10-01,-27.784300000000002,Bau
-2001-11-01,-27.5366,Bau
-2001-12-01,-26.9083,Bau
-2002-01-01,-26.3042,Bau
-2002-02-01,-17.4915,Bau
-2002-03-01,-17.2593,Bau
-2002-04-01,-15.7394,Bau
-2002-05-01,-17.9998,Bau
-2002-06-01,-19.2155,Bau
-2002-07-01,-15.2244,Bau
-2002-08-01,-14.3176,Bau
-2002-09-01,-16.7635,Bau
-2002-10-01,-13.6722,Bau
-2002-11-01,-11.1154,Bau
-2002-12-01,-15.6197,Bau
-2003-01-01,-11.4207,Bau
-2003-02-01,-6.4995,Bau
-2003-03-01,-9.6116,Bau
-2003-04-01,-6.0162,Bau
-2003-05-01,0.5614,Bau
-2003-06-01,-1.2184,Bau
-2003-07-01,-0.504,Bau
-2003-08-01,-2.9715,Bau
-2003-09-01,-4.1613,Bau
-2003-10-01,-3.3867,Bau
-2003-11-01,-6.6146,Bau
-2003-12-01,-0.005,Bau
-2004-01-01,4.9718,Bau
-2004-02-01,-9.0659,Bau
-2004-03-01,-13.2608,Bau
-2004-04-01,-10.9142,Bau
-2004-05-01,-1.48,Bau
-2004-06-01,-7.175,Bau
-2004-07-01,-3.3871000000000002,Bau
-2004-08-01,-3.016,Bau
-2004-09-01,-3.8372,Bau
-2004-10-01,1.2512,Bau
-2004-11-01,2.2212,Bau
-2004-12-01,5.9242,Bau
-2005-01-01,2.7988,Bau
-2005-02-01,-10.3998,Bau
-2005-03-01,-15.0537,Bau
-2005-04-01,-9.7266,Bau
-2005-05-01,-3.6903,Bau
-2005-06-01,-0.4817,Bau
-2005-07-01,-5.5955,Bau
-2005-08-01,-0.4476,Bau
-2005-09-01,5.2828,Bau
-2005-10-01,4.3577,Bau
-2005-11-01,5.9178,Bau
-2005-12-01,6.4336,Bau
-2006-01-01,7.6739,Bau
-2006-02-01,2.97,Bau
-2006-03-01,-0.9153,Bau
-2006-04-01,5.2161,Bau
-2006-05-01,5.2088,Bau
-2006-06-01,8.6173,Bau
-2006-07-01,12.4771,Bau
-2006-08-01,10.62,Bau
-2006-09-01,18.3805,Bau
-2006-10-01,13.7699,Bau
-2006-11-01,16.5099,Bau
-2006-12-01,10.0338,Bau
-2007-01-01,15.3928,Bau
-2007-02-01,12.2876,Bau
-2007-03-01,11.0502,Bau
-2007-04-01,11.1671,Bau
-2007-05-01,9.2092,Bau
-2007-06-01,6.7955,Bau
-2007-07-01,9.3462,Bau
-2007-08-01,4.2696,Bau
-2007-09-01,5.551,Bau
-2007-10-01,8.0406,Bau
-2007-11-01,4.6942,Bau
-2007-12-01,6.9718,Bau
-2008-01-01,10.2611,Bau
-2008-02-01,10.9535,Bau
-2008-03-01,5.9941,Bau
-2008-04-01,7.8403,Bau
-2008-05-01,5.9355,Bau
-2008-06-01,8.4604,Bau
-2008-07-01,11.7341,Bau
-2008-08-01,9.1042,Bau
-2008-09-01,5.1375,Bau
-2008-10-01,1.896,Bau
-2008-11-01,-1.525,Bau
-2008-12-01,-4.3675,Bau
-2009-01-01,-4.6378,Bau
-2009-02-01,-4.7195,Bau
-2009-03-01,-13.1479,Bau
-2009-04-01,-15.3752,Bau
-2009-05-01,-16.9229,Bau
-2009-06-01,-18.262,Bau
-2009-07-01,-9.9897,Bau
-2009-08-01,-7.0554,Bau
-2009-09-01,-5.0957,Bau
-2009-10-01,-3.2446,Bau
-2009-11-01,-4.8495,Bau
-2009-12-01,0.6411,Bau
-2010-01-01,-7.0112,Bau
-2010-02-01,-2.7644,Bau
-2010-03-01,-2.4672,Bau
-2010-04-01,-0.3493,Bau
-2010-05-01,-3.884,Bau
-2010-06-01,-1.7495,Bau
-2010-07-01,0.2049,Bau
-2010-08-01,-1.5106,Bau
-2010-09-01,0.1898,Bau
-2010-10-01,4.2722,Bau
-2010-11-01,5.914,Bau
-2010-12-01,4.8939,Bau
-2011-01-01,4.7588,Bau
-2011-02-01,4.3421,Bau
-2011-03-01,4.5322,Bau
-2011-04-01,8.6142,Bau
-2011-05-01,4.432,Bau
-2011-06-01,7.5303,Bau
-2011-07-01,3.2919,Bau
-2011-08-01,4.6453,Bau
-2011-09-01,1.6072,Bau
-2011-10-01,2.341,Bau
-2011-11-01,4.8479,Bau
-2011-12-01,10.3877,Bau
-2012-01-01,9.4038,Bau
-2012-02-01,1.5271,Bau
-2012-03-01,10.0997,Bau
-2012-04-01,10.5614,Bau
-2012-05-01,7.0427,Bau
-2012-06-01,8.4347,Bau
-2012-07-01,8.9664,Bau
-2012-08-01,5.7907,Bau
-2012-09-01,3.6626,Bau
-2012-10-01,5.2014,Bau
-2012-11-01,7.5754,Bau
-2012-12-01,8.4737,Bau
-2013-01-01,4.8568,Bau
-2013-02-01,8.533,Bau
-2013-03-01,4.4693,Bau
-2013-04-01,-3.6775,Bau
-2013-05-01,-0.062,Bau
-2013-06-01,2.2598,Bau
-2013-07-01,0.5397,Bau
-2013-08-01,3.2131,Bau
-2013-09-01,-1.1816,Bau
-2013-10-01,2.65,Bau
-2013-11-01,0.4153,Bau
-2013-12-01,0.8382,Bau
-2014-01-01,0.7069,Bau
-2014-02-01,3.0523,Bau
-2014-03-01,-0.3205,Bau
-2014-04-01,-3.6358,Bau
-2014-05-01,-4.25,Bau
-2014-06-01,-7.418,Bau
-2014-07-01,-9.5012,Bau
-2014-08-01,-10.6814,Bau
-2014-09-01,-8.3827,Bau
-2014-10-01,-8.5294,Bau
-2014-11-01,-3.6956,Bau
-2014-12-01,-3.1379,Bau
-2015-01-01,-6.1346,Bau
-2015-02-01,-4.9767,Bau
-2015-03-01,-9.8821,Bau
-2015-04-01,-7.095,Bau
-2015-05-01,-8.6078,Bau
-2015-06-01,-8.215,Bau
-2015-07-01,-2.6282,Bau
-2015-08-01,-1.4667,Bau
-2015-09-01,0.5597,Bau
-2015-10-01,-0.4193,Bau
-2015-11-01,2.378,Bau
-2015-12-01,1.5867,Bau
-2016-01-01,1.5302,Bau
-2016-02-01,2.2697,Bau
-2016-03-01,0.9233,Bau
-2016-04-01,6.3892,Bau
-2016-05-01,6.417,Bau
-2016-06-01,0.0961,Bau
-2016-07-01,-0.3413,Bau
-2016-08-01,0.9542,Bau
-2016-09-01,4.2747,Bau
-2016-10-01,7.8476,Bau
-2016-11-01,8.9205,Bau
-2016-12-01,12.1817,Bau
-2017-01-01,13.4138,Bau
-2017-02-01,15.1567,Bau
-2017-03-01,18.4964,Bau
-2017-04-01,17.5364,Bau
-2017-05-01,17.3316,Bau
-2017-06-01,19.6236,Bau
-2017-07-01,19.7234,Bau
-2017-08-01,18.0267,Bau
-2017-09-01,19.4256,Bau
-2017-10-01,22.417,Bau
-2017-11-01,20.7121,Bau
-2017-12-01,24.4735,Bau
-2018-01-01,24.2427,Bau
-2018-02-01,23.7897,Bau
-2018-03-01,22.6315,Bau
-2018-04-01,22.3263,Bau
-2018-05-01,25.961,Bau
-2018-06-01,26.7266,Bau
-2018-07-01,27.0867,Bau
-2018-08-01,26.8198,Bau
-2018-09-01,25.1279,Bau
-2018-10-01,25.2431,Bau
-2018-11-01,25.2369,Bau
-2018-12-01,28.1918,Bau
-2019-01-01,23.0279,Bau
-2019-02-01,24.6833,Bau
-2019-03-01,27.6264,Bau
-2019-04-01,20.284300000000002,Bau
-2019-05-01,22.1483,Bau
-2019-06-01,21.4009,Bau
-2019-07-01,20.3068,Bau
-2019-08-01,20.5676,Bau
-2019-09-01,19.5589,Bau
-2019-10-01,16.7161,Bau
-2019-11-01,21.4904,Bau
-2019-12-01,20.7071,Bau
-2020-01-01,23.6992,Bau
-2020-02-01,25.3559,Bau
-2020-03-01,22.9487,Bau
-2020-04-01,-10.4696,Bau
-2020-05-01,-9.9292,Bau
-2020-06-01,-0.3893,Bau
-2020-07-01,3.2546,Bau
-2020-08-01,6.4005,Bau
-2020-09-01,11.0128,Bau
-2020-10-01,8.047,Bau
-2020-11-01,4.8349,Bau
-2020-12-01,12.7418,Bau
-2021-01-01,11.5727,Bau
-2021-02-01,14.3938,Bau
-2021-03-01,22.2104,Bau
-2021-04-01,34.567,Bau
-2021-05-01,35.973,Bau
-2021-06-01,41.6965,Bau
-2021-07-01,35.3873,Bau
-2021-08-01,36.7227,Bau
-2021-09-01,39.1564,Bau
-2021-10-01,35.5306,Bau
-2021-11-01,36.6605,Bau
-2021-12-01,40.6576,Bau
-2022-01-01,38.6276,Bau
-2022-02-01,40.4404,Bau
-2022-03-01,39.9963,Bau
-2022-04-01,45.9755,Bau
-2022-05-01,38.2758,Bau
-2022-06-01,33.3569,Bau
-2022-07-01,32.3314,Bau
-2022-08-01,28.7162,Bau
-2022-09-01,27.7823,Bau
-2022-10-01,29.8269,Bau
-2022-11-01,26.5219,Bau
-2022-12-01,26.3035,Bau
-2023-01-01,23.0862,Bau
-2023-02-01,19.9313,Bau
-2023-03-01,15.0828,Bau
-2023-04-01,15.7301,Bau
-2023-05-01,11.8382,Bau
-2023-06-01,4.595,Bau
-2023-07-01,0.4041,Bau
-2023-08-01,-0.3197,Bau
-2023-09-01,-0.4144,Bau
-2023-10-01,-0.0756,Bau
-2023-11-01,1.1776,Bau
-2023-12-01,3e-4,Bau
-2024-01-01,-0.8452,Bau
-2024-02-01,-1.7451,Bau
-1996-01-01,-30.569,Einzelhandel
-1996-02-01,-24.3027,Einzelhandel
-1996-03-01,-25.8905,Einzelhandel
-1996-04-01,-27.7961,Einzelhandel
-1996-05-01,-27.2276,Einzelhandel
-1996-06-01,-23.8271,Einzelhandel
-1996-07-01,-26.7196,Einzelhandel
-1996-08-01,-26.1772,Einzelhandel
-1996-09-01,-22.1286,Einzelhandel
-1996-10-01,-22.7958,Einzelhandel
-1996-11-01,-23.3792,Einzelhandel
-1996-12-01,-22.9537,Einzelhandel
-1997-01-01,-20.9809,Einzelhandel
-1997-02-01,-26.1231,Einzelhandel
-1997-03-01,-22.6978,Einzelhandel
-1997-04-01,-24.2064,Einzelhandel
-1997-05-01,-23.9755,Einzelhandel
-1997-06-01,-25.83,Einzelhandel
-1997-07-01,-26.2693,Einzelhandel
-1997-08-01,-23.9833,Einzelhandel
-1997-09-01,-25.697,Einzelhandel
-1997-10-01,-23.2959,Einzelhandel
-1997-11-01,-20.1004,Einzelhandel
-1997-12-01,-22.2693,Einzelhandel
-1998-01-01,-19.666,Einzelhandel
-1998-02-01,-19.9465,Einzelhandel
-1998-03-01,-20.8872,Einzelhandel
-1998-04-01,-19.0519,Einzelhandel
-1998-05-01,-19.4682,Einzelhandel
-1998-06-01,-18.1078,Einzelhandel
-1998-07-01,-19.2589,Einzelhandel
-1998-08-01,-20.7586,Einzelhandel
-1998-09-01,-20.6033,Einzelhandel
-1998-10-01,-19.6352,Einzelhandel
-1998-11-01,-22.4926,Einzelhandel
-1998-12-01,-20.9855,Einzelhandel
-1999-01-01,-21.3944,Einzelhandel
-1999-02-01,-22.6381,Einzelhandel
-1999-03-01,-24.45,Einzelhandel
-1999-04-01,-19.8753,Einzelhandel
-1999-05-01,-18.7161,Einzelhandel
-1999-06-01,-22.7775,Einzelhandel
-1999-07-01,-14.8597,Einzelhandel
-1999-08-01,-13.1007,Einzelhandel
-1999-09-01,-14.6136,Einzelhandel
-1999-10-01,-19.7719,Einzelhandel
-1999-11-01,-17.6603,Einzelhandel
-1999-12-01,-15.9447,Einzelhandel
-2000-01-01,-15.5332,Einzelhandel
-2000-02-01,-16.3641,Einzelhandel
-2000-03-01,-12.6191,Einzelhandel
-2000-04-01,-13.8473,Einzelhandel
-2000-05-01,-14.496,Einzelhandel
-2000-06-01,-13.4827,Einzelhandel
-2000-07-01,-10.0828,Einzelhandel
-2000-08-01,-16.5934,Einzelhandel
-2000-09-01,-19.4659,Einzelhandel
-2000-10-01,-15.4717,Einzelhandel
-2000-11-01,-16.725,Einzelhandel
-2000-12-01,-17.1526,Einzelhandel
-2001-01-01,-19.1481,Einzelhandel
-2001-02-01,-17.6032,Einzelhandel
-2001-03-01,-15.6125,Einzelhandel
-2001-04-01,-16.4579,Einzelhandel
-2001-05-01,3.1095,Einzelhandel
-2001-06-01,1.907,Einzelhandel
-2001-07-01,1.4842,Einzelhandel
-2001-08-01,3.3852,Einzelhandel
-2001-09-01,2.9761,Einzelhandel
-2001-10-01,7.1811,Einzelhandel
-2001-11-01,10.8071,Einzelhandel
-2001-12-01,10.2267,Einzelhandel
-2002-01-01,1.8658,Einzelhandel
-2002-02-01,5.5777,Einzelhandel
-2002-03-01,9.2933,Einzelhandel
-2002-04-01,9.2276,Einzelhandel
-2002-05-01,2.0879,Einzelhandel
-2002-06-01,4.269,Einzelhandel
-2002-07-01,1.517,Einzelhandel
-2002-08-01,1.4606,Einzelhandel
-2002-09-01,-0.844,Einzelhandel
-2002-10-01,4.7963,Einzelhandel
-2002-11-01,5.0814,Einzelhandel
-2002-12-01,5.435,Einzelhandel
-2003-01-01,1.681,Einzelhandel
-2003-02-01,2.2911,Einzelhandel
-2003-03-01,3.0904,Einzelhandel
-2003-04-01,4.8201,Einzelhandel
-2003-05-01,-12.9422,Einzelhandel
-2003-06-01,-7.0644,Einzelhandel
-2003-07-01,-8.3174,Einzelhandel
-2003-08-01,-9.6325,Einzelhandel
-2003-09-01,-6.5332,Einzelhandel
-2003-10-01,-5.191,Einzelhandel
-2003-11-01,-2.4171,Einzelhandel
-2003-12-01,-5.6102,Einzelhandel
-2004-01-01,-6.3375,Einzelhandel
-2004-02-01,-4.6865,Einzelhandel
-2004-03-01,-2.2723,Einzelhandel
-2004-04-01,2.857,Einzelhandel
-2004-05-01,1.8596,Einzelhandel
-2004-06-01,-3.4724,Einzelhandel
-2004-07-01,-2.7892,Einzelhandel
-2004-08-01,-3.8451,Einzelhandel
-2004-09-01,-2.0628,Einzelhandel
-2004-10-01,-4.285,Einzelhandel
-2004-11-01,-7.8176,Einzelhandel
-2004-12-01,-2.7584,Einzelhandel
-2005-01-01,-2.052,Einzelhandel
-2005-02-01,-4.3675,Einzelhandel
-2005-03-01,-3.8378,Einzelhandel
-2005-04-01,-2.43,Einzelhandel
-2005-05-01,-3.8756,Einzelhandel
-2005-06-01,-4.0713,Einzelhandel
-2005-07-01,-0.028,Einzelhandel
-2005-08-01,-1.6713,Einzelhandel
-2005-09-01,2.722,Einzelhandel
-2005-10-01,-0.9854,Einzelhandel
-2005-11-01,-2.1169,Einzelhandel
-2005-12-01,0.1876,Einzelhandel
-2006-01-01,0.6515,Einzelhandel
-2006-02-01,5.6109,Einzelhandel
-2006-03-01,4.6889,Einzelhandel
-2006-04-01,4.4583,Einzelhandel
-2006-05-01,4.2907,Einzelhandel
-2006-06-01,3.1502,Einzelhandel
-2006-07-01,1.8158,Einzelhandel
-2006-08-01,3.553,Einzelhandel
-2006-09-01,4.3655,Einzelhandel
-2006-10-01,4.3987,Einzelhandel
-2006-11-01,4.672,Einzelhandel
-2006-12-01,3.578,Einzelhandel
-2007-01-01,2.4865,Einzelhandel
-2007-02-01,6.0457,Einzelhandel
-2007-03-01,7.4992,Einzelhandel
-2007-04-01,7.8696,Einzelhandel
-2007-05-01,10.1945,Einzelhandel
-2007-06-01,5.4589,Einzelhandel
-2007-07-01,7.5491,Einzelhandel
-2007-08-01,9.4723,Einzelhandel
-2007-09-01,6.3503,Einzelhandel
-2007-10-01,5.5883,Einzelhandel
-2007-11-01,5.034,Einzelhandel
-2007-12-01,4.8039,Einzelhandel
-2008-01-01,4.9952,Einzelhandel
-2008-02-01,5.7187,Einzelhandel
-2008-03-01,3.7439,Einzelhandel
-2008-04-01,0.7186,Einzelhandel
-2008-05-01,-1.3697,Einzelhandel
-2008-06-01,1.7326,Einzelhandel
-2008-07-01,-3.9327,Einzelhandel
-2008-08-01,-1.353,Einzelhandel
-2008-09-01,-4.9293,Einzelhandel
-2008-10-01,-3.6871,Einzelhandel
-2008-11-01,-5.5336,Einzelhandel
-2008-12-01,-8.221,Einzelhandel
-2009-01-01,-4.2763,Einzelhandel
-2009-02-01,-10.8366,Einzelhandel
-2009-03-01,-14.9347,Einzelhandel
-2009-04-01,-11.9082,Einzelhandel
-2009-05-01,-4.3264,Einzelhandel
-2009-06-01,-3.4477,Einzelhandel
-2009-07-01,-5.1875,Einzelhandel
-2009-08-01,-3.8487,Einzelhandel
-2009-09-01,-1.9623,Einzelhandel
-2009-10-01,1.1725,Einzelhandel
-2009-11-01,1.6304,Einzelhandel
-2009-12-01,2.3629,Einzelhandel
-2010-01-01,2.791,Einzelhandel
-2010-02-01,0.6655,Einzelhandel
-2010-03-01,2.3884,Einzelhandel
-2010-04-01,8.2773,Einzelhandel
-2010-05-01,4.9245,Einzelhandel
-2010-06-01,2.0877,Einzelhandel
-2010-07-01,4.726,Einzelhandel
-2010-08-01,4.1714,Einzelhandel
-2010-09-01,4.6846,Einzelhandel
-2010-10-01,6.3097,Einzelhandel
-2010-11-01,5.7799,Einzelhandel
-2010-12-01,8.6215,Einzelhandel
-2011-01-01,6.0774,Einzelhandel
-2011-02-01,5.7833,Einzelhandel
-2011-03-01,5.4199,Einzelhandel
-2011-04-01,1.2677,Einzelhandel
-2011-05-01,0.6886,Einzelhandel
-2011-06-01,3.4988,Einzelhandel
-2011-07-01,3.7253,Einzelhandel
-2011-08-01,-1.3166,Einzelhandel
-2011-09-01,-1.1447,Einzelhandel
-2011-10-01,-3.4452,Einzelhandel
-2011-11-01,-2.9728,Einzelhandel
-2011-12-01,-2.4521,Einzelhandel
-2012-01-01,-2.4841,Einzelhandel
-2012-02-01,0.8965,Einzelhandel
-2012-03-01,0.9283,Einzelhandel
-2012-04-01,2.8145,Einzelhandel
-2012-05-01,0.86240000000000006,Einzelhandel
-2012-06-01,0.5596,Einzelhandel
-2012-07-01,1.1894,Einzelhandel
-2012-08-01,-0.419,Einzelhandel
-2012-09-01,-1.0529,Einzelhandel
-2012-10-01,-2.2755,Einzelhandel
-2012-11-01,0.6215,Einzelhandel
-2012-12-01,-3.981,Einzelhandel
-2013-01-01,-4.0798,Einzelhandel
-2013-02-01,-1.5224,Einzelhandel
-2013-03-01,-4.7051,Einzelhandel
-2013-04-01,-4.4435,Einzelhandel
-2013-05-01,-2.9104,Einzelhandel
-2013-06-01,-1.633,Einzelhandel
-2013-07-01,-4.0818,Einzelhandel
-2013-08-01,-0.7891,Einzelhandel
-2013-09-01,-0.4915,Einzelhandel
-2013-10-01,0.1699,Einzelhandel
-2013-11-01,-0.5579,Einzelhandel
-2013-12-01,0.458,Einzelhandel
-2014-01-01,0.7612,Einzelhandel
-2014-02-01,-1.5763,Einzelhandel
-2014-03-01,2.9823,Einzelhandel
-2014-04-01,-1.099,Einzelhandel
-2014-05-01,1.9745,Einzelhandel
-2014-06-01,0.4297,Einzelhandel
-2014-07-01,-0.8067,Einzelhandel
-2014-08-01,0.8845,Einzelhandel
-2014-09-01,-0.8553,Einzelhandel
-2014-10-01,-0.3795,Einzelhandel
-2014-11-01,0.1788,Einzelhandel
-2014-12-01,-4.3149,Einzelhandel
-2015-01-01,-1.1907,Einzelhandel
-2015-02-01,-1.1272,Einzelhandel
-2015-03-01,-3.7663,Einzelhandel
-2015-04-01,-3.0663,Einzelhandel
-2015-05-01,-2.4458,Einzelhandel
-2015-06-01,-3.1355,Einzelhandel
-2015-07-01,-3.0015,Einzelhandel
-2015-08-01,-1.1819,Einzelhandel
-2015-09-01,-3.6672,Einzelhandel
-2015-10-01,-2.8713,Einzelhandel
-2015-11-01,-2.761,Einzelhandel
-2015-12-01,1.1687,Einzelhandel
-2016-01-01,-2.2699,Einzelhandel
-2016-02-01,-2.2867,Einzelhandel
-2016-03-01,0.9539,Einzelhandel
-2016-04-01,1.1061,Einzelhandel
-2016-05-01,-0.2917,Einzelhandel
-2016-06-01,0.2991,Einzelhandel
-2016-07-01,-0.0553,Einzelhandel
-2016-08-01,1.1995,Einzelhandel
-2016-09-01,2.6924,Einzelhandel
-2016-10-01,0.5208,Einzelhandel
-2016-11-01,2.8975,Einzelhandel
-2016-12-01,3.7194,Einzelhandel
-2017-01-01,1.2073,Einzelhandel
-2017-02-01,2.5218,Einzelhandel
-2017-03-01,1.4105,Einzelhandel
-2017-04-01,2.3366,Einzelhandel
-2017-05-01,-1.0035,Einzelhandel
-2017-06-01,4.7027,Einzelhandel
-2017-07-01,3.8551,Einzelhandel
-2017-08-01,3.3533,Einzelhandel
-2017-09-01,2.3297,Einzelhandel
-2017-10-01,2.965,Einzelhandel
-2017-11-01,0.6505,Einzelhandel
-2017-12-01,3.6761,Einzelhandel
-2018-01-01,2.8213,Einzelhandel
-2018-02-01,2.1655,Einzelhandel
-2018-03-01,0.4524,Einzelhandel
-2018-04-01,1.0479,Einzelhandel
-2018-05-01,1.6491,Einzelhandel
-2018-06-01,0.8855,Einzelhandel
-2018-07-01,1.1059,Einzelhandel
-2018-08-01,-0.6361,Einzelhandel
-2018-09-01,0.1469,Einzelhandel
-2018-10-01,-2.0547,Einzelhandel
-2018-11-01,-0.1133,Einzelhandel
-2018-12-01,-1.2388,Einzelhandel
-2019-01-01,-0.3657,Einzelhandel
-2019-02-01,-0.253,Einzelhandel
-2019-03-01,-0.2691,Einzelhandel
-2019-04-01,-0.2551,Einzelhandel
-2019-05-01,-0.2057,Einzelhandel
-2019-06-01,0.032,Einzelhandel
-2019-07-01,-2.8862,Einzelhandel
-2019-08-01,-1.2431,Einzelhandel
-2019-09-01,0.2702,Einzelhandel
-2019-10-01,1.1072,Einzelhandel
-2019-11-01,-0.0317,Einzelhandel
-2019-12-01,-0.398,Einzelhandel
-2020-01-01,-0.0692,Einzelhandel
-2020-02-01,0.2655,Einzelhandel
-2020-03-01,-4.397,Einzelhandel
-2020-04-01,-24.0744,Einzelhandel
-2020-05-01,-16.8531,Einzelhandel
-2020-06-01,-13.1263,Einzelhandel
-2020-07-01,-7.0083,Einzelhandel
-2020-08-01,-1.6776,Einzelhandel
-2020-09-01,-1.9384,Einzelhandel
-2020-10-01,-1.2668,Einzelhandel
-2020-11-01,-8.0149,Einzelhandel
-2020-12-01,-8.816,Einzelhandel
-2021-01-01,-15.1932,Einzelhandel
-2021-02-01,-13.2061,Einzelhandel
-2021-03-01,-7.6946,Einzelhandel
-2021-04-01,-2.5563,Einzelhandel
-2021-05-01,-2.8571,Einzelhandel
-2021-06-01,1.7036,Einzelhandel
-2021-07-01,1.5683,Einzelhandel
-2021-08-01,-1.2864,Einzelhandel
-2021-09-01,-0.7335,Einzelhandel
-2021-10-01,-3.707,Einzelhandel
-2021-11-01,-4.3414,Einzelhandel
-2021-12-01,-13.276,Einzelhandel
-2022-01-01,-4.8347,Einzelhandel
-2022-02-01,-6.2763,Einzelhandel
-2022-03-01,-12.1138,Einzelhandel
-2022-04-01,-5.2192,Einzelhandel
-2022-05-01,-4.5251,Einzelhandel
-2022-06-01,-9.1196,Einzelhandel
-2022-07-01,-13.193,Einzelhandel
-2022-08-01,-14.9619,Einzelhandel
-2022-09-01,-17.3662,Einzelhandel
-2022-10-01,-14.1023,Einzelhandel
-2022-11-01,-13.0014,Einzelhandel
-2022-12-01,-9.9122,Einzelhandel
-2023-01-01,-8.0375,Einzelhandel
-2023-02-01,-7.8028,Einzelhandel
-2023-03-01,-7.3653,Einzelhandel
-2023-04-01,-1.8756,Einzelhandel
-2023-05-01,-9.2057,Einzelhandel
-2023-06-01,-10.7676,Einzelhandel
-2023-07-01,-11.8098,Einzelhandel
-2023-08-01,-14.7957,Einzelhandel
-2023-09-01,-16.8146,Einzelhandel
-2023-10-01,-15.2615,Einzelhandel
-2023-11-01,-13.2664,Einzelhandel
-2023-12-01,-10.3397,Einzelhandel
-2024-01-01,-10.1305,Einzelhandel
-2024-02-01,-10.9257,Einzelhandel
-1996-01-01,NA,Dienstleistungen
-1996-02-01,NA,Dienstleistungen
-1996-03-01,NA,Dienstleistungen
-1996-04-01,NA,Dienstleistungen
-1996-05-01,NA,Dienstleistungen
-1996-06-01,NA,Dienstleistungen
-1996-07-01,NA,Dienstleistungen
-1996-08-01,NA,Dienstleistungen
-1996-09-01,NA,Dienstleistungen
-1996-10-01,NA,Dienstleistungen
-1996-11-01,NA,Dienstleistungen
-1996-12-01,NA,Dienstleistungen
-1997-01-01,9.2609,Dienstleistungen
-1997-02-01,14.0815,Dienstleistungen
-1997-03-01,15.0075,Dienstleistungen
-1997-04-01,13.43,Dienstleistungen
-1997-05-01,15.0144,Dienstleistungen
-1997-06-01,15.9694,Dienstleistungen
-1997-07-01,11.5643,Dienstleistungen
-1997-08-01,14.7047,Dienstleistungen
-1997-09-01,17.9407,Dienstleistungen
-1997-10-01,15.1877,Dienstleistungen
-1997-11-01,19.3809,Dienstleistungen
-1997-12-01,22.4898,Dienstleistungen
-1998-01-01,19.7109,Dienstleistungen
-1998-02-01,24.0387,Dienstleistungen
-1998-03-01,21.9851,Dienstleistungen
-1998-04-01,16.0449,Dienstleistungen
-1998-05-01,18.5373,Dienstleistungen
-1998-06-01,26.2277,Dienstleistungen
-1998-07-01,26.0531,Dienstleistungen
-1998-08-01,22.7363,Dienstleistungen
-1998-09-01,25.163,Dienstleistungen
-1998-10-01,19.7889,Dienstleistungen
-1998-11-01,20.5333,Dienstleistungen
-1998-12-01,18.633,Dienstleistungen
-1999-01-01,21.6181,Dienstleistungen
-1999-02-01,16.5945,Dienstleistungen
-1999-03-01,15.9802,Dienstleistungen
-1999-04-01,19.4758,Dienstleistungen
-1999-05-01,16.9831,Dienstleistungen
-1999-06-01,12.5146,Dienstleistungen
-1999-07-01,17.4259,Dienstleistungen
-1999-08-01,17.4155,Dienstleistungen
-1999-09-01,16.0327,Dienstleistungen
-1999-10-01,23.5177,Dienstleistungen
-1999-11-01,17.9662,Dienstleistungen
-1999-12-01,17.4058,Dienstleistungen
-2000-01-01,19.7582,Dienstleistungen
-2000-02-01,14.3317,Dienstleistungen
-2000-03-01,18.6935,Dienstleistungen
-2000-04-01,26.3792,Dienstleistungen
-2000-05-01,24.2851,Dienstleistungen
-2000-06-01,21.8884,Dienstleistungen
-2000-07-01,23.0891,Dienstleistungen
-2000-08-01,24.5329,Dienstleistungen
-2000-09-01,19.1453,Dienstleistungen
-2000-10-01,21.516,Dienstleistungen
-2000-11-01,22.2992,Dienstleistungen
-2000-12-01,21.3963,Dienstleistungen
-2001-01-01,18.5932,Dienstleistungen
-2001-02-01,18.7919,Dienstleistungen
-2001-03-01,17.8586,Dienstleistungen
-2001-04-01,17.6668,Dienstleistungen
-2001-05-01,18.2236,Dienstleistungen
-2001-06-01,11.0713,Dienstleistungen
-2001-07-01,7.5578,Dienstleistungen
-2001-08-01,5.8265,Dienstleistungen
-2001-09-01,3.1574,Dienstleistungen
-2001-10-01,-0.762,Dienstleistungen
-2001-11-01,-0.6544,Dienstleistungen
-2001-12-01,-1.7647,Dienstleistungen
-2002-01-01,-0.1301,Dienstleistungen
-2002-02-01,3.8229,Dienstleistungen
-2002-03-01,5.0467,Dienstleistungen
-2002-04-01,5.5931,Dienstleistungen
-2002-05-01,6.277,Dienstleistungen
-2002-06-01,5.7351,Dienstleistungen
-2002-07-01,3.009,Dienstleistungen
-2002-08-01,1.3503,Dienstleistungen
-2002-09-01,1.9619,Dienstleistungen
-2002-10-01,5.511,Dienstleistungen
-2002-11-01,5.262,Dienstleistungen
-2002-12-01,6.2531,Dienstleistungen
-2003-01-01,5.4605,Dienstleistungen
-2003-02-01,5.3875,Dienstleistungen
-2003-03-01,1.693,Dienstleistungen
-2003-04-01,4.262,Dienstleistungen
-2003-05-01,1.4899,Dienstleistungen
-2003-06-01,4.5768,Dienstleistungen
-2003-07-01,7.5315,Dienstleistungen
-2003-08-01,6.828,Dienstleistungen
-2003-09-01,9.6778,Dienstleistungen
-2003-10-01,11.6042,Dienstleistungen
-2003-11-01,10.2189,Dienstleistungen
-2003-12-01,10.4981,Dienstleistungen
-2004-01-01,9.9901,Dienstleistungen
-2004-02-01,9.0258,Dienstleistungen
-2004-03-01,11.4445,Dienstleistungen
-2004-04-01,12.3478,Dienstleistungen
-2004-05-01,11.4807,Dienstleistungen
-2004-06-01,13.0865,Dienstleistungen
-2004-07-01,12.9462,Dienstleistungen
-2004-08-01,14.421,Dienstleistungen
-2004-09-01,14.3011,Dienstleistungen
-2004-10-01,13.7548,Dienstleistungen
-2004-11-01,11.9199,Dienstleistungen
-2004-12-01,13.4244,Dienstleistungen
-2005-01-01,10.4001,Dienstleistungen
-2005-02-01,9.5282,Dienstleistungen
-2005-03-01,7.4499,Dienstleistungen
-2005-04-01,10.5948,Dienstleistungen
-2005-05-01,7.7024,Dienstleistungen
-2005-06-01,5.3338,Dienstleistungen
-2005-07-01,7.8409,Dienstleistungen
-2005-08-01,6.3159,Dienstleistungen
-2005-09-01,6.6653,Dienstleistungen
-2005-10-01,6.8172,Dienstleistungen
-2005-11-01,8.1493,Dienstleistungen
-2005-12-01,10.2203,Dienstleistungen
-2006-01-01,12.1477,Dienstleistungen
-2006-02-01,11.4542,Dienstleistungen
-2006-03-01,10.4068,Dienstleistungen
-2006-04-01,11.9973,Dienstleistungen
-2006-05-01,14.9513,Dienstleistungen
-2006-06-01,17.28,Dienstleistungen
-2006-07-01,17.8194,Dienstleistungen
-2006-08-01,16.7578,Dienstleistungen
-2006-09-01,18.6469,Dienstleistungen
-2006-10-01,16.8798,Dienstleistungen
-2006-11-01,19.2202,Dienstleistungen
-2006-12-01,19.8087,Dienstleistungen
-2007-01-01,19.9734,Dienstleistungen
-2007-02-01,17.0804,Dienstleistungen
-2007-03-01,18.5421,Dienstleistungen
-2007-04-01,20.8706,Dienstleistungen
-2007-05-01,20.7401,Dienstleistungen
-2007-06-01,20.6416,Dienstleistungen
-2007-07-01,19.789,Dienstleistungen
-2007-08-01,19.5217,Dienstleistungen
-2007-09-01,18.9275,Dienstleistungen
-2007-10-01,19.0704,Dienstleistungen
-2007-11-01,16.5951,Dienstleistungen
-2007-12-01,16.3699,Dienstleistungen
-2008-01-01,15.5113,Dienstleistungen
-2008-02-01,14.3323,Dienstleistungen
-2008-03-01,15.0462,Dienstleistungen
-2008-04-01,13.506,Dienstleistungen
-2008-05-01,12.6279,Dienstleistungen
-2008-06-01,13.8706,Dienstleistungen
-2008-07-01,7.6644,Dienstleistungen
-2008-08-01,8.9577,Dienstleistungen
-2008-09-01,9.5037,Dienstleistungen
-2008-10-01,3.9006,Dienstleistungen
-2008-11-01,-4.7659,Dienstleistungen
-2008-12-01,-8.2493,Dienstleistungen
-2009-01-01,-8.5342,Dienstleistungen
-2009-02-01,-13.8909,Dienstleistungen
-2009-03-01,-17.325,Dienstleistungen
-2009-04-01,-19.0181,Dienstleistungen
-2009-05-01,-19.0489,Dienstleistungen
-2009-06-01,-19.1365,Dienstleistungen
-2009-07-01,-16.9551,Dienstleistungen
-2009-08-01,-11.6803,Dienstleistungen
-2009-09-01,-8.9327,Dienstleistungen
-2009-10-01,-1.5042,Dienstleistungen
-2009-11-01,-0.1729,Dienstleistungen
-2009-12-01,-1.6342,Dienstleistungen
-2010-01-01,-0.1461,Dienstleistungen
-2010-02-01,0.9419,Dienstleistungen
-2010-03-01,2.9706,Dienstleistungen
-2010-04-01,7.8564,Dienstleistungen
-2010-05-01,6.8955,Dienstleistungen
-2010-06-01,6.1102,Dienstleistungen
-2010-07-01,8.9864,Dienstleistungen
-2010-08-01,10.7844,Dienstleistungen
-2010-09-01,10.963,Dienstleistungen
-2010-10-01,9.7969,Dienstleistungen
-2010-11-01,11.6486,Dienstleistungen
-2010-12-01,12.9881,Dienstleistungen
-2011-01-01,15.5636,Dienstleistungen
-2011-02-01,18.2006,Dienstleistungen
-2011-03-01,16.0459,Dienstleistungen
-2011-04-01,16.3669,Dienstleistungen
-2011-05-01,15.8358,Dienstleistungen
-2011-06-01,13.9393,Dienstleistungen
-2011-07-01,15.6783,Dienstleistungen
-2011-08-01,11.4359,Dienstleistungen
-2011-09-01,8.7588,Dienstleistungen
-2011-10-01,8.6789,Dienstleistungen
-2011-11-01,7.4269,Dienstleistungen
-2011-12-01,7.7619,Dienstleistungen
-2012-01-01,7.8432,Dienstleistungen
-2012-02-01,7.771,Dienstleistungen
-2012-03-01,10.4538,Dienstleistungen
-2012-04-01,8.7034,Dienstleistungen
-2012-05-01,7.1599,Dienstleistungen
-2012-06-01,5.6751,Dienstleistungen
-2012-07-01,7.2987,Dienstleistungen
-2012-08-01,3.742,Dienstleistungen
-2012-09-01,2.6609,Dienstleistungen
-2012-10-01,4.2935,Dienstleistungen
-2012-11-01,4.4806,Dienstleistungen
-2012-12-01,4.566,Dienstleistungen
-2013-01-01,6.8798,Dienstleistungen
-2013-02-01,7.5361,Dienstleistungen
-2013-03-01,8.6526,Dienstleistungen
-2013-04-01,5.2517,Dienstleistungen
-2013-05-01,4.5365,Dienstleistungen
-2013-06-01,4.8567,Dienstleistungen
-2013-07-01,4.4938,Dienstleistungen
-2013-08-01,7.1635,Dienstleistungen
-2013-09-01,7.3624,Dienstleistungen
-2013-10-01,8.4448,Dienstleistungen
-2013-11-01,8.7872,Dienstleistungen
-2013-12-01,8.3877,Dienstleistungen
-2014-01-01,7.3456,Dienstleistungen
-2014-02-01,7.6631,Dienstleistungen
-2014-03-01,5.9716,Dienstleistungen
-2014-04-01,6.922,Dienstleistungen
-2014-05-01,7.1244,Dienstleistungen
-2014-06-01,6.1802,Dienstleistungen
-2014-07-01,5.0067,Dienstleistungen
-2014-08-01,3.9503,Dienstleistungen
-2014-09-01,2.0678,Dienstleistungen
-2014-10-01,4.8756,Dienstleistungen
-2014-11-01,2.55,Dienstleistungen
-2014-12-01,4.8625,Dienstleistungen
-2015-01-01,2.1842,Dienstleistungen
-2015-02-01,1.3014,Dienstleistungen
-2015-03-01,2.2751,Dienstleistungen
-2015-04-01,3.0316,Dienstleistungen
-2015-05-01,3.4435,Dienstleistungen
-2015-06-01,4.9577,Dienstleistungen
-2015-07-01,2.6145,Dienstleistungen
-2015-08-01,6.3414,Dienstleistungen
-2015-09-01,5.6183,Dienstleistungen
-2015-10-01,5.6832,Dienstleistungen
-2015-11-01,9.7238,Dienstleistungen
-2015-12-01,8.4152,Dienstleistungen
-2016-01-01,6.1929,Dienstleistungen
-2016-02-01,6.7792,Dienstleistungen
-2016-03-01,6.0946,Dienstleistungen
-2016-04-01,5.2324,Dienstleistungen
-2016-05-01,8.4587,Dienstleistungen
-2016-06-01,8.6785,Dienstleistungen
-2016-07-01,9.398,Dienstleistungen
-2016-08-01,9.0829,Dienstleistungen
-2016-09-01,10.046,Dienstleistungen
-2016-10-01,10.1324,Dienstleistungen
-2016-11-01,14.0006,Dienstleistungen
-2016-12-01,15.4065,Dienstleistungen
-2017-01-01,13.5749,Dienstleistungen
-2017-02-01,16.2619,Dienstleistungen
-2017-03-01,16.3297,Dienstleistungen
-2017-04-01,19.0662,Dienstleistungen
-2017-05-01,19.0544,Dienstleistungen
-2017-06-01,20.671,Dienstleistungen
-2017-07-01,21.8919,Dienstleistungen
-2017-08-01,19.3974,Dienstleistungen
-2017-09-01,20.4589,Dienstleistungen
-2017-10-01,22.1816,Dienstleistungen
-2017-11-01,21.6176,Dienstleistungen
-2017-12-01,24.2274,Dienstleistungen
-2018-01-01,25.037,Dienstleistungen
-2018-02-01,25.8409,Dienstleistungen
-2018-03-01,23.9476,Dienstleistungen
-2018-04-01,21.2231,Dienstleistungen
-2018-05-01,22.3253,Dienstleistungen
-2018-06-01,21.1618,Dienstleistungen
-2018-07-01,21.9915,Dienstleistungen
-2018-08-01,20.5236,Dienstleistungen
-2018-09-01,22.9886,Dienstleistungen
-2018-10-01,21.0547,Dienstleistungen
-2018-11-01,18.6562,Dienstleistungen
-2018-12-01,18.9377,Dienstleistungen
-2019-01-01,19.666,Dienstleistungen
-2019-02-01,18.0199,Dienstleistungen
-2019-03-01,16.9695,Dienstleistungen
-2019-04-01,17.8299,Dienstleistungen
-2019-05-01,15.5928,Dienstleistungen
-2019-06-01,14.9409,Dienstleistungen
-2019-07-01,16.7552,Dienstleistungen
-2019-08-01,14.6808,Dienstleistungen
-2019-09-01,15.0018,Dienstleistungen
-2019-10-01,15.6218,Dienstleistungen
-2019-11-01,14.5471,Dienstleistungen
-2019-12-01,13.1598,Dienstleistungen
-2020-01-01,17.7859,Dienstleistungen
-2020-02-01,15.7823,Dienstleistungen
-2020-03-01,4.2823,Dienstleistungen
-2020-04-01,-40.0335,Dienstleistungen
-2020-05-01,-31.4626,Dienstleistungen
-2020-06-01,-23.3584,Dienstleistungen
-2020-07-01,-16.5008,Dienstleistungen
-2020-08-01,-11.3827,Dienstleistungen
-2020-09-01,-10.9265,Dienstleistungen
-2020-10-01,-13.7714,Dienstleistungen
-2020-11-01,-21.4309,Dienstleistungen
-2020-12-01,-20.7919,Dienstleistungen
-2021-01-01,-20.4306,Dienstleistungen
-2021-02-01,-19.7082,Dienstleistungen
-2021-03-01,-11.749,Dienstleistungen
-2021-04-01,5.3849,Dienstleistungen
-2021-05-01,13.9649,Dienstleistungen
-2021-06-01,18.7973,Dienstleistungen
-2021-07-01,19.969,Dienstleistungen
-2021-08-01,16.6152,Dienstleistungen
-2021-09-01,14.8782,Dienstleistungen
-2021-10-01,19.4931,Dienstleistungen
-2021-11-01,17.2265,Dienstleistungen
-2021-12-01,5.7282,Dienstleistungen
-2022-01-01,9.1981,Dienstleistungen
-2022-02-01,13.92,Dienstleistungen
-2022-03-01,19.9146,Dienstleistungen
-2022-04-01,27.9889,Dienstleistungen
-2022-05-01,22.9786,Dienstleistungen
-2022-06-01,18.8591,Dienstleistungen
-2022-07-01,12.2255,Dienstleistungen
-2022-08-01,10.7611,Dienstleistungen
-2022-09-01,6.1057,Dienstleistungen
-2022-10-01,3.869,Dienstleistungen
-2022-11-01,6.6711,Dienstleistungen
-2022-12-01,9.0278,Dienstleistungen
-2023-01-01,10.3778,Dienstleistungen
-2023-02-01,8.7377,Dienstleistungen
-2023-03-01,8.7589,Dienstleistungen
-2023-04-01,18.8515,Dienstleistungen
-2023-05-01,11.6148,Dienstleistungen
-2023-06-01,5.7352,Dienstleistungen
-2023-07-01,-0.49370000000000003,Dienstleistungen
-2023-08-01,-3.6614,Dienstleistungen
-2023-09-01,-1.6571,Dienstleistungen
-2023-10-01,-0.0843,Dienstleistungen
-2023-11-01,0.215,Dienstleistungen
-2023-12-01,3.2258,Dienstleistungen
-2024-01-01,0.5193,Dienstleistungen
-2024-02-01,-2.9128,Dienstleistungen
-1996-01-01,NA,Beherbergung und Gastronomie
-1996-02-01,NA,Beherbergung und Gastronomie
-1996-03-01,NA,Beherbergung und Gastronomie
-1996-04-01,NA,Beherbergung und Gastronomie
-1996-05-01,NA,Beherbergung und Gastronomie
-1996-06-01,NA,Beherbergung und Gastronomie
-1996-07-01,NA,Beherbergung und Gastronomie
-1996-08-01,NA,Beherbergung und Gastronomie
-1996-09-01,NA,Beherbergung und Gastronomie
-1996-10-01,NA,Beherbergung und Gastronomie
-1996-11-01,NA,Beherbergung und Gastronomie
-1996-12-01,NA,Beherbergung und Gastronomie
-1997-01-01,NA,Beherbergung und Gastronomie
-1997-02-01,NA,Beherbergung und Gastronomie
-1997-03-01,NA,Beherbergung und Gastronomie
-1997-04-01,NA,Beherbergung und Gastronomie
-1997-05-01,NA,Beherbergung und Gastronomie
-1997-06-01,NA,Beherbergung und Gastronomie
-1997-07-01,NA,Beherbergung und Gastronomie
-1997-08-01,NA,Beherbergung und Gastronomie
-1997-09-01,NA,Beherbergung und Gastronomie
-1997-10-01,NA,Beherbergung und Gastronomie
-1997-11-01,NA,Beherbergung und Gastronomie
-1997-12-01,NA,Beherbergung und Gastronomie
-1998-01-01,NA,Beherbergung und Gastronomie
-1998-02-01,NA,Beherbergung und Gastronomie
-1998-03-01,NA,Beherbergung und Gastronomie
-1998-04-01,NA,Beherbergung und Gastronomie
-1998-05-01,NA,Beherbergung und Gastronomie
-1998-06-01,NA,Beherbergung und Gastronomie
-1998-07-01,NA,Beherbergung und Gastronomie
-1998-08-01,NA,Beherbergung und Gastronomie
-1998-09-01,NA,Beherbergung und Gastronomie
-1998-10-01,NA,Beherbergung und Gastronomie
-1998-11-01,NA,Beherbergung und Gastronomie
-1998-12-01,NA,Beherbergung und Gastronomie
-1999-01-01,NA,Beherbergung und Gastronomie
-1999-02-01,NA,Beherbergung und Gastronomie
-1999-03-01,NA,Beherbergung und Gastronomie
-1999-04-01,NA,Beherbergung und Gastronomie
-1999-05-01,NA,Beherbergung und Gastronomie
-1999-06-01,NA,Beherbergung und Gastronomie
-1999-07-01,NA,Beherbergung und Gastronomie
-1999-08-01,NA,Beherbergung und Gastronomie
-1999-09-01,NA,Beherbergung und Gastronomie
-1999-10-01,NA,Beherbergung und Gastronomie
-1999-11-01,NA,Beherbergung und Gastronomie
-1999-12-01,NA,Beherbergung und Gastronomie
-2000-01-01,NA,Beherbergung und Gastronomie
-2000-02-01,NA,Beherbergung und Gastronomie
-2000-03-01,NA,Beherbergung und Gastronomie
-2000-04-01,NA,Beherbergung und Gastronomie
-2000-05-01,NA,Beherbergung und Gastronomie
-2000-06-01,NA,Beherbergung und Gastronomie
-2000-07-01,NA,Beherbergung und Gastronomie
-2000-08-01,NA,Beherbergung und Gastronomie
-2000-09-01,NA,Beherbergung und Gastronomie
-2000-10-01,NA,Beherbergung und Gastronomie
-2000-11-01,NA,Beherbergung und Gastronomie
-2000-12-01,NA,Beherbergung und Gastronomie
-2001-01-01,NA,Beherbergung und Gastronomie
-2001-02-01,NA,Beherbergung und Gastronomie
-2001-03-01,NA,Beherbergung und Gastronomie
-2001-04-01,9.1676,Beherbergung und Gastronomie
-2001-05-01,8.129,Beherbergung und Gastronomie
-2001-06-01,6.5575,Beherbergung und Gastronomie
-2001-07-01,3.7311,Beherbergung und Gastronomie
-2001-08-01,3.279,Beherbergung und Gastronomie
-2001-09-01,3.7755,Beherbergung und Gastronomie
-2001-10-01,-1.0741,Beherbergung und Gastronomie
-2001-11-01,9.9824,Beherbergung und Gastronomie
-2001-12-01,-8.0109,Beherbergung und Gastronomie
-2002-01-01,2.0535,Beherbergung und Gastronomie
-2002-02-01,12.2613,Beherbergung und Gastronomie
-2002-03-01,7.9709,Beherbergung und Gastronomie
-2002-04-01,-3.6389,Beherbergung und Gastronomie
-2002-05-01,12.317,Beherbergung und Gastronomie
-2002-06-01,8.0789,Beherbergung und Gastronomie
-2002-07-01,-3.0251,Beherbergung und Gastronomie
-2002-08-01,1.9293,Beherbergung und Gastronomie
-2002-09-01,-2.0532,Beherbergung und Gastronomie
-2002-10-01,4.7824,Beherbergung und Gastronomie
-2002-11-01,-3.4003,Beherbergung und Gastronomie
-2002-12-01,8.1267,Beherbergung und Gastronomie
-2003-01-01,14.9604,Beherbergung und Gastronomie
-2003-02-01,1.2817,Beherbergung und Gastronomie
-2003-03-01,5.0731,Beherbergung und Gastronomie
-2003-04-01,10.008,Beherbergung und Gastronomie
-2003-05-01,-3.1305,Beherbergung und Gastronomie
-2003-06-01,0.649,Beherbergung und Gastronomie
-2003-07-01,14.9493,Beherbergung und Gastronomie
-2003-08-01,3.3196,Beherbergung und Gastronomie
-2003-09-01,13.6053,Beherbergung und Gastronomie
-2003-10-01,9.3313,Beherbergung und Gastronomie
-2003-11-01,5.834,Beherbergung und Gastronomie
-2003-12-01,10.2748,Beherbergung und Gastronomie
-2004-01-01,4.7455,Beherbergung und Gastronomie
-2004-02-01,7.2329,Beherbergung und Gastronomie
-2004-03-01,1.5125,Beherbergung und Gastronomie
-2004-04-01,5.5384,Beherbergung und Gastronomie
-2004-05-01,9.0525,Beherbergung und Gastronomie
-2004-06-01,13.9948,Beherbergung und Gastronomie
-2004-07-01,10.9178,Beherbergung und Gastronomie
-2004-08-01,17.0658,Beherbergung und Gastronomie
-2004-09-01,10.0906,Beherbergung und Gastronomie
-2004-10-01,9.5212,Beherbergung und Gastronomie
-2004-11-01,8.1582,Beherbergung und Gastronomie
-2004-12-01,14.0856,Beherbergung und Gastronomie
-2005-01-01,-2.6214,Beherbergung und Gastronomie
-2005-02-01,-1.3942,Beherbergung und Gastronomie
-2005-03-01,8.702,Beherbergung und Gastronomie
-2005-04-01,8.2492,Beherbergung und Gastronomie
-2005-05-01,-0.2259,Beherbergung und Gastronomie
-2005-06-01,-5.8358,Beherbergung und Gastronomie
-2005-07-01,-1.4896,Beherbergung und Gastronomie
-2005-08-01,10.7582,Beherbergung und Gastronomie
-2005-09-01,1.6517,Beherbergung und Gastronomie
-2005-10-01,10.8163,Beherbergung und Gastronomie
-2005-11-01,17.8518,Beherbergung und Gastronomie
-2005-12-01,10.4489,Beherbergung und Gastronomie
-2006-01-01,8.183,Beherbergung und Gastronomie
-2006-02-01,9.3194,Beherbergung und Gastronomie
-2006-03-01,7.2372,Beherbergung und Gastronomie
-2006-04-01,10.0625,Beherbergung und Gastronomie
-2006-05-01,11.7739,Beherbergung und Gastronomie
-2006-06-01,20.6383,Beherbergung und Gastronomie
-2006-07-01,31.0589,Beherbergung und Gastronomie
-2006-08-01,13.4489,Beherbergung und Gastronomie
-2006-09-01,22.9802,Beherbergung und Gastronomie
-2006-10-01,8.8633,Beherbergung und Gastronomie
-2006-11-01,23.4195,Beherbergung und Gastronomie
-2006-12-01,15.1106,Beherbergung und Gastronomie
-2007-01-01,25.1253,Beherbergung und Gastronomie
-2007-02-01,19.7629,Beherbergung und Gastronomie
-2007-03-01,15.1972,Beherbergung und Gastronomie
-2007-04-01,19.3259,Beherbergung und Gastronomie
-2007-05-01,25.3109,Beherbergung und Gastronomie
-2007-06-01,27.5462,Beherbergung und Gastronomie
-2007-07-01,26.1327,Beherbergung und Gastronomie
-2007-08-01,29.6965,Beherbergung und Gastronomie
-2007-09-01,27.074,Beherbergung und Gastronomie
-2007-10-01,23.9521,Beherbergung und Gastronomie
-2007-11-01,22.2393,Beherbergung und Gastronomie
-2007-12-01,24.4846,Beherbergung und Gastronomie
-2008-01-01,22.0613,Beherbergung und Gastronomie
-2008-02-01,23.0537,Beherbergung und Gastronomie
-2008-03-01,17.5665,Beherbergung und Gastronomie
-2008-04-01,15.4092,Beherbergung und Gastronomie
-2008-05-01,21.7899,Beherbergung und Gastronomie
-2008-06-01,15.025,Beherbergung und Gastronomie
-2008-07-01,6.5841,Beherbergung und Gastronomie
-2008-08-01,6.3121,Beherbergung und Gastronomie
-2008-09-01,8.6215,Beherbergung und Gastronomie
-2008-10-01,11.0467,Beherbergung und Gastronomie
-2008-11-01,-8.4358,Beherbergung und Gastronomie
-2008-12-01,-1.3014,Beherbergung und Gastronomie
-2009-01-01,-9.0802,Beherbergung und Gastronomie
-2009-02-01,-12.2157,Beherbergung und Gastronomie
-2009-03-01,-18.6063,Beherbergung und Gastronomie
-2009-04-01,-17.8874,Beherbergung und Gastronomie
-2009-05-01,-20.1795,Beherbergung und Gastronomie
-2009-06-01,-23.6929,Beherbergung und Gastronomie
-2009-07-01,-27.0372,Beherbergung und Gastronomie
-2009-08-01,-11.4087,Beherbergung und Gastronomie
-2009-09-01,-7.3855,Beherbergung und Gastronomie
-2009-10-01,3.3229,Beherbergung und Gastronomie
-2009-11-01,3.7724,Beherbergung und Gastronomie
-2009-12-01,-2.1365,Beherbergung und Gastronomie
-2010-01-01,-0.1708,Beherbergung und Gastronomie
-2010-02-01,-5.7132,Beherbergung und Gastronomie
-2010-03-01,-0.5629,Beherbergung und Gastronomie
-2010-04-01,9.1108,Beherbergung und Gastronomie
-2010-05-01,-1.3126,Beherbergung und Gastronomie
-2010-06-01,-0.3341,Beherbergung und Gastronomie
-2010-07-01,1.7884,Beherbergung und Gastronomie
-2010-08-01,12.3725,Beherbergung und Gastronomie
-2010-09-01,17.1843,Beherbergung und Gastronomie
-2010-10-01,13.9522,Beherbergung und Gastronomie
-2010-11-01,11.2694,Beherbergung und Gastronomie
-2010-12-01,12.5364,Beherbergung und Gastronomie
-2011-01-01,17.1609,Beherbergung und Gastronomie
-2011-02-01,11.6659,Beherbergung und Gastronomie
-2011-03-01,12.0951,Beherbergung und Gastronomie
-2011-04-01,15.5913,Beherbergung und Gastronomie
-2011-05-01,9.9032,Beherbergung und Gastronomie
-2011-06-01,8.81,Beherbergung und Gastronomie
-2011-07-01,18.8596,Beherbergung und Gastronomie
-2011-08-01,10.0641,Beherbergung und Gastronomie
-2011-09-01,14.3124,Beherbergung und Gastronomie
-2011-10-01,9.5865,Beherbergung und Gastronomie
-2011-11-01,6.0945,Beherbergung und Gastronomie
-2011-12-01,5.6772,Beherbergung und Gastronomie
-2012-01-01,8.453,Beherbergung und Gastronomie
-2012-02-01,4.3525,Beherbergung und Gastronomie
-2012-03-01,13.6049,Beherbergung und Gastronomie
-2012-04-01,9.4359,Beherbergung und Gastronomie
-2012-05-01,9.5277,Beherbergung und Gastronomie
-2012-06-01,7.8064,Beherbergung und Gastronomie
-2012-07-01,6.9628,Beherbergung und Gastronomie
-2012-08-01,1.223,Beherbergung und Gastronomie
-2012-09-01,-0.303,Beherbergung und Gastronomie
-2012-10-01,2.0622,Beherbergung und Gastronomie
-2012-11-01,7.6414,Beherbergung und Gastronomie
-2012-12-01,2.7894,Beherbergung und Gastronomie
-2013-01-01,15.4988,Beherbergung und Gastronomie
-2013-02-01,12.1743,Beherbergung und Gastronomie
-2013-03-01,9.0249,Beherbergung und Gastronomie
-2013-04-01,6.7318,Beherbergung und Gastronomie
-2013-05-01,4.94,Beherbergung und Gastronomie
-2013-06-01,-9.7422,Beherbergung und Gastronomie
-2013-07-01,8.0352,Beherbergung und Gastronomie
-2013-08-01,4.2274,Beherbergung und Gastronomie
-2013-09-01,-1.0008,Beherbergung und Gastronomie
-2013-10-01,2.8388,Beherbergung und Gastronomie
-2013-11-01,0.7325,Beherbergung und Gastronomie
-2013-12-01,-1.0405,Beherbergung und Gastronomie
-2014-01-01,-7.6405,Beherbergung und Gastronomie
-2014-02-01,2.7549,Beherbergung und Gastronomie
-2014-03-01,0.8083,Beherbergung und Gastronomie
-2014-04-01,-0.9972,Beherbergung und Gastronomie
-2014-05-01,1.4605,Beherbergung und Gastronomie
-2014-06-01,4.1916,Beherbergung und Gastronomie
-2014-07-01,1.5755,Beherbergung und Gastronomie
-2014-08-01,-2.2823,Beherbergung und Gastronomie
-2014-09-01,-3.5368,Beherbergung und Gastronomie
-2014-10-01,-2.3148,Beherbergung und Gastronomie
-2014-11-01,-0.4225,Beherbergung und Gastronomie
-2014-12-01,-0.4612,Beherbergung und Gastronomie
-2015-01-01,-8.1802,Beherbergung und Gastronomie
-2015-02-01,3.4114,Beherbergung und Gastronomie
-2015-03-01,-4.1975,Beherbergung und Gastronomie
-2015-04-01,-6.7177,Beherbergung und Gastronomie
-2015-05-01,-6.3323,Beherbergung und Gastronomie
-2015-06-01,7.9882,Beherbergung und Gastronomie
-2015-07-01,-0.6644,Beherbergung und Gastronomie
-2015-08-01,6.777,Beherbergung und Gastronomie
-2015-09-01,0.3737,Beherbergung und Gastronomie
-2015-10-01,2.7066,Beherbergung und Gastronomie
-2015-11-01,8.14,Beherbergung und Gastronomie
-2015-12-01,-1.497,Beherbergung und Gastronomie
-2016-01-01,-1.6388,Beherbergung und Gastronomie
-2016-02-01,1.0213,Beherbergung und Gastronomie
-2016-03-01,0.8221,Beherbergung und Gastronomie
-2016-04-01,8.6896,Beherbergung und Gastronomie
-2016-05-01,7.5274,Beherbergung und Gastronomie
-2016-06-01,4.2797,Beherbergung und Gastronomie
-2016-07-01,1.218,Beherbergung und Gastronomie
-2016-08-01,3.7608,Beherbergung und Gastronomie
-2016-09-01,8.552,Beherbergung und Gastronomie
-2016-10-01,7.7807,Beherbergung und Gastronomie
-2016-11-01,5.9924,Beherbergung und Gastronomie
-2016-12-01,10.2828,Beherbergung und Gastronomie
-2017-01-01,4.9469,Beherbergung und Gastronomie
-2017-02-01,3.0809,Beherbergung und Gastronomie
-2017-03-01,4.4591,Beherbergung und Gastronomie
-2017-04-01,11.616,Beherbergung und Gastronomie
-2017-05-01,13.8571,Beherbergung und Gastronomie
-2017-06-01,19.7501,Beherbergung und Gastronomie
-2017-07-01,9.9702,Beherbergung und Gastronomie
-2017-08-01,7.4672,Beherbergung und Gastronomie
-2017-09-01,6.9121,Beherbergung und Gastronomie
-2017-10-01,13.5151,Beherbergung und Gastronomie
-2017-11-01,11.202,Beherbergung und Gastronomie
-2017-12-01,19.2695,Beherbergung und Gastronomie
-2018-01-01,20.4764,Beherbergung und Gastronomie
-2018-02-01,23.513,Beherbergung und Gastronomie
-2018-03-01,22.2471,Beherbergung und Gastronomie
-2018-04-01,10.8037,Beherbergung und Gastronomie
-2018-05-01,20.5794,Beherbergung und Gastronomie
-2018-06-01,12.356,Beherbergung und Gastronomie
-2018-07-01,15.4313,Beherbergung und Gastronomie
-2018-08-01,9.7912,Beherbergung und Gastronomie
-2018-09-01,16.9705,Beherbergung und Gastronomie
-2018-10-01,17.4371,Beherbergung und Gastronomie
-2018-11-01,11.7376,Beherbergung und Gastronomie
-2018-12-01,15.6955,Beherbergung und Gastronomie
-2019-01-01,20.7763,Beherbergung und Gastronomie
-2019-02-01,14.4262,Beherbergung und Gastronomie
-2019-03-01,11.924,Beherbergung und Gastronomie
-2019-04-01,14.8016,Beherbergung und Gastronomie
-2019-05-01,7.3289,Beherbergung und Gastronomie
-2019-06-01,19.0856,Beherbergung und Gastronomie
-2019-07-01,17.3294,Beherbergung und Gastronomie
-2019-08-01,13.9824,Beherbergung und Gastronomie
-2019-09-01,16.6475,Beherbergung und Gastronomie
-2019-10-01,16.2923,Beherbergung und Gastronomie
-2019-11-01,15.1421,Beherbergung und Gastronomie
-2019-12-01,11.3594,Beherbergung und Gastronomie
-2020-01-01,19.0107,Beherbergung und Gastronomie
-2020-02-01,18.4975,Beherbergung und Gastronomie
-2020-03-01,-13.3226,Beherbergung und Gastronomie
-2020-04-01,-62.7675,Beherbergung und Gastronomie
-2020-05-01,-65.6012,Beherbergung und Gastronomie
-2020-06-01,-48.7681,Beherbergung und Gastronomie
-2020-07-01,-35.8788,Beherbergung und Gastronomie
-2020-08-01,-27.5147,Beherbergung und Gastronomie
-2020-09-01,-30.8383,Beherbergung und Gastronomie
-2020-10-01,-57.4289,Beherbergung und Gastronomie
-2020-11-01,-67.4758,Beherbergung und Gastronomie
-2020-12-01,-69.5383,Beherbergung und Gastronomie
-2021-01-01,-66.9475,Beherbergung und Gastronomie
-2021-02-01,-62.6168,Beherbergung und Gastronomie
-2021-03-01,-46.7621,Beherbergung und Gastronomie
-2021-04-01,-28.3202,Beherbergung und Gastronomie
-2021-05-01,-4.3421,Beherbergung und Gastronomie
-2021-06-01,12.9183,Beherbergung und Gastronomie
-2021-07-01,13.7718,Beherbergung und Gastronomie
-2021-08-01,11.623,Beherbergung und Gastronomie
-2021-09-01,2.3918,Beherbergung und Gastronomie
-2021-10-01,9.5864,Beherbergung und Gastronomie
-2021-11-01,4.8483,Beherbergung und Gastronomie
-2021-12-01,-25.8804,Beherbergung und Gastronomie
-2022-01-01,-30.9024,Beherbergung und Gastronomie
-2022-02-01,-8.4832,Beherbergung und Gastronomie
-2022-03-01,23.0573,Beherbergung und Gastronomie
-2022-04-01,27.2973,Beherbergung und Gastronomie
-2022-05-01,30.0404,Beherbergung und Gastronomie
-2022-06-01,12.4542,Beherbergung und Gastronomie
-2022-07-01,2.9172,Beherbergung und Gastronomie
-2022-08-01,-5.9886,Beherbergung und Gastronomie
-2022-09-01,-8.8124,Beherbergung und Gastronomie
-2022-10-01,-5.3443,Beherbergung und Gastronomie
-2022-11-01,1.3917,Beherbergung und Gastronomie
-2022-12-01,12.6915,Beherbergung und Gastronomie
-2023-01-01,15.4533,Beherbergung und Gastronomie
-2023-02-01,9.607,Beherbergung und Gastronomie
-2023-03-01,12.581,Beherbergung und Gastronomie
-2023-04-01,23.2428,Beherbergung und Gastronomie
-2023-05-01,19.2813,Beherbergung und Gastronomie
-2023-06-01,3.846,Beherbergung und Gastronomie
-2023-07-01,-9.894,Beherbergung und Gastronomie
-2023-08-01,-11.7452,Beherbergung und Gastronomie
-2023-09-01,-8.2826,Beherbergung und Gastronomie
-2023-10-01,-0.3739,Beherbergung und Gastronomie
-2023-11-01,2.3303,Beherbergung und Gastronomie
-2023-12-01,10.9946,Beherbergung und Gastronomie
-2024-01-01,10.4057,Beherbergung und Gastronomie
-2024-02-01,-0.0279,Beherbergung und Gastronomie
+month,value,indicator,indicator_en
+1996-01-01,NA,Gesamtwirtschaft,Overall economy
+1996-02-01,NA,Gesamtwirtschaft,Overall economy
+1996-03-01,NA,Gesamtwirtschaft,Overall economy
+1996-04-01,NA,Gesamtwirtschaft,Overall economy
+1996-05-01,NA,Gesamtwirtschaft,Overall economy
+1996-06-01,NA,Gesamtwirtschaft,Overall economy
+1996-07-01,NA,Gesamtwirtschaft,Overall economy
+1996-08-01,NA,Gesamtwirtschaft,Overall economy
+1996-09-01,NA,Gesamtwirtschaft,Overall economy
+1996-10-01,NA,Gesamtwirtschaft,Overall economy
+1996-11-01,NA,Gesamtwirtschaft,Overall economy
+1996-12-01,NA,Gesamtwirtschaft,Overall economy
+1997-01-01,-1.4623,Gesamtwirtschaft,Overall economy
+1997-02-01,1.3493,Gesamtwirtschaft,Overall economy
+1997-03-01,3.113,Gesamtwirtschaft,Overall economy
+1997-04-01,1.458,Gesamtwirtschaft,Overall economy
+1997-05-01,3.4988,Gesamtwirtschaft,Overall economy
+1997-06-01,3.5614,Gesamtwirtschaft,Overall economy
+1997-07-01,0.0466,Gesamtwirtschaft,Overall economy
+1997-08-01,2.8371,Gesamtwirtschaft,Overall economy
+1997-09-01,5.5328,Gesamtwirtschaft,Overall economy
+1997-10-01,4.5741,Gesamtwirtschaft,Overall economy
+1997-11-01,7.4417,Gesamtwirtschaft,Overall economy
+1997-12-01,7.861,Gesamtwirtschaft,Overall economy
+1998-01-01,7.162,Gesamtwirtschaft,Overall economy
+1998-02-01,10.089,Gesamtwirtschaft,Overall economy
+1998-03-01,9.135,Gesamtwirtschaft,Overall economy
+1998-04-01,5.1672,Gesamtwirtschaft,Overall economy
+1998-05-01,5.7296,Gesamtwirtschaft,Overall economy
+1998-06-01,10.0932,Gesamtwirtschaft,Overall economy
+1998-07-01,8.5536,Gesamtwirtschaft,Overall economy
+1998-08-01,6.0602,Gesamtwirtschaft,Overall economy
+1998-09-01,6.3408,Gesamtwirtschaft,Overall economy
+1998-10-01,4.05,Gesamtwirtschaft,Overall economy
+1998-11-01,3.059,Gesamtwirtschaft,Overall economy
+1998-12-01,2.8573,Gesamtwirtschaft,Overall economy
+1999-01-01,5.2747,Gesamtwirtschaft,Overall economy
+1999-02-01,1.014,Gesamtwirtschaft,Overall economy
+1999-03-01,-0.6197,Gesamtwirtschaft,Overall economy
+1999-04-01,2.8302,Gesamtwirtschaft,Overall economy
+1999-05-01,1.5216,Gesamtwirtschaft,Overall economy
+1999-06-01,0.4594,Gesamtwirtschaft,Overall economy
+1999-07-01,5.2854,Gesamtwirtschaft,Overall economy
+1999-08-01,6.4289,Gesamtwirtschaft,Overall economy
+1999-09-01,6.0772,Gesamtwirtschaft,Overall economy
+1999-10-01,9.2056,Gesamtwirtschaft,Overall economy
+1999-11-01,7.3487,Gesamtwirtschaft,Overall economy
+1999-12-01,8.0347,Gesamtwirtschaft,Overall economy
+2000-01-01,9.3969,Gesamtwirtschaft,Overall economy
+2000-02-01,6.6319,Gesamtwirtschaft,Overall economy
+2000-03-01,10.1108,Gesamtwirtschaft,Overall economy
+2000-04-01,14.9458,Gesamtwirtschaft,Overall economy
+2000-05-01,13.0811,Gesamtwirtschaft,Overall economy
+2000-06-01,11.0049,Gesamtwirtschaft,Overall economy
+2000-07-01,12.923,Gesamtwirtschaft,Overall economy
+2000-08-01,11.9205,Gesamtwirtschaft,Overall economy
+2000-09-01,9.6537,Gesamtwirtschaft,Overall economy
+2000-10-01,10.9805,Gesamtwirtschaft,Overall economy
+2000-11-01,11.3496,Gesamtwirtschaft,Overall economy
+2000-12-01,10.6808,Gesamtwirtschaft,Overall economy
+2001-01-01,8.655,Gesamtwirtschaft,Overall economy
+2001-02-01,8.5787,Gesamtwirtschaft,Overall economy
+2001-03-01,6.6043,Gesamtwirtschaft,Overall economy
+2001-04-01,5.6491,Gesamtwirtschaft,Overall economy
+2001-05-01,7.2184,Gesamtwirtschaft,Overall economy
+2001-06-01,1.9416,Gesamtwirtschaft,Overall economy
+2001-07-01,-0.4197,Gesamtwirtschaft,Overall economy
+2001-08-01,-1.7432,Gesamtwirtschaft,Overall economy
+2001-09-01,-4.7281,Gesamtwirtschaft,Overall economy
+2001-10-01,-6.5643,Gesamtwirtschaft,Overall economy
+2001-11-01,-6.3203,Gesamtwirtschaft,Overall economy
+2001-12-01,-7.1113,Gesamtwirtschaft,Overall economy
+2002-01-01,-6.5017,Gesamtwirtschaft,Overall economy
+2002-02-01,-1.5031,Gesamtwirtschaft,Overall economy
+2002-03-01,0.0278,Gesamtwirtschaft,Overall economy
+2002-04-01,-0.0338,Gesamtwirtschaft,Overall economy
+2002-05-01,-0.4248,Gesamtwirtschaft,Overall economy
+2002-06-01,-0.2767,Gesamtwirtschaft,Overall economy
+2002-07-01,-1.7946,Gesamtwirtschaft,Overall economy
+2002-08-01,-3.3598,Gesamtwirtschaft,Overall economy
+2002-09-01,-4.0182,Gesamtwirtschaft,Overall economy
+2002-10-01,0.1961,Gesamtwirtschaft,Overall economy
+2002-11-01,-0.1853,Gesamtwirtschaft,Overall economy
+2002-12-01,0.1464,Gesamtwirtschaft,Overall economy
+2003-01-01,0.0836,Gesamtwirtschaft,Overall economy
+2003-02-01,1.4516,Gesamtwirtschaft,Overall economy
+2003-03-01,-1.93,Gesamtwirtschaft,Overall economy
+2003-04-01,0.6332,Gesamtwirtschaft,Overall economy
+2003-05-01,-2.6628,Gesamtwirtschaft,Overall economy
+2003-06-01,0.0368,Gesamtwirtschaft,Overall economy
+2003-07-01,0.5455,Gesamtwirtschaft,Overall economy
+2003-08-01,0.3007,Gesamtwirtschaft,Overall economy
+2003-09-01,2.9532,Gesamtwirtschaft,Overall economy
+2003-10-01,5.3809,Gesamtwirtschaft,Overall economy
+2003-11-01,4.8557,Gesamtwirtschaft,Overall economy
+2003-12-01,5.4634,Gesamtwirtschaft,Overall economy
+2004-01-01,5.5324,Gesamtwirtschaft,Overall economy
+2004-02-01,3.109,Gesamtwirtschaft,Overall economy
+2004-03-01,4.34,Gesamtwirtschaft,Overall economy
+2004-04-01,5.8691,Gesamtwirtschaft,Overall economy
+2004-05-01,6.1527,Gesamtwirtschaft,Overall economy
+2004-06-01,6.1734,Gesamtwirtschaft,Overall economy
+2004-07-01,6.8013,Gesamtwirtschaft,Overall economy
+2004-08-01,7.7724,Gesamtwirtschaft,Overall economy
+2004-09-01,8.0493,Gesamtwirtschaft,Overall economy
+2004-10-01,7.9316,Gesamtwirtschaft,Overall economy
+2004-11-01,6.7764,Gesamtwirtschaft,Overall economy
+2004-12-01,7.3079,Gesamtwirtschaft,Overall economy
+2005-01-01,6.1747,Gesamtwirtschaft,Overall economy
+2005-02-01,3.0287,Gesamtwirtschaft,Overall economy
+2005-03-01,0.9054,Gesamtwirtschaft,Overall economy
+2005-04-01,3.3175,Gesamtwirtschaft,Overall economy
+2005-05-01,2.6535,Gesamtwirtschaft,Overall economy
+2005-06-01,1.1206,Gesamtwirtschaft,Overall economy
+2005-07-01,2.6858,Gesamtwirtschaft,Overall economy
+2005-08-01,2.0431,Gesamtwirtschaft,Overall economy
+2005-09-01,4.3058,Gesamtwirtschaft,Overall economy
+2005-10-01,4.0231,Gesamtwirtschaft,Overall economy
+2005-11-01,5.2601,Gesamtwirtschaft,Overall economy
+2005-12-01,6.3635,Gesamtwirtschaft,Overall economy
+2006-01-01,8.4219,Gesamtwirtschaft,Overall economy
+2006-02-01,7.6779,Gesamtwirtschaft,Overall economy
+2006-03-01,7.3956,Gesamtwirtschaft,Overall economy
+2006-04-01,9.7214,Gesamtwirtschaft,Overall economy
+2006-05-01,11.9665,Gesamtwirtschaft,Overall economy
+2006-06-01,13.6453,Gesamtwirtschaft,Overall economy
+2006-07-01,14.5065,Gesamtwirtschaft,Overall economy
+2006-08-01,13.9398,Gesamtwirtschaft,Overall economy
+2006-09-01,16.0793,Gesamtwirtschaft,Overall economy
+2006-10-01,14.7015,Gesamtwirtschaft,Overall economy
+2006-11-01,16.3835,Gesamtwirtschaft,Overall economy
+2006-12-01,16.5367,Gesamtwirtschaft,Overall economy
+2007-01-01,16.1608,Gesamtwirtschaft,Overall economy
+2007-02-01,15.6395,Gesamtwirtschaft,Overall economy
+2007-03-01,16.1566,Gesamtwirtschaft,Overall economy
+2007-04-01,17.3888,Gesamtwirtschaft,Overall economy
+2007-05-01,17.5651,Gesamtwirtschaft,Overall economy
+2007-06-01,16.9825,Gesamtwirtschaft,Overall economy
+2007-07-01,16.3288,Gesamtwirtschaft,Overall economy
+2007-08-01,15.981,Gesamtwirtschaft,Overall economy
+2007-09-01,14.6071,Gesamtwirtschaft,Overall economy
+2007-10-01,14.3968,Gesamtwirtschaft,Overall economy
+2007-11-01,12.718,Gesamtwirtschaft,Overall economy
+2007-12-01,11.8377,Gesamtwirtschaft,Overall economy
+2008-01-01,11.3261,Gesamtwirtschaft,Overall economy
+2008-02-01,10.7355,Gesamtwirtschaft,Overall economy
+2008-03-01,11.3418,Gesamtwirtschaft,Overall economy
+2008-04-01,9.4656,Gesamtwirtschaft,Overall economy
+2008-05-01,8.3894,Gesamtwirtschaft,Overall economy
+2008-06-01,9.147,Gesamtwirtschaft,Overall economy
+2008-07-01,4.6237,Gesamtwirtschaft,Overall economy
+2008-08-01,4.2865,Gesamtwirtschaft,Overall economy
+2008-09-01,3.3074,Gesamtwirtschaft,Overall economy
+2008-10-01,-1.636,Gesamtwirtschaft,Overall economy
+2008-11-01,-9.2559,Gesamtwirtschaft,Overall economy
+2008-12-01,-13.4828,Gesamtwirtschaft,Overall economy
+2009-01-01,-13.6523,Gesamtwirtschaft,Overall economy
+2009-02-01,-18.6745,Gesamtwirtschaft,Overall economy
+2009-03-01,-22.3795,Gesamtwirtschaft,Overall economy
+2009-04-01,-22.2032,Gesamtwirtschaft,Overall economy
+2009-05-01,-21.853,Gesamtwirtschaft,Overall economy
+2009-06-01,-20.4889,Gesamtwirtschaft,Overall economy
+2009-07-01,-18.1497,Gesamtwirtschaft,Overall economy
+2009-08-01,-13.1154,Gesamtwirtschaft,Overall economy
+2009-09-01,-10.7555,Gesamtwirtschaft,Overall economy
+2009-10-01,-5.9591,Gesamtwirtschaft,Overall economy
+2009-11-01,-4.9917,Gesamtwirtschaft,Overall economy
+2009-12-01,-4.0937,Gesamtwirtschaft,Overall economy
+2010-01-01,-3.8101,Gesamtwirtschaft,Overall economy
+2010-02-01,-2.0683,Gesamtwirtschaft,Overall economy
+2010-03-01,0.2988,Gesamtwirtschaft,Overall economy
+2010-04-01,4.8211,Gesamtwirtschaft,Overall economy
+2010-05-01,4.5982,Gesamtwirtschaft,Overall economy
+2010-06-01,4.1787,Gesamtwirtschaft,Overall economy
+2010-07-01,6.7364,Gesamtwirtschaft,Overall economy
+2010-08-01,7.1244,Gesamtwirtschaft,Overall economy
+2010-09-01,7.0456,Gesamtwirtschaft,Overall economy
+2010-10-01,8.2616,Gesamtwirtschaft,Overall economy
+2010-11-01,9.9522,Gesamtwirtschaft,Overall economy
+2010-12-01,11.64,Gesamtwirtschaft,Overall economy
+2011-01-01,13.0841,Gesamtwirtschaft,Overall economy
+2011-02-01,14.7714,Gesamtwirtschaft,Overall economy
+2011-03-01,13.2411,Gesamtwirtschaft,Overall economy
+2011-04-01,13.5663,Gesamtwirtschaft,Overall economy
+2011-05-01,11.9555,Gesamtwirtschaft,Overall economy
+2011-06-01,10.5213,Gesamtwirtschaft,Overall economy
+2011-07-01,10.6096,Gesamtwirtschaft,Overall economy
+2011-08-01,6.914,Gesamtwirtschaft,Overall economy
+2011-09-01,4.186,Gesamtwirtschaft,Overall economy
+2011-10-01,3.3863,Gesamtwirtschaft,Overall economy
+2011-11-01,2.9516,Gesamtwirtschaft,Overall economy
+2011-12-01,4.452,Gesamtwirtschaft,Overall economy
+2012-01-01,4.7416,Gesamtwirtschaft,Overall economy
+2012-02-01,4.8891,Gesamtwirtschaft,Overall economy
+2012-03-01,7.1076,Gesamtwirtschaft,Overall economy
+2012-04-01,5.7437,Gesamtwirtschaft,Overall economy
+2012-05-01,3.9503,Gesamtwirtschaft,Overall economy
+2012-06-01,2.8388,Gesamtwirtschaft,Overall economy
+2012-07-01,3.0686,Gesamtwirtschaft,Overall economy
+2012-08-01,0.5006,Gesamtwirtschaft,Overall economy
+2012-09-01,-0.4507,Gesamtwirtschaft,Overall economy
+2012-10-01,0.0239,Gesamtwirtschaft,Overall economy
+2012-11-01,0.4836,Gesamtwirtschaft,Overall economy
+2012-12-01,0.5341,Gesamtwirtschaft,Overall economy
+2013-01-01,1.9487,Gesamtwirtschaft,Overall economy
+2013-02-01,3.1875,Gesamtwirtschaft,Overall economy
+2013-03-01,3.2329,Gesamtwirtschaft,Overall economy
+2013-04-01,0.0548,Gesamtwirtschaft,Overall economy
+2013-05-01,-0.246,Gesamtwirtschaft,Overall economy
+2013-06-01,-0.041,Gesamtwirtschaft,Overall economy
+2013-07-01,0.2241,Gesamtwirtschaft,Overall economy
+2013-08-01,2.5425,Gesamtwirtschaft,Overall economy
+2013-09-01,2.8926,Gesamtwirtschaft,Overall economy
+2013-10-01,4.0776,Gesamtwirtschaft,Overall economy
+2013-11-01,4.9307,Gesamtwirtschaft,Overall economy
+2013-12-01,4.0226,Gesamtwirtschaft,Overall economy
+2014-01-01,4.2686,Gesamtwirtschaft,Overall economy
+2014-02-01,5.1573,Gesamtwirtschaft,Overall economy
+2014-03-01,4.1958,Gesamtwirtschaft,Overall economy
+2014-04-01,3.3031,Gesamtwirtschaft,Overall economy
+2014-05-01,3.8394,Gesamtwirtschaft,Overall economy
+2014-06-01,3.0774,Gesamtwirtschaft,Overall economy
+2014-07-01,0.672,Gesamtwirtschaft,Overall economy
+2014-08-01,1.0514,Gesamtwirtschaft,Overall economy
+2014-09-01,-0.9384,Gesamtwirtschaft,Overall economy
+2014-10-01,0.7844,Gesamtwirtschaft,Overall economy
+2014-11-01,0.4636,Gesamtwirtschaft,Overall economy
+2014-12-01,1.7325,Gesamtwirtschaft,Overall economy
+2015-01-01,-0.4304,Gesamtwirtschaft,Overall economy
+2015-02-01,-1.5329,Gesamtwirtschaft,Overall economy
+2015-03-01,-2.3451,Gesamtwirtschaft,Overall economy
+2015-04-01,-0.7715,Gesamtwirtschaft,Overall economy
+2015-05-01,-0.6869,Gesamtwirtschaft,Overall economy
+2015-06-01,-0.1281,Gesamtwirtschaft,Overall economy
+2015-07-01,0.3107,Gesamtwirtschaft,Overall economy
+2015-08-01,2.1498,Gesamtwirtschaft,Overall economy
+2015-09-01,2.2125,Gesamtwirtschaft,Overall economy
+2015-10-01,2.3473,Gesamtwirtschaft,Overall economy
+2015-11-01,4.8536,Gesamtwirtschaft,Overall economy
+2015-12-01,4.9315,Gesamtwirtschaft,Overall economy
+2016-01-01,3.3701,Gesamtwirtschaft,Overall economy
+2016-02-01,2.0501,Gesamtwirtschaft,Overall economy
+2016-03-01,2.3563,Gesamtwirtschaft,Overall economy
+2016-04-01,2.5836,Gesamtwirtschaft,Overall economy
+2016-05-01,4.1413,Gesamtwirtschaft,Overall economy
+2016-06-01,3.9467,Gesamtwirtschaft,Overall economy
+2016-07-01,4.8308,Gesamtwirtschaft,Overall economy
+2016-08-01,4.784,Gesamtwirtschaft,Overall economy
+2016-09-01,7.1531,Gesamtwirtschaft,Overall economy
+2016-10-01,7.2542,Gesamtwirtschaft,Overall economy
+2016-11-01,10.0804,Gesamtwirtschaft,Overall economy
+2016-12-01,11.4017,Gesamtwirtschaft,Overall economy
+2017-01-01,10.8911,Gesamtwirtschaft,Overall economy
+2017-02-01,12.7427,Gesamtwirtschaft,Overall economy
+2017-03-01,13.6648,Gesamtwirtschaft,Overall economy
+2017-04-01,14.821,Gesamtwirtschaft,Overall economy
+2017-05-01,15.2003,Gesamtwirtschaft,Overall economy
+2017-06-01,17.0546,Gesamtwirtschaft,Overall economy
+2017-07-01,17.8627,Gesamtwirtschaft,Overall economy
+2017-08-01,16.1592,Gesamtwirtschaft,Overall economy
+2017-09-01,17.2184,Gesamtwirtschaft,Overall economy
+2017-10-01,19.0808,Gesamtwirtschaft,Overall economy
+2017-11-01,18.9431,Gesamtwirtschaft,Overall economy
+2017-12-01,21.0184,Gesamtwirtschaft,Overall economy
+2018-01-01,20.7407,Gesamtwirtschaft,Overall economy
+2018-02-01,21.8898,Gesamtwirtschaft,Overall economy
+2018-03-01,20.5993,Gesamtwirtschaft,Overall economy
+2018-04-01,18.4596,Gesamtwirtschaft,Overall economy
+2018-05-01,19.1581,Gesamtwirtschaft,Overall economy
+2018-06-01,18.4737,Gesamtwirtschaft,Overall economy
+2018-07-01,18.7917,Gesamtwirtschaft,Overall economy
+2018-08-01,17.995,Gesamtwirtschaft,Overall economy
+2018-09-01,19.0983,Gesamtwirtschaft,Overall economy
+2018-10-01,17.1927,Gesamtwirtschaft,Overall economy
+2018-11-01,15.925,Gesamtwirtschaft,Overall economy
+2018-12-01,15.3645,Gesamtwirtschaft,Overall economy
+2019-01-01,14.7525,Gesamtwirtschaft,Overall economy
+2019-02-01,13.5926,Gesamtwirtschaft,Overall economy
+2019-03-01,12.6161,Gesamtwirtschaft,Overall economy
+2019-04-01,12.1281,Gesamtwirtschaft,Overall economy
+2019-05-01,11.4955,Gesamtwirtschaft,Overall economy
+2019-06-01,10.3747,Gesamtwirtschaft,Overall economy
+2019-07-01,10.4459,Gesamtwirtschaft,Overall economy
+2019-08-01,10.5859,Gesamtwirtschaft,Overall economy
+2019-09-01,9.5741,Gesamtwirtschaft,Overall economy
+2019-10-01,8.5668,Gesamtwirtschaft,Overall economy
+2019-11-01,8.9764,Gesamtwirtschaft,Overall economy
+2019-12-01,7.6609,Gesamtwirtschaft,Overall economy
+2020-01-01,10.7375,Gesamtwirtschaft,Overall economy
+2020-02-01,10.9766,Gesamtwirtschaft,Overall economy
+2020-03-01,2.2374,Gesamtwirtschaft,Overall economy
+2020-04-01,-33.3448,Gesamtwirtschaft,Overall economy
+2020-05-01,-28.0123,Gesamtwirtschaft,Overall economy
+2020-06-01,-20.5549,Gesamtwirtschaft,Overall economy
+2020-07-01,-14.3689,Gesamtwirtschaft,Overall economy
+2020-08-01,-10.1385,Gesamtwirtschaft,Overall economy
+2020-09-01,-9.2994,Gesamtwirtschaft,Overall economy
+2020-10-01,-9.4478,Gesamtwirtschaft,Overall economy
+2020-11-01,-15.3721,Gesamtwirtschaft,Overall economy
+2020-12-01,-11.9435,Gesamtwirtschaft,Overall economy
+2021-01-01,-12.955,Gesamtwirtschaft,Overall economy
+2021-02-01,-12.1422,Gesamtwirtschaft,Overall economy
+2021-03-01,-4.7014,Gesamtwirtschaft,Overall economy
+2021-04-01,10.3282,Gesamtwirtschaft,Overall economy
+2021-05-01,15.6754,Gesamtwirtschaft,Overall economy
+2021-06-01,20.3758,Gesamtwirtschaft,Overall economy
+2021-07-01,19.8845,Gesamtwirtschaft,Overall economy
+2021-08-01,17.5429,Gesamtwirtschaft,Overall economy
+2021-09-01,17.1766,Gesamtwirtschaft,Overall economy
+2021-10-01,19.0994,Gesamtwirtschaft,Overall economy
+2021-11-01,17.6936,Gesamtwirtschaft,Overall economy
+2021-12-01,11.6869,Gesamtwirtschaft,Overall economy
+2022-01-01,13.0159,Gesamtwirtschaft,Overall economy
+2022-02-01,15.97,Gesamtwirtschaft,Overall economy
+2022-03-01,17.8638,Gesamtwirtschaft,Overall economy
+2022-04-01,24.5005,Gesamtwirtschaft,Overall economy
+2022-05-01,19.462,Gesamtwirtschaft,Overall economy
+2022-06-01,16.6967,Gesamtwirtschaft,Overall economy
+2022-07-01,10.4373,Gesamtwirtschaft,Overall economy
+2022-08-01,8.473,Gesamtwirtschaft,Overall economy
+2022-09-01,5.2406,Gesamtwirtschaft,Overall economy
+2022-10-01,2.9023,Gesamtwirtschaft,Overall economy
+2022-11-01,4.2162,Gesamtwirtschaft,Overall economy
+2022-12-01,5.5902,Gesamtwirtschaft,Overall economy
+2023-01-01,6.3658,Gesamtwirtschaft,Overall economy
+2023-02-01,5.4926,Gesamtwirtschaft,Overall economy
+2023-03-01,4.7545,Gesamtwirtschaft,Overall economy
+2023-04-01,10.9342,Gesamtwirtschaft,Overall economy
+2023-05-01,4.7731,Gesamtwirtschaft,Overall economy
+2023-06-01,-0.895,Gesamtwirtschaft,Overall economy
+2023-07-01,-5.2366,Gesamtwirtschaft,Overall economy
+2023-08-01,-8.7402,Gesamtwirtschaft,Overall economy
+2023-09-01,-8.3931,Gesamtwirtschaft,Overall economy
+2023-10-01,-7.633,Gesamtwirtschaft,Overall economy
+2023-11-01,-7.0277,Gesamtwirtschaft,Overall economy
+2023-12-01,-6.1904,Gesamtwirtschaft,Overall economy
+2024-01-01,-6.6569,Gesamtwirtschaft,Overall economy
+2024-02-01,-9.8071,Gesamtwirtschaft,Overall economy
+1996-01-01,-22.6392,Sachgütererzeugung,Goods production
+1996-02-01,-21.7181,Sachgütererzeugung,Goods production
+1996-03-01,-23.4675,Sachgütererzeugung,Goods production
+1996-04-01,-23.5768,Sachgütererzeugung,Goods production
+1996-05-01,-17.0143,Sachgütererzeugung,Goods production
+1996-06-01,-17.5369,Sachgütererzeugung,Goods production
+1996-07-01,-16.9406,Sachgütererzeugung,Goods production
+1996-08-01,-12.9379,Sachgütererzeugung,Goods production
+1996-09-01,-12.1711,Sachgütererzeugung,Goods production
+1996-10-01,-12.4776,Sachgütererzeugung,Goods production
+1996-11-01,-8.9107,Sachgütererzeugung,Goods production
+1996-12-01,-9.8265,Sachgütererzeugung,Goods production
+1997-01-01,-9.593,Sachgütererzeugung,Goods production
+1997-02-01,-6.7988,Sachgütererzeugung,Goods production
+1997-03-01,-2.0113,Sachgütererzeugung,Goods production
+1997-04-01,-2.3416,Sachgütererzeugung,Goods production
+1997-05-01,0.2126,Sachgütererzeugung,Goods production
+1997-06-01,0.5419,Sachgütererzeugung,Goods production
+1997-07-01,-0.5915,Sachgütererzeugung,Goods production
+1997-08-01,0.238,Sachgütererzeugung,Goods production
+1997-09-01,4.5071,Sachgütererzeugung,Goods production
+1997-10-01,4.4326,Sachgütererzeugung,Goods production
+1997-11-01,4.9051,Sachgütererzeugung,Goods production
+1997-12-01,4.6654,Sachgütererzeugung,Goods production
+1998-01-01,2.8852,Sachgütererzeugung,Goods production
+1998-02-01,5.0736,Sachgütererzeugung,Goods production
+1998-03-01,5.1348,Sachgütererzeugung,Goods production
+1998-04-01,5.0448,Sachgütererzeugung,Goods production
+1998-05-01,1.4243,Sachgütererzeugung,Goods production
+1998-06-01,2.9864,Sachgütererzeugung,Goods production
+1998-07-01,0.9775,Sachgütererzeugung,Goods production
+1998-08-01,-2.0633,Sachgütererzeugung,Goods production
+1998-09-01,-7.1325,Sachgütererzeugung,Goods production
+1998-10-01,-5.2549,Sachgütererzeugung,Goods production
+1998-11-01,-9.0771,Sachgütererzeugung,Goods production
+1998-12-01,-7.9333,Sachgütererzeugung,Goods production
+1999-01-01,-7.5374,Sachgütererzeugung,Goods production
+1999-02-01,-12.1808,Sachgütererzeugung,Goods production
+1999-03-01,-13.6928,Sachgütererzeugung,Goods production
+1999-04-01,-10.2838,Sachgütererzeugung,Goods production
+1999-05-01,-12.9963,Sachgütererzeugung,Goods production
+1999-06-01,-10.1724,Sachgütererzeugung,Goods production
+1999-07-01,-3.8033,Sachgütererzeugung,Goods production
+1999-08-01,-1.1138,Sachgütererzeugung,Goods production
+1999-09-01,0.935,Sachgütererzeugung,Goods production
+1999-10-01,1.5132,Sachgütererzeugung,Goods production
+1999-11-01,3.2535,Sachgütererzeugung,Goods production
+1999-12-01,6.3971,Sachgütererzeugung,Goods production
+2000-01-01,4.3439,Sachgütererzeugung,Goods production
+2000-02-01,3.9928,Sachgütererzeugung,Goods production
+2000-03-01,7.419,Sachgütererzeugung,Goods production
+2000-04-01,11.3778,Sachgütererzeugung,Goods production
+2000-05-01,9.6532,Sachgütererzeugung,Goods production
+2000-06-01,7.2375,Sachgütererzeugung,Goods production
+2000-07-01,10.2678,Sachgütererzeugung,Goods production
+2000-08-01,6.8865,Sachgütererzeugung,Goods production
+2000-09-01,9.7417,Sachgütererzeugung,Goods production
+2000-10-01,9.6601,Sachgütererzeugung,Goods production
+2000-11-01,11.3214,Sachgütererzeugung,Goods production
+2000-12-01,9.6636,Sachgütererzeugung,Goods production
+2001-01-01,7.8413,Sachgütererzeugung,Goods production
+2001-02-01,6.0237,Sachgütererzeugung,Goods production
+2001-03-01,2.4072,Sachgütererzeugung,Goods production
+2001-04-01,1.6952,Sachgütererzeugung,Goods production
+2001-05-01,-0.4954,Sachgütererzeugung,Goods production
+2001-06-01,-4.2676,Sachgütererzeugung,Goods production
+2001-07-01,-4.9858,Sachgütererzeugung,Goods production
+2001-08-01,-8.2931,Sachgütererzeugung,Goods production
+2001-09-01,-12.7363,Sachgütererzeugung,Goods production
+2001-10-01,-13.3483,Sachgütererzeugung,Goods production
+2001-11-01,-13.8068,Sachgütererzeugung,Goods production
+2001-12-01,-14.4826,Sachgütererzeugung,Goods production
+2002-01-01,-13.1392,Sachgütererzeugung,Goods production
+2002-02-01,-7.2637,Sachgütererzeugung,Goods production
+2002-03-01,-5.5597,Sachgütererzeugung,Goods production
+2002-04-01,-7.2072,Sachgütererzeugung,Goods production
+2002-05-01,-6.5873,Sachgütererzeugung,Goods production
+2002-06-01,-5.5038,Sachgütererzeugung,Goods production
+2002-07-01,-6.3708,Sachgütererzeugung,Goods production
+2002-08-01,-9.2454,Sachgütererzeugung,Goods production
+2002-09-01,-10.6821,Sachgütererzeugung,Goods production
+2002-10-01,-5.7216,Sachgütererzeugung,Goods production
+2002-11-01,-7.4144,Sachgütererzeugung,Goods production
+2002-12-01,-6.5754,Sachgütererzeugung,Goods production
+2003-01-01,-5.8688,Sachgütererzeugung,Goods production
+2003-02-01,-2.7881,Sachgütererzeugung,Goods production
+2003-03-01,-7.1136,Sachgütererzeugung,Goods production
+2003-04-01,-4.6362,Sachgütererzeugung,Goods production
+2003-05-01,-7.175,Sachgütererzeugung,Goods production
+2003-06-01,-4.6572,Sachgütererzeugung,Goods production
+2003-07-01,-7.8143,Sachgütererzeugung,Goods production
+2003-08-01,-6.2577,Sachgütererzeugung,Goods production
+2003-09-01,-2.5628,Sachgütererzeugung,Goods production
+2003-10-01,1.3779,Sachgütererzeugung,Goods production
+2003-11-01,1.9404,Sachgütererzeugung,Goods production
+2003-12-01,2.3639,Sachgütererzeugung,Goods production
+2004-01-01,1.8097,Sachgütererzeugung,Goods production
+2004-02-01,-0.368,Sachgütererzeugung,Goods production
+2004-03-01,0.3553,Sachgütererzeugung,Goods production
+2004-04-01,1.478,Sachgütererzeugung,Goods production
+2004-05-01,1.1896,Sachgütererzeugung,Goods production
+2004-06-01,2.2953,Sachgütererzeugung,Goods production
+2004-07-01,3.1981,Sachgütererzeugung,Goods production
+2004-08-01,4.1708,Sachgütererzeugung,Goods production
+2004-09-01,5.0192,Sachgütererzeugung,Goods production
+2004-10-01,4.7403,Sachgütererzeugung,Goods production
+2004-11-01,4.6301,Sachgütererzeugung,Goods production
+2004-12-01,0.9045,Sachgütererzeugung,Goods production
+2005-01-01,2.9598,Sachgütererzeugung,Goods production
+2005-02-01,-0.9077,Sachgütererzeugung,Goods production
+2005-03-01,-3.0724,Sachgütererzeugung,Goods production
+2005-04-01,-2.6026,Sachgütererzeugung,Goods production
+2005-05-01,-1.5708,Sachgütererzeugung,Goods production
+2005-06-01,-3.771,Sachgütererzeugung,Goods production
+2005-07-01,-2.3551,Sachgütererzeugung,Goods production
+2005-08-01,-3.0996,Sachgütererzeugung,Goods production
+2005-09-01,0.5965,Sachgütererzeugung,Goods production
+2005-10-01,0.8733,Sachgütererzeugung,Goods production
+2005-11-01,2.6587,Sachgütererzeugung,Goods production
+2005-12-01,2.0004,Sachgütererzeugung,Goods production
+2006-01-01,5.0656,Sachgütererzeugung,Goods production
+2006-02-01,3.9226,Sachgütererzeugung,Goods production
+2006-03-01,6.2659,Sachgütererzeugung,Goods production
+2006-04-01,9.2618,Sachgütererzeugung,Goods production
+2006-05-01,11.3879,Sachgütererzeugung,Goods production
+2006-06-01,12.5039,Sachgütererzeugung,Goods production
+2006-07-01,13.6385,Sachgütererzeugung,Goods production
+2006-08-01,13.5933,Sachgütererzeugung,Goods production
+2006-09-01,14.5443,Sachgütererzeugung,Goods production
+2006-10-01,14.5708,Sachgütererzeugung,Goods production
+2006-11-01,15.4432,Sachgütererzeugung,Goods production
+2006-12-01,17.3682,Sachgütererzeugung,Goods production
+2007-01-01,14.4077,Sachgütererzeugung,Goods production
+2007-02-01,17.3589,Sachgütererzeugung,Goods production
+2007-03-01,16.6538,Sachgütererzeugung,Goods production
+2007-04-01,16.5507,Sachgütererzeugung,Goods production
+2007-05-01,17.4139,Sachgütererzeugung,Goods production
+2007-06-01,17.8976,Sachgütererzeugung,Goods production
+2007-07-01,15.825,Sachgütererzeugung,Goods production
+2007-08-01,16.1707,Sachgütererzeugung,Goods production
+2007-09-01,13.048400000000001,Sachgütererzeugung,Goods production
+2007-10-01,11.6667,Sachgütererzeugung,Goods production
+2007-11-01,11.5644,Sachgütererzeugung,Goods production
+2007-12-01,8.0061,Sachgütererzeugung,Goods production
+2008-01-01,7.0751,Sachgütererzeugung,Goods production
+2008-02-01,6.607,Sachgütererzeugung,Goods production
+2008-03-01,9.3239,Sachgütererzeugung,Goods production
+2008-04-01,5.8918,Sachgütererzeugung,Goods production
+2008-05-01,4.8873,Sachgütererzeugung,Goods production
+2008-06-01,3.5089,Sachgütererzeugung,Goods production
+2008-07-01,-0.1,Sachgütererzeugung,Goods production
+2008-08-01,-3.317,Sachgütererzeugung,Goods production
+2008-09-01,-4.8969,Sachgütererzeugung,Goods production
+2008-10-01,-11.3949,Sachgütererzeugung,Goods production
+2008-11-01,-20.5424,Sachgütererzeugung,Goods production
+2008-12-01,-26.974,Sachgütererzeugung,Goods production
+2009-01-01,-28.2823,Sachgütererzeugung,Goods production
+2009-02-01,-33.8854,Sachgütererzeugung,Goods production
+2009-03-01,-36.3374,Sachgütererzeugung,Goods production
+2009-04-01,-33.2457,Sachgütererzeugung,Goods production
+2009-05-01,-34.0152,Sachgütererzeugung,Goods production
+2009-06-01,-29.1206,Sachgütererzeugung,Goods production
+2009-07-01,-27.2522,Sachgütererzeugung,Goods production
+2009-08-01,-20.6257,Sachgütererzeugung,Goods production
+2009-09-01,-18.6877,Sachgütererzeugung,Goods production
+2009-10-01,-16.7344,Sachgütererzeugung,Goods production
+2009-11-01,-15.358,Sachgütererzeugung,Goods production
+2009-12-01,-11.9858,Sachgütererzeugung,Goods production
+2010-01-01,-11.0526,Sachgütererzeugung,Goods production
+2010-02-01,-7.4987,Sachgütererzeugung,Goods production
+2010-03-01,-3.8266,Sachgütererzeugung,Goods production
+2010-04-01,0.6603,Sachgütererzeugung,Goods production
+2010-05-01,4.1846,Sachgütererzeugung,Goods production
+2010-06-01,4.2184,Sachgütererzeugung,Goods production
+2010-07-01,6.6872,Sachgütererzeugung,Goods production
+2010-08-01,5.1601,Sachgütererzeugung,Goods production
+2010-09-01,3.8973,Sachgütererzeugung,Goods production
+2010-10-01,7.9252,Sachgütererzeugung,Goods production
+2010-11-01,10.0836,Sachgütererzeugung,Goods production
+2010-12-01,12.9454,Sachgütererzeugung,Goods production
+2011-01-01,14.2791,Sachgütererzeugung,Goods production
+2011-02-01,15.7892,Sachgütererzeugung,Goods production
+2011-03-01,14.4225,Sachgütererzeugung,Goods production
+2011-04-01,14.8396,Sachgütererzeugung,Goods production
+2011-05-01,11.8476,Sachgütererzeugung,Goods production
+2011-06-01,8.0384,Sachgütererzeugung,Goods production
+2011-07-01,6.6439,Sachgütererzeugung,Goods production
+2011-08-01,2.6279,Sachgütererzeugung,Goods production
+2011-09-01,-1.0169,Sachgütererzeugung,Goods production
+2011-10-01,-3.0539,Sachgütererzeugung,Goods production
+2011-11-01,-3.543,Sachgütererzeugung,Goods production
+2011-12-01,-1.2356,Sachgütererzeugung,Goods production
+2012-01-01,0.0606,Sachgütererzeugung,Goods production
+2012-02-01,2.247,Sachgütererzeugung,Goods production
+2012-03-01,2.4847,Sachgütererzeugung,Goods production
+2012-04-01,0.0811,Sachgütererzeugung,Goods production
+2012-05-01,-1.366,Sachgütererzeugung,Goods production
+2012-06-01,-2.8919,Sachgütererzeugung,Goods production
+2012-07-01,-5.3246,Sachgütererzeugung,Goods production
+2012-08-01,-6.6702,Sachgütererzeugung,Goods production
+2012-09-01,-6.9122,Sachgütererzeugung,Goods production
+2012-10-01,-7.9666,Sachgütererzeugung,Goods production
+2012-11-01,-8.7082,Sachgütererzeugung,Goods production
+2012-12-01,-7.2851,Sachgütererzeugung,Goods production
+2013-01-01,-5.3249,Sachgütererzeugung,Goods production
+2013-02-01,-4.4381,Sachgütererzeugung,Goods production
+2013-03-01,-3.5615,Sachgütererzeugung,Goods production
+2013-04-01,-5.6969,Sachgütererzeugung,Goods production
+2013-05-01,-7.345,Sachgütererzeugung,Goods production
+2013-06-01,-8.27,Sachgütererzeugung,Goods production
+2013-07-01,-5.6027,Sachgütererzeugung,Goods production
+2013-08-01,-4.2229,Sachgütererzeugung,Goods production
+2013-09-01,-1.7611,Sachgütererzeugung,Goods production
+2013-10-01,-1.1772,Sachgütererzeugung,Goods production
+2013-11-01,1.8338,Sachgütererzeugung,Goods production
+2013-12-01,-1.0432,Sachgütererzeugung,Goods production
+2014-01-01,1.2876,Sachgütererzeugung,Goods production
+2014-02-01,3.7125,Sachgütererzeugung,Goods production
+2014-03-01,2.8641,Sachgütererzeugung,Goods production
+2014-04-01,0.9984,Sachgütererzeugung,Goods production
+2014-05-01,1.6377,Sachgütererzeugung,Goods production
+2014-06-01,2.2526,Sachgütererzeugung,Goods production
+2014-07-01,-2.3048,Sachgütererzeugung,Goods production
+2014-08-01,0.4084,Sachgütererzeugung,Goods production
+2014-09-01,-3.3658,Sachgütererzeugung,Goods production
+2014-10-01,-2.3899,Sachgütererzeugung,Goods production
+2014-11-01,-1.5123,Sachgütererzeugung,Goods production
+2014-12-01,0.1292,Sachgütererzeugung,Goods production
+2015-01-01,-2.7216,Sachgütererzeugung,Goods production
+2015-02-01,-5.2657,Sachgütererzeugung,Goods production
+2015-03-01,-7.099,Sachgütererzeugung,Goods production
+2015-04-01,-4.2343,Sachgütererzeugung,Goods production
+2015-05-01,-4.4014,Sachgütererzeugung,Goods production
+2015-06-01,-5.043,Sachgütererzeugung,Goods production
+2015-07-01,-1.5113,Sachgütererzeugung,Goods production
+2015-08-01,-2.6068,Sachgütererzeugung,Goods production
+2015-09-01,-0.9786,Sachgütererzeugung,Goods production
+2015-10-01,-0.6193,Sachgütererzeugung,Goods production
+2015-11-01,0.0808,Sachgütererzeugung,Goods production
+2015-12-01,1.4964,Sachgütererzeugung,Goods production
+2016-01-01,1.2144,Sachgütererzeugung,Goods production
+2016-02-01,-4.4683,Sachgütererzeugung,Goods production
+2016-03-01,-3.0586,Sachgütererzeugung,Goods production
+2016-04-01,-2.8756,Sachgütererzeugung,Goods production
+2016-05-01,-2.5594,Sachgütererzeugung,Goods production
+2016-06-01,-1.745,Sachgütererzeugung,Goods production
+2016-07-01,0.3613,Sachgütererzeugung,Goods production
+2016-08-01,0.008,Sachgütererzeugung,Goods production
+2016-09-01,4.6532,Sachgütererzeugung,Goods production
+2016-10-01,4.4685,Sachgütererzeugung,Goods production
+2016-11-01,6.4062,Sachgütererzeugung,Goods production
+2016-12-01,7.1598,Sachgütererzeugung,Goods production
+2017-01-01,8.7244,Sachgütererzeugung,Goods production
+2017-02-01,9.4938,Sachgütererzeugung,Goods production
+2017-03-01,11.683,Sachgütererzeugung,Goods production
+2017-04-01,11.1081,Sachgütererzeugung,Goods production
+2017-05-01,13.5136,Sachgütererzeugung,Goods production
+2017-06-01,14.3536,Sachgütererzeugung,Goods production
+2017-07-01,15.1675,Sachgütererzeugung,Goods production
+2017-08-01,14.4152,Sachgütererzeugung,Goods production
+2017-09-01,16.0695,Sachgütererzeugung,Goods production
+2017-10-01,18.2291,Sachgütererzeugung,Goods production
+2017-11-01,20.0385,Sachgütererzeugung,Goods production
+2017-12-01,20.3669,Sachgütererzeugung,Goods production
+2018-01-01,18.4176,Sachgütererzeugung,Goods production
+2018-02-01,21.2181,Sachgütererzeugung,Goods production
+2018-03-01,20.9959,Sachgütererzeugung,Goods production
+2018-04-01,18.3579,Sachgütererzeugung,Goods production
+2018-05-01,17.4449,Sachgütererzeugung,Goods production
+2018-06-01,17.14,Sachgütererzeugung,Goods production
+2018-07-01,16.6259,Sachgütererzeugung,Goods production
+2018-08-01,17.0657,Sachgütererzeugung,Goods production
+2018-09-01,17.0287,Sachgütererzeugung,Goods production
+2018-10-01,14.6411,Sachgütererzeugung,Goods production
+2018-11-01,13.7344,Sachgütererzeugung,Goods production
+2018-12-01,10.706,Sachgütererzeugung,Goods production
+2019-01-01,8.8612,Sachgütererzeugung,Goods production
+2019-02-01,7.1883,Sachgütererzeugung,Goods production
+2019-03-01,4.6704,Sachgütererzeugung,Goods production
+2019-04-01,4.0735,Sachgütererzeugung,Goods production
+2019-05-01,5.0767,Sachgütererzeugung,Goods production
+2019-06-01,2.5694,Sachgütererzeugung,Goods production
+2019-07-01,1.0793,Sachgütererzeugung,Goods production
+2019-08-01,4.5309,Sachgütererzeugung,Goods production
+2019-09-01,0.6458,Sachgütererzeugung,Goods production
+2019-10-01,-3.1004,Sachgütererzeugung,Goods production
+2019-11-01,-0.8954,Sachgütererzeugung,Goods production
+2019-12-01,-2.7262,Sachgütererzeugung,Goods production
+2020-01-01,-1.7136,Sachgütererzeugung,Goods production
+2020-02-01,1.7604,Sachgütererzeugung,Goods production
+2020-03-01,-5.801,Sachgütererzeugung,Goods production
+2020-04-01,-32.8964,Sachgütererzeugung,Goods production
+2020-05-01,-32.0052,Sachgütererzeugung,Goods production
+2020-06-01,-25.0826,Sachgütererzeugung,Goods production
+2020-07-01,-19.1443,Sachgütererzeugung,Goods production
+2020-08-01,-16.3992,Sachgütererzeugung,Goods production
+2020-09-01,-15.8136,Sachgütererzeugung,Goods production
+2020-10-01,-10.8047,Sachgütererzeugung,Goods production
+2020-11-01,-14.4649,Sachgütererzeugung,Goods production
+2020-12-01,-6.4722,Sachgütererzeugung,Goods production
+2021-01-01,-7.9347,Sachgütererzeugung,Goods production
+2021-02-01,-8.0255,Sachgütererzeugung,Goods production
+2021-03-01,-0.9166,Sachgütererzeugung,Goods production
+2021-04-01,14.7551,Sachgütererzeugung,Goods production
+2021-05-01,17.9036,Sachgütererzeugung,Goods production
+2021-06-01,22.1018,Sachgütererzeugung,Goods production
+2021-07-01,20.6463,Sachgütererzeugung,Goods production
+2021-08-01,18.9445,Sachgütererzeugung,Goods production
+2021-09-01,19.6343,Sachgütererzeugung,Goods production
+2021-10-01,20.5792,Sachgütererzeugung,Goods production
+2021-11-01,19.5206,Sachgütererzeugung,Goods production
+2021-12-01,20.3973,Sachgütererzeugung,Goods production
+2022-01-01,16.8438,Sachgütererzeugung,Goods production
+2022-02-01,18.7285,Sachgütererzeugung,Goods production
+2022-03-01,16.9904,Sachgütererzeugung,Goods production
+2022-04-01,21.7127,Sachgütererzeugung,Goods production
+2022-05-01,15.569,Sachgütererzeugung,Goods production
+2022-06-01,16.3123,Sachgütererzeugung,Goods production
+2022-07-01,8.0564,Sachgütererzeugung,Goods production
+2022-08-01,5.6125,Sachgütererzeugung,Goods production
+2022-09-01,3.6979,Sachgütererzeugung,Goods production
+2022-10-01,-2.161,Sachgütererzeugung,Goods production
+2022-11-01,-1.6354,Sachgütererzeugung,Goods production
+2022-12-01,-2.0452,Sachgütererzeugung,Goods production
+2023-01-01,-1.3393,Sachgütererzeugung,Goods production
+2023-02-01,-0.4712,Sachgütererzeugung,Goods production
+2023-03-01,-1.4215,Sachgütererzeugung,Goods production
+2023-04-01,0.3321,Sachgütererzeugung,Goods production
+2023-05-01,-4.4433,Sachgütererzeugung,Goods production
+2023-06-01,-10.3836,Sachgütererzeugung,Goods production
+2023-07-01,-12.5929,Sachgütererzeugung,Goods production
+2023-08-01,-17.7467,Sachgütererzeugung,Goods production
+2023-09-01,-19.2503,Sachgütererzeugung,Goods production
+2023-10-01,-20.0004,Sachgütererzeugung,Goods production
+2023-11-01,-19.6605,Sachgütererzeugung,Goods production
+2023-12-01,-22.4427,Sachgütererzeugung,Goods production
+2024-01-01,-19.2451,Sachgütererzeugung,Goods production
+2024-02-01,-23.3837,Sachgütererzeugung,Goods production
+1996-01-01,-31.5685,Bau,Construction
+1996-02-01,-28.9672,Bau,Construction
+1996-03-01,-30.5788,Bau,Construction
+1996-04-01,-30.1453,Bau,Construction
+1996-05-01,-18.1706,Bau,Construction
+1996-06-01,-16.9516,Bau,Construction
+1996-07-01,-17.7371,Bau,Construction
+1996-08-01,-17.6294,Bau,Construction
+1996-09-01,-18.3861,Bau,Construction
+1996-10-01,-13.6685,Bau,Construction
+1996-11-01,-18.5384,Bau,Construction
+1996-12-01,-13.6166,Bau,Construction
+1997-01-01,-16.0062,Bau,Construction
+1997-02-01,-16.3303,Bau,Construction
+1997-03-01,-16.7906,Bau,Construction
+1997-04-01,-16.2214,Bau,Construction
+1997-05-01,-19.7511,Bau,Construction
+1997-06-01,-22.5112,Bau,Construction
+1997-07-01,-23.449,Bau,Construction
+1997-08-01,-19.8894,Bau,Construction
+1997-09-01,-21.184,Bau,Construction
+1997-10-01,-19.6321,Bau,Construction
+1997-11-01,-15.7532,Bau,Construction
+1997-12-01,-23.1907,Bau,Construction
+1998-01-01,-20.0618,Bau,Construction
+1998-02-01,-20.2525,Bau,Construction
+1998-03-01,-14.7376,Bau,Construction
+1998-04-01,-18.9585,Bau,Construction
+1998-05-01,-23.0892,Bau,Construction
+1998-06-01,-23.3668,Bau,Construction
+1998-07-01,-22.9952,Bau,Construction
+1998-08-01,-23.622,Bau,Construction
+1998-09-01,-19.3206,Bau,Construction
+1998-10-01,-22.5836,Bau,Construction
+1998-11-01,-21.3915,Bau,Construction
+1998-12-01,-18.1251,Bau,Construction
+1999-01-01,-15.6402,Bau,Construction
+1999-02-01,-19.0661,Bau,Construction
+1999-03-01,-22.1296,Bau,Construction
+1999-04-01,-15.372,Bau,Construction
+1999-05-01,-17.0201,Bau,Construction
+1999-06-01,-10.2008,Bau,Construction
+1999-07-01,-7.1268,Bau,Construction
+1999-08-01,-8.7195,Bau,Construction
+1999-09-01,-9.1231,Bau,Construction
+1999-10-01,-10.8893,Bau,Construction
+1999-11-01,-7.8963,Bau,Construction
+1999-12-01,-8.1804,Bau,Construction
+2000-01-01,-5.383,Bau,Construction
+2000-02-01,-4.0757,Bau,Construction
+2000-03-01,-2.3267,Bau,Construction
+2000-04-01,0.2385,Bau,Construction
+2000-05-01,-3.7396,Bau,Construction
+2000-06-01,-6.7884,Bau,Construction
+2000-07-01,-3.2331,Bau,Construction
+2000-08-01,-5.3665,Bau,Construction
+2000-09-01,-7.4316,Bau,Construction
+2000-10-01,-8.444,Bau,Construction
+2000-11-01,-11.3986,Bau,Construction
+2000-12-01,-7.2194,Bau,Construction
+2001-01-01,-9.9405,Bau,Construction
+2001-02-01,-8.0533,Bau,Construction
+2001-03-01,-13.2483,Bau,Construction
+2001-04-01,-17.7073,Bau,Construction
+2001-05-01,-18.9647,Bau,Construction
+2001-06-01,-23.1655,Bau,Construction
+2001-07-01,-26.5147,Bau,Construction
+2001-08-01,-23.1527,Bau,Construction
+2001-09-01,-26.1394,Bau,Construction
+2001-10-01,-27.784300000000002,Bau,Construction
+2001-11-01,-27.5366,Bau,Construction
+2001-12-01,-26.9083,Bau,Construction
+2002-01-01,-26.3042,Bau,Construction
+2002-02-01,-17.4915,Bau,Construction
+2002-03-01,-17.2593,Bau,Construction
+2002-04-01,-15.7394,Bau,Construction
+2002-05-01,-17.9998,Bau,Construction
+2002-06-01,-19.2155,Bau,Construction
+2002-07-01,-15.2244,Bau,Construction
+2002-08-01,-14.3176,Bau,Construction
+2002-09-01,-16.7635,Bau,Construction
+2002-10-01,-13.6722,Bau,Construction
+2002-11-01,-11.1154,Bau,Construction
+2002-12-01,-15.6197,Bau,Construction
+2003-01-01,-11.4207,Bau,Construction
+2003-02-01,-6.4995,Bau,Construction
+2003-03-01,-9.6116,Bau,Construction
+2003-04-01,-6.0162,Bau,Construction
+2003-05-01,0.5614,Bau,Construction
+2003-06-01,-1.2184,Bau,Construction
+2003-07-01,-0.504,Bau,Construction
+2003-08-01,-2.9715,Bau,Construction
+2003-09-01,-4.1613,Bau,Construction
+2003-10-01,-3.3867,Bau,Construction
+2003-11-01,-6.6146,Bau,Construction
+2003-12-01,-0.005,Bau,Construction
+2004-01-01,4.9718,Bau,Construction
+2004-02-01,-9.0659,Bau,Construction
+2004-03-01,-13.2608,Bau,Construction
+2004-04-01,-10.9142,Bau,Construction
+2004-05-01,-1.48,Bau,Construction
+2004-06-01,-7.175,Bau,Construction
+2004-07-01,-3.3871000000000002,Bau,Construction
+2004-08-01,-3.016,Bau,Construction
+2004-09-01,-3.8372,Bau,Construction
+2004-10-01,1.2512,Bau,Construction
+2004-11-01,2.2212,Bau,Construction
+2004-12-01,5.9242,Bau,Construction
+2005-01-01,2.7988,Bau,Construction
+2005-02-01,-10.3998,Bau,Construction
+2005-03-01,-15.0537,Bau,Construction
+2005-04-01,-9.7266,Bau,Construction
+2005-05-01,-3.6903,Bau,Construction
+2005-06-01,-0.4817,Bau,Construction
+2005-07-01,-5.5955,Bau,Construction
+2005-08-01,-0.4476,Bau,Construction
+2005-09-01,5.2828,Bau,Construction
+2005-10-01,4.3577,Bau,Construction
+2005-11-01,5.9178,Bau,Construction
+2005-12-01,6.4336,Bau,Construction
+2006-01-01,7.6739,Bau,Construction
+2006-02-01,2.97,Bau,Construction
+2006-03-01,-0.9153,Bau,Construction
+2006-04-01,5.2161,Bau,Construction
+2006-05-01,5.2088,Bau,Construction
+2006-06-01,8.6173,Bau,Construction
+2006-07-01,12.4771,Bau,Construction
+2006-08-01,10.62,Bau,Construction
+2006-09-01,18.3805,Bau,Construction
+2006-10-01,13.7699,Bau,Construction
+2006-11-01,16.5099,Bau,Construction
+2006-12-01,10.0338,Bau,Construction
+2007-01-01,15.3928,Bau,Construction
+2007-02-01,12.2876,Bau,Construction
+2007-03-01,11.0502,Bau,Construction
+2007-04-01,11.1671,Bau,Construction
+2007-05-01,9.2092,Bau,Construction
+2007-06-01,6.7955,Bau,Construction
+2007-07-01,9.3462,Bau,Construction
+2007-08-01,4.2696,Bau,Construction
+2007-09-01,5.551,Bau,Construction
+2007-10-01,8.0406,Bau,Construction
+2007-11-01,4.6942,Bau,Construction
+2007-12-01,6.9718,Bau,Construction
+2008-01-01,10.2611,Bau,Construction
+2008-02-01,10.9535,Bau,Construction
+2008-03-01,5.9941,Bau,Construction
+2008-04-01,7.8403,Bau,Construction
+2008-05-01,5.9355,Bau,Construction
+2008-06-01,8.4604,Bau,Construction
+2008-07-01,11.7341,Bau,Construction
+2008-08-01,9.1042,Bau,Construction
+2008-09-01,5.1375,Bau,Construction
+2008-10-01,1.896,Bau,Construction
+2008-11-01,-1.525,Bau,Construction
+2008-12-01,-4.3675,Bau,Construction
+2009-01-01,-4.6378,Bau,Construction
+2009-02-01,-4.7195,Bau,Construction
+2009-03-01,-13.1479,Bau,Construction
+2009-04-01,-15.3752,Bau,Construction
+2009-05-01,-16.9229,Bau,Construction
+2009-06-01,-18.262,Bau,Construction
+2009-07-01,-9.9897,Bau,Construction
+2009-08-01,-7.0554,Bau,Construction
+2009-09-01,-5.0957,Bau,Construction
+2009-10-01,-3.2446,Bau,Construction
+2009-11-01,-4.8495,Bau,Construction
+2009-12-01,0.6411,Bau,Construction
+2010-01-01,-7.0112,Bau,Construction
+2010-02-01,-2.7644,Bau,Construction
+2010-03-01,-2.4672,Bau,Construction
+2010-04-01,-0.3493,Bau,Construction
+2010-05-01,-3.884,Bau,Construction
+2010-06-01,-1.7495,Bau,Construction
+2010-07-01,0.2049,Bau,Construction
+2010-08-01,-1.5106,Bau,Construction
+2010-09-01,0.1898,Bau,Construction
+2010-10-01,4.2722,Bau,Construction
+2010-11-01,5.914,Bau,Construction
+2010-12-01,4.8939,Bau,Construction
+2011-01-01,4.7588,Bau,Construction
+2011-02-01,4.3421,Bau,Construction
+2011-03-01,4.5322,Bau,Construction
+2011-04-01,8.6142,Bau,Construction
+2011-05-01,4.432,Bau,Construction
+2011-06-01,7.5303,Bau,Construction
+2011-07-01,3.2919,Bau,Construction
+2011-08-01,4.6453,Bau,Construction
+2011-09-01,1.6072,Bau,Construction
+2011-10-01,2.341,Bau,Construction
+2011-11-01,4.8479,Bau,Construction
+2011-12-01,10.3877,Bau,Construction
+2012-01-01,9.4038,Bau,Construction
+2012-02-01,1.5271,Bau,Construction
+2012-03-01,10.0997,Bau,Construction
+2012-04-01,10.5614,Bau,Construction
+2012-05-01,7.0427,Bau,Construction
+2012-06-01,8.4347,Bau,Construction
+2012-07-01,8.9664,Bau,Construction
+2012-08-01,5.7907,Bau,Construction
+2012-09-01,3.6626,Bau,Construction
+2012-10-01,5.2014,Bau,Construction
+2012-11-01,7.5754,Bau,Construction
+2012-12-01,8.4737,Bau,Construction
+2013-01-01,4.8568,Bau,Construction
+2013-02-01,8.533,Bau,Construction
+2013-03-01,4.4693,Bau,Construction
+2013-04-01,-3.6775,Bau,Construction
+2013-05-01,-0.062,Bau,Construction
+2013-06-01,2.2598,Bau,Construction
+2013-07-01,0.5397,Bau,Construction
+2013-08-01,3.2131,Bau,Construction
+2013-09-01,-1.1816,Bau,Construction
+2013-10-01,2.65,Bau,Construction
+2013-11-01,0.4153,Bau,Construction
+2013-12-01,0.8382,Bau,Construction
+2014-01-01,0.7069,Bau,Construction
+2014-02-01,3.0523,Bau,Construction
+2014-03-01,-0.3205,Bau,Construction
+2014-04-01,-3.6358,Bau,Construction
+2014-05-01,-4.25,Bau,Construction
+2014-06-01,-7.418,Bau,Construction
+2014-07-01,-9.5012,Bau,Construction
+2014-08-01,-10.6814,Bau,Construction
+2014-09-01,-8.3827,Bau,Construction
+2014-10-01,-8.5294,Bau,Construction
+2014-11-01,-3.6956,Bau,Construction
+2014-12-01,-3.1379,Bau,Construction
+2015-01-01,-6.1346,Bau,Construction
+2015-02-01,-4.9767,Bau,Construction
+2015-03-01,-9.8821,Bau,Construction
+2015-04-01,-7.095,Bau,Construction
+2015-05-01,-8.6078,Bau,Construction
+2015-06-01,-8.215,Bau,Construction
+2015-07-01,-2.6282,Bau,Construction
+2015-08-01,-1.4667,Bau,Construction
+2015-09-01,0.5597,Bau,Construction
+2015-10-01,-0.4193,Bau,Construction
+2015-11-01,2.378,Bau,Construction
+2015-12-01,1.5867,Bau,Construction
+2016-01-01,1.5302,Bau,Construction
+2016-02-01,2.2697,Bau,Construction
+2016-03-01,0.9233,Bau,Construction
+2016-04-01,6.3892,Bau,Construction
+2016-05-01,6.417,Bau,Construction
+2016-06-01,0.0961,Bau,Construction
+2016-07-01,-0.3413,Bau,Construction
+2016-08-01,0.9542,Bau,Construction
+2016-09-01,4.2747,Bau,Construction
+2016-10-01,7.8476,Bau,Construction
+2016-11-01,8.9205,Bau,Construction
+2016-12-01,12.1817,Bau,Construction
+2017-01-01,13.4138,Bau,Construction
+2017-02-01,15.1567,Bau,Construction
+2017-03-01,18.4964,Bau,Construction
+2017-04-01,17.5364,Bau,Construction
+2017-05-01,17.3316,Bau,Construction
+2017-06-01,19.6236,Bau,Construction
+2017-07-01,19.7234,Bau,Construction
+2017-08-01,18.0267,Bau,Construction
+2017-09-01,19.4256,Bau,Construction
+2017-10-01,22.417,Bau,Construction
+2017-11-01,20.7121,Bau,Construction
+2017-12-01,24.4735,Bau,Construction
+2018-01-01,24.2427,Bau,Construction
+2018-02-01,23.7897,Bau,Construction
+2018-03-01,22.6315,Bau,Construction
+2018-04-01,22.3263,Bau,Construction
+2018-05-01,25.961,Bau,Construction
+2018-06-01,26.7266,Bau,Construction
+2018-07-01,27.0867,Bau,Construction
+2018-08-01,26.8198,Bau,Construction
+2018-09-01,25.1279,Bau,Construction
+2018-10-01,25.2431,Bau,Construction
+2018-11-01,25.2369,Bau,Construction
+2018-12-01,28.1918,Bau,Construction
+2019-01-01,23.0279,Bau,Construction
+2019-02-01,24.6833,Bau,Construction
+2019-03-01,27.6264,Bau,Construction
+2019-04-01,20.284300000000002,Bau,Construction
+2019-05-01,22.1483,Bau,Construction
+2019-06-01,21.4009,Bau,Construction
+2019-07-01,20.3068,Bau,Construction
+2019-08-01,20.5676,Bau,Construction
+2019-09-01,19.5589,Bau,Construction
+2019-10-01,16.7161,Bau,Construction
+2019-11-01,21.4904,Bau,Construction
+2019-12-01,20.7071,Bau,Construction
+2020-01-01,23.6992,Bau,Construction
+2020-02-01,25.3559,Bau,Construction
+2020-03-01,22.9487,Bau,Construction
+2020-04-01,-10.4696,Bau,Construction
+2020-05-01,-9.9292,Bau,Construction
+2020-06-01,-0.3893,Bau,Construction
+2020-07-01,3.2546,Bau,Construction
+2020-08-01,6.4005,Bau,Construction
+2020-09-01,11.0128,Bau,Construction
+2020-10-01,8.047,Bau,Construction
+2020-11-01,4.8349,Bau,Construction
+2020-12-01,12.7418,Bau,Construction
+2021-01-01,11.5727,Bau,Construction
+2021-02-01,14.3938,Bau,Construction
+2021-03-01,22.2104,Bau,Construction
+2021-04-01,34.567,Bau,Construction
+2021-05-01,35.973,Bau,Construction
+2021-06-01,41.6965,Bau,Construction
+2021-07-01,35.3873,Bau,Construction
+2021-08-01,36.7227,Bau,Construction
+2021-09-01,39.1564,Bau,Construction
+2021-10-01,35.5306,Bau,Construction
+2021-11-01,36.6605,Bau,Construction
+2021-12-01,40.6576,Bau,Construction
+2022-01-01,38.6276,Bau,Construction
+2022-02-01,40.4404,Bau,Construction
+2022-03-01,39.9963,Bau,Construction
+2022-04-01,45.9755,Bau,Construction
+2022-05-01,38.2758,Bau,Construction
+2022-06-01,33.3569,Bau,Construction
+2022-07-01,32.3314,Bau,Construction
+2022-08-01,28.7162,Bau,Construction
+2022-09-01,27.7823,Bau,Construction
+2022-10-01,29.8269,Bau,Construction
+2022-11-01,26.5219,Bau,Construction
+2022-12-01,26.3035,Bau,Construction
+2023-01-01,23.0862,Bau,Construction
+2023-02-01,19.9313,Bau,Construction
+2023-03-01,15.0828,Bau,Construction
+2023-04-01,15.7301,Bau,Construction
+2023-05-01,11.8382,Bau,Construction
+2023-06-01,4.595,Bau,Construction
+2023-07-01,0.4041,Bau,Construction
+2023-08-01,-0.3197,Bau,Construction
+2023-09-01,-0.4144,Bau,Construction
+2023-10-01,-0.0756,Bau,Construction
+2023-11-01,1.1776,Bau,Construction
+2023-12-01,3e-4,Bau,Construction
+2024-01-01,-0.8452,Bau,Construction
+2024-02-01,-1.7451,Bau,Construction
+1996-01-01,-30.569,Einzelhandel,Retail
+1996-02-01,-24.3027,Einzelhandel,Retail
+1996-03-01,-25.8905,Einzelhandel,Retail
+1996-04-01,-27.7961,Einzelhandel,Retail
+1996-05-01,-27.2276,Einzelhandel,Retail
+1996-06-01,-23.8271,Einzelhandel,Retail
+1996-07-01,-26.7196,Einzelhandel,Retail
+1996-08-01,-26.1772,Einzelhandel,Retail
+1996-09-01,-22.1286,Einzelhandel,Retail
+1996-10-01,-22.7958,Einzelhandel,Retail
+1996-11-01,-23.3792,Einzelhandel,Retail
+1996-12-01,-22.9537,Einzelhandel,Retail
+1997-01-01,-20.9809,Einzelhandel,Retail
+1997-02-01,-26.1231,Einzelhandel,Retail
+1997-03-01,-22.6978,Einzelhandel,Retail
+1997-04-01,-24.2064,Einzelhandel,Retail
+1997-05-01,-23.9755,Einzelhandel,Retail
+1997-06-01,-25.83,Einzelhandel,Retail
+1997-07-01,-26.2693,Einzelhandel,Retail
+1997-08-01,-23.9833,Einzelhandel,Retail
+1997-09-01,-25.697,Einzelhandel,Retail
+1997-10-01,-23.2959,Einzelhandel,Retail
+1997-11-01,-20.1004,Einzelhandel,Retail
+1997-12-01,-22.2693,Einzelhandel,Retail
+1998-01-01,-19.666,Einzelhandel,Retail
+1998-02-01,-19.9465,Einzelhandel,Retail
+1998-03-01,-20.8872,Einzelhandel,Retail
+1998-04-01,-19.0519,Einzelhandel,Retail
+1998-05-01,-19.4682,Einzelhandel,Retail
+1998-06-01,-18.1078,Einzelhandel,Retail
+1998-07-01,-19.2589,Einzelhandel,Retail
+1998-08-01,-20.7586,Einzelhandel,Retail
+1998-09-01,-20.6033,Einzelhandel,Retail
+1998-10-01,-19.6352,Einzelhandel,Retail
+1998-11-01,-22.4926,Einzelhandel,Retail
+1998-12-01,-20.9855,Einzelhandel,Retail
+1999-01-01,-21.3944,Einzelhandel,Retail
+1999-02-01,-22.6381,Einzelhandel,Retail
+1999-03-01,-24.45,Einzelhandel,Retail
+1999-04-01,-19.8753,Einzelhandel,Retail
+1999-05-01,-18.7161,Einzelhandel,Retail
+1999-06-01,-22.7775,Einzelhandel,Retail
+1999-07-01,-14.8597,Einzelhandel,Retail
+1999-08-01,-13.1007,Einzelhandel,Retail
+1999-09-01,-14.6136,Einzelhandel,Retail
+1999-10-01,-19.7719,Einzelhandel,Retail
+1999-11-01,-17.6603,Einzelhandel,Retail
+1999-12-01,-15.9447,Einzelhandel,Retail
+2000-01-01,-15.5332,Einzelhandel,Retail
+2000-02-01,-16.3641,Einzelhandel,Retail
+2000-03-01,-12.6191,Einzelhandel,Retail
+2000-04-01,-13.8473,Einzelhandel,Retail
+2000-05-01,-14.496,Einzelhandel,Retail
+2000-06-01,-13.4827,Einzelhandel,Retail
+2000-07-01,-10.0828,Einzelhandel,Retail
+2000-08-01,-16.5934,Einzelhandel,Retail
+2000-09-01,-19.4659,Einzelhandel,Retail
+2000-10-01,-15.4717,Einzelhandel,Retail
+2000-11-01,-16.725,Einzelhandel,Retail
+2000-12-01,-17.1526,Einzelhandel,Retail
+2001-01-01,-19.1481,Einzelhandel,Retail
+2001-02-01,-17.6032,Einzelhandel,Retail
+2001-03-01,-15.6125,Einzelhandel,Retail
+2001-04-01,-16.4579,Einzelhandel,Retail
+2001-05-01,3.1095,Einzelhandel,Retail
+2001-06-01,1.907,Einzelhandel,Retail
+2001-07-01,1.4842,Einzelhandel,Retail
+2001-08-01,3.3852,Einzelhandel,Retail
+2001-09-01,2.9761,Einzelhandel,Retail
+2001-10-01,7.1811,Einzelhandel,Retail
+2001-11-01,10.8071,Einzelhandel,Retail
+2001-12-01,10.2267,Einzelhandel,Retail
+2002-01-01,1.8658,Einzelhandel,Retail
+2002-02-01,5.5777,Einzelhandel,Retail
+2002-03-01,9.2933,Einzelhandel,Retail
+2002-04-01,9.2276,Einzelhandel,Retail
+2002-05-01,2.0879,Einzelhandel,Retail
+2002-06-01,4.269,Einzelhandel,Retail
+2002-07-01,1.517,Einzelhandel,Retail
+2002-08-01,1.4606,Einzelhandel,Retail
+2002-09-01,-0.844,Einzelhandel,Retail
+2002-10-01,4.7963,Einzelhandel,Retail
+2002-11-01,5.0814,Einzelhandel,Retail
+2002-12-01,5.435,Einzelhandel,Retail
+2003-01-01,1.681,Einzelhandel,Retail
+2003-02-01,2.2911,Einzelhandel,Retail
+2003-03-01,3.0904,Einzelhandel,Retail
+2003-04-01,4.8201,Einzelhandel,Retail
+2003-05-01,-12.9422,Einzelhandel,Retail
+2003-06-01,-7.0644,Einzelhandel,Retail
+2003-07-01,-8.3174,Einzelhandel,Retail
+2003-08-01,-9.6325,Einzelhandel,Retail
+2003-09-01,-6.5332,Einzelhandel,Retail
+2003-10-01,-5.191,Einzelhandel,Retail
+2003-11-01,-2.4171,Einzelhandel,Retail
+2003-12-01,-5.6102,Einzelhandel,Retail
+2004-01-01,-6.3375,Einzelhandel,Retail
+2004-02-01,-4.6865,Einzelhandel,Retail
+2004-03-01,-2.2723,Einzelhandel,Retail
+2004-04-01,2.857,Einzelhandel,Retail
+2004-05-01,1.8596,Einzelhandel,Retail
+2004-06-01,-3.4724,Einzelhandel,Retail
+2004-07-01,-2.7892,Einzelhandel,Retail
+2004-08-01,-3.8451,Einzelhandel,Retail
+2004-09-01,-2.0628,Einzelhandel,Retail
+2004-10-01,-4.285,Einzelhandel,Retail
+2004-11-01,-7.8176,Einzelhandel,Retail
+2004-12-01,-2.7584,Einzelhandel,Retail
+2005-01-01,-2.052,Einzelhandel,Retail
+2005-02-01,-4.3675,Einzelhandel,Retail
+2005-03-01,-3.8378,Einzelhandel,Retail
+2005-04-01,-2.43,Einzelhandel,Retail
+2005-05-01,-3.8756,Einzelhandel,Retail
+2005-06-01,-4.0713,Einzelhandel,Retail
+2005-07-01,-0.028,Einzelhandel,Retail
+2005-08-01,-1.6713,Einzelhandel,Retail
+2005-09-01,2.722,Einzelhandel,Retail
+2005-10-01,-0.9854,Einzelhandel,Retail
+2005-11-01,-2.1169,Einzelhandel,Retail
+2005-12-01,0.1876,Einzelhandel,Retail
+2006-01-01,0.6515,Einzelhandel,Retail
+2006-02-01,5.6109,Einzelhandel,Retail
+2006-03-01,4.6889,Einzelhandel,Retail
+2006-04-01,4.4583,Einzelhandel,Retail
+2006-05-01,4.2907,Einzelhandel,Retail
+2006-06-01,3.1502,Einzelhandel,Retail
+2006-07-01,1.8158,Einzelhandel,Retail
+2006-08-01,3.553,Einzelhandel,Retail
+2006-09-01,4.3655,Einzelhandel,Retail
+2006-10-01,4.3987,Einzelhandel,Retail
+2006-11-01,4.672,Einzelhandel,Retail
+2006-12-01,3.578,Einzelhandel,Retail
+2007-01-01,2.4865,Einzelhandel,Retail
+2007-02-01,6.0457,Einzelhandel,Retail
+2007-03-01,7.4992,Einzelhandel,Retail
+2007-04-01,7.8696,Einzelhandel,Retail
+2007-05-01,10.1945,Einzelhandel,Retail
+2007-06-01,5.4589,Einzelhandel,Retail
+2007-07-01,7.5491,Einzelhandel,Retail
+2007-08-01,9.4723,Einzelhandel,Retail
+2007-09-01,6.3503,Einzelhandel,Retail
+2007-10-01,5.5883,Einzelhandel,Retail
+2007-11-01,5.034,Einzelhandel,Retail
+2007-12-01,4.8039,Einzelhandel,Retail
+2008-01-01,4.9952,Einzelhandel,Retail
+2008-02-01,5.7187,Einzelhandel,Retail
+2008-03-01,3.7439,Einzelhandel,Retail
+2008-04-01,0.7186,Einzelhandel,Retail
+2008-05-01,-1.3697,Einzelhandel,Retail
+2008-06-01,1.7326,Einzelhandel,Retail
+2008-07-01,-3.9327,Einzelhandel,Retail
+2008-08-01,-1.353,Einzelhandel,Retail
+2008-09-01,-4.9293,Einzelhandel,Retail
+2008-10-01,-3.6871,Einzelhandel,Retail
+2008-11-01,-5.5336,Einzelhandel,Retail
+2008-12-01,-8.221,Einzelhandel,Retail
+2009-01-01,-4.2763,Einzelhandel,Retail
+2009-02-01,-10.8366,Einzelhandel,Retail
+2009-03-01,-14.9347,Einzelhandel,Retail
+2009-04-01,-11.9082,Einzelhandel,Retail
+2009-05-01,-4.3264,Einzelhandel,Retail
+2009-06-01,-3.4477,Einzelhandel,Retail
+2009-07-01,-5.1875,Einzelhandel,Retail
+2009-08-01,-3.8487,Einzelhandel,Retail
+2009-09-01,-1.9623,Einzelhandel,Retail
+2009-10-01,1.1725,Einzelhandel,Retail
+2009-11-01,1.6304,Einzelhandel,Retail
+2009-12-01,2.3629,Einzelhandel,Retail
+2010-01-01,2.791,Einzelhandel,Retail
+2010-02-01,0.6655,Einzelhandel,Retail
+2010-03-01,2.3884,Einzelhandel,Retail
+2010-04-01,8.2773,Einzelhandel,Retail
+2010-05-01,4.9245,Einzelhandel,Retail
+2010-06-01,2.0877,Einzelhandel,Retail
+2010-07-01,4.726,Einzelhandel,Retail
+2010-08-01,4.1714,Einzelhandel,Retail
+2010-09-01,4.6846,Einzelhandel,Retail
+2010-10-01,6.3097,Einzelhandel,Retail
+2010-11-01,5.7799,Einzelhandel,Retail
+2010-12-01,8.6215,Einzelhandel,Retail
+2011-01-01,6.0774,Einzelhandel,Retail
+2011-02-01,5.7833,Einzelhandel,Retail
+2011-03-01,5.4199,Einzelhandel,Retail
+2011-04-01,1.2677,Einzelhandel,Retail
+2011-05-01,0.6886,Einzelhandel,Retail
+2011-06-01,3.4988,Einzelhandel,Retail
+2011-07-01,3.7253,Einzelhandel,Retail
+2011-08-01,-1.3166,Einzelhandel,Retail
+2011-09-01,-1.1447,Einzelhandel,Retail
+2011-10-01,-3.4452,Einzelhandel,Retail
+2011-11-01,-2.9728,Einzelhandel,Retail
+2011-12-01,-2.4521,Einzelhandel,Retail
+2012-01-01,-2.4841,Einzelhandel,Retail
+2012-02-01,0.8965,Einzelhandel,Retail
+2012-03-01,0.9283,Einzelhandel,Retail
+2012-04-01,2.8145,Einzelhandel,Retail
+2012-05-01,0.86240000000000006,Einzelhandel,Retail
+2012-06-01,0.5596,Einzelhandel,Retail
+2012-07-01,1.1894,Einzelhandel,Retail
+2012-08-01,-0.419,Einzelhandel,Retail
+2012-09-01,-1.0529,Einzelhandel,Retail
+2012-10-01,-2.2755,Einzelhandel,Retail
+2012-11-01,0.6215,Einzelhandel,Retail
+2012-12-01,-3.981,Einzelhandel,Retail
+2013-01-01,-4.0798,Einzelhandel,Retail
+2013-02-01,-1.5224,Einzelhandel,Retail
+2013-03-01,-4.7051,Einzelhandel,Retail
+2013-04-01,-4.4435,Einzelhandel,Retail
+2013-05-01,-2.9104,Einzelhandel,Retail
+2013-06-01,-1.633,Einzelhandel,Retail
+2013-07-01,-4.0818,Einzelhandel,Retail
+2013-08-01,-0.7891,Einzelhandel,Retail
+2013-09-01,-0.4915,Einzelhandel,Retail
+2013-10-01,0.1699,Einzelhandel,Retail
+2013-11-01,-0.5579,Einzelhandel,Retail
+2013-12-01,0.458,Einzelhandel,Retail
+2014-01-01,0.7612,Einzelhandel,Retail
+2014-02-01,-1.5763,Einzelhandel,Retail
+2014-03-01,2.9823,Einzelhandel,Retail
+2014-04-01,-1.099,Einzelhandel,Retail
+2014-05-01,1.9745,Einzelhandel,Retail
+2014-06-01,0.4297,Einzelhandel,Retail
+2014-07-01,-0.8067,Einzelhandel,Retail
+2014-08-01,0.8845,Einzelhandel,Retail
+2014-09-01,-0.8553,Einzelhandel,Retail
+2014-10-01,-0.3795,Einzelhandel,Retail
+2014-11-01,0.1788,Einzelhandel,Retail
+2014-12-01,-4.3149,Einzelhandel,Retail
+2015-01-01,-1.1907,Einzelhandel,Retail
+2015-02-01,-1.1272,Einzelhandel,Retail
+2015-03-01,-3.7663,Einzelhandel,Retail
+2015-04-01,-3.0663,Einzelhandel,Retail
+2015-05-01,-2.4458,Einzelhandel,Retail
+2015-06-01,-3.1355,Einzelhandel,Retail
+2015-07-01,-3.0015,Einzelhandel,Retail
+2015-08-01,-1.1819,Einzelhandel,Retail
+2015-09-01,-3.6672,Einzelhandel,Retail
+2015-10-01,-2.8713,Einzelhandel,Retail
+2015-11-01,-2.761,Einzelhandel,Retail
+2015-12-01,1.1687,Einzelhandel,Retail
+2016-01-01,-2.2699,Einzelhandel,Retail
+2016-02-01,-2.2867,Einzelhandel,Retail
+2016-03-01,0.9539,Einzelhandel,Retail
+2016-04-01,1.1061,Einzelhandel,Retail
+2016-05-01,-0.2917,Einzelhandel,Retail
+2016-06-01,0.2991,Einzelhandel,Retail
+2016-07-01,-0.0553,Einzelhandel,Retail
+2016-08-01,1.1995,Einzelhandel,Retail
+2016-09-01,2.6924,Einzelhandel,Retail
+2016-10-01,0.5208,Einzelhandel,Retail
+2016-11-01,2.8975,Einzelhandel,Retail
+2016-12-01,3.7194,Einzelhandel,Retail
+2017-01-01,1.2073,Einzelhandel,Retail
+2017-02-01,2.5218,Einzelhandel,Retail
+2017-03-01,1.4105,Einzelhandel,Retail
+2017-04-01,2.3366,Einzelhandel,Retail
+2017-05-01,-1.0035,Einzelhandel,Retail
+2017-06-01,4.7027,Einzelhandel,Retail
+2017-07-01,3.8551,Einzelhandel,Retail
+2017-08-01,3.3533,Einzelhandel,Retail
+2017-09-01,2.3297,Einzelhandel,Retail
+2017-10-01,2.965,Einzelhandel,Retail
+2017-11-01,0.6505,Einzelhandel,Retail
+2017-12-01,3.6761,Einzelhandel,Retail
+2018-01-01,2.8213,Einzelhandel,Retail
+2018-02-01,2.1655,Einzelhandel,Retail
+2018-03-01,0.4524,Einzelhandel,Retail
+2018-04-01,1.0479,Einzelhandel,Retail
+2018-05-01,1.6491,Einzelhandel,Retail
+2018-06-01,0.8855,Einzelhandel,Retail
+2018-07-01,1.1059,Einzelhandel,Retail
+2018-08-01,-0.6361,Einzelhandel,Retail
+2018-09-01,0.1469,Einzelhandel,Retail
+2018-10-01,-2.0547,Einzelhandel,Retail
+2018-11-01,-0.1133,Einzelhandel,Retail
+2018-12-01,-1.2388,Einzelhandel,Retail
+2019-01-01,-0.3657,Einzelhandel,Retail
+2019-02-01,-0.253,Einzelhandel,Retail
+2019-03-01,-0.2691,Einzelhandel,Retail
+2019-04-01,-0.2551,Einzelhandel,Retail
+2019-05-01,-0.2057,Einzelhandel,Retail
+2019-06-01,0.032,Einzelhandel,Retail
+2019-07-01,-2.8862,Einzelhandel,Retail
+2019-08-01,-1.2431,Einzelhandel,Retail
+2019-09-01,0.2702,Einzelhandel,Retail
+2019-10-01,1.1072,Einzelhandel,Retail
+2019-11-01,-0.0317,Einzelhandel,Retail
+2019-12-01,-0.398,Einzelhandel,Retail
+2020-01-01,-0.0692,Einzelhandel,Retail
+2020-02-01,0.2655,Einzelhandel,Retail
+2020-03-01,-4.397,Einzelhandel,Retail
+2020-04-01,-24.0744,Einzelhandel,Retail
+2020-05-01,-16.8531,Einzelhandel,Retail
+2020-06-01,-13.1263,Einzelhandel,Retail
+2020-07-01,-7.0083,Einzelhandel,Retail
+2020-08-01,-1.6776,Einzelhandel,Retail
+2020-09-01,-1.9384,Einzelhandel,Retail
+2020-10-01,-1.2668,Einzelhandel,Retail
+2020-11-01,-8.0149,Einzelhandel,Retail
+2020-12-01,-8.816,Einzelhandel,Retail
+2021-01-01,-15.1932,Einzelhandel,Retail
+2021-02-01,-13.2061,Einzelhandel,Retail
+2021-03-01,-7.6946,Einzelhandel,Retail
+2021-04-01,-2.5563,Einzelhandel,Retail
+2021-05-01,-2.8571,Einzelhandel,Retail
+2021-06-01,1.7036,Einzelhandel,Retail
+2021-07-01,1.5683,Einzelhandel,Retail
+2021-08-01,-1.2864,Einzelhandel,Retail
+2021-09-01,-0.7335,Einzelhandel,Retail
+2021-10-01,-3.707,Einzelhandel,Retail
+2021-11-01,-4.3414,Einzelhandel,Retail
+2021-12-01,-13.276,Einzelhandel,Retail
+2022-01-01,-4.8347,Einzelhandel,Retail
+2022-02-01,-6.2763,Einzelhandel,Retail
+2022-03-01,-12.1138,Einzelhandel,Retail
+2022-04-01,-5.2192,Einzelhandel,Retail
+2022-05-01,-4.5251,Einzelhandel,Retail
+2022-06-01,-9.1196,Einzelhandel,Retail
+2022-07-01,-13.193,Einzelhandel,Retail
+2022-08-01,-14.9619,Einzelhandel,Retail
+2022-09-01,-17.3662,Einzelhandel,Retail
+2022-10-01,-14.1023,Einzelhandel,Retail
+2022-11-01,-13.0014,Einzelhandel,Retail
+2022-12-01,-9.9122,Einzelhandel,Retail
+2023-01-01,-8.0375,Einzelhandel,Retail
+2023-02-01,-7.8028,Einzelhandel,Retail
+2023-03-01,-7.3653,Einzelhandel,Retail
+2023-04-01,-1.8756,Einzelhandel,Retail
+2023-05-01,-9.2057,Einzelhandel,Retail
+2023-06-01,-10.7676,Einzelhandel,Retail
+2023-07-01,-11.8098,Einzelhandel,Retail
+2023-08-01,-14.7957,Einzelhandel,Retail
+2023-09-01,-16.8146,Einzelhandel,Retail
+2023-10-01,-15.2615,Einzelhandel,Retail
+2023-11-01,-13.2664,Einzelhandel,Retail
+2023-12-01,-10.3397,Einzelhandel,Retail
+2024-01-01,-10.1305,Einzelhandel,Retail
+2024-02-01,-10.9257,Einzelhandel,Retail
+1996-01-01,NA,Dienstleistungen,Services
+1996-02-01,NA,Dienstleistungen,Services
+1996-03-01,NA,Dienstleistungen,Services
+1996-04-01,NA,Dienstleistungen,Services
+1996-05-01,NA,Dienstleistungen,Services
+1996-06-01,NA,Dienstleistungen,Services
+1996-07-01,NA,Dienstleistungen,Services
+1996-08-01,NA,Dienstleistungen,Services
+1996-09-01,NA,Dienstleistungen,Services
+1996-10-01,NA,Dienstleistungen,Services
+1996-11-01,NA,Dienstleistungen,Services
+1996-12-01,NA,Dienstleistungen,Services
+1997-01-01,9.2609,Dienstleistungen,Services
+1997-02-01,14.0815,Dienstleistungen,Services
+1997-03-01,15.0075,Dienstleistungen,Services
+1997-04-01,13.43,Dienstleistungen,Services
+1997-05-01,15.0144,Dienstleistungen,Services
+1997-06-01,15.9694,Dienstleistungen,Services
+1997-07-01,11.5643,Dienstleistungen,Services
+1997-08-01,14.7047,Dienstleistungen,Services
+1997-09-01,17.9407,Dienstleistungen,Services
+1997-10-01,15.1877,Dienstleistungen,Services
+1997-11-01,19.3809,Dienstleistungen,Services
+1997-12-01,22.4898,Dienstleistungen,Services
+1998-01-01,19.7109,Dienstleistungen,Services
+1998-02-01,24.0387,Dienstleistungen,Services
+1998-03-01,21.9851,Dienstleistungen,Services
+1998-04-01,16.0449,Dienstleistungen,Services
+1998-05-01,18.5373,Dienstleistungen,Services
+1998-06-01,26.2277,Dienstleistungen,Services
+1998-07-01,26.0531,Dienstleistungen,Services
+1998-08-01,22.7363,Dienstleistungen,Services
+1998-09-01,25.163,Dienstleistungen,Services
+1998-10-01,19.7889,Dienstleistungen,Services
+1998-11-01,20.5333,Dienstleistungen,Services
+1998-12-01,18.633,Dienstleistungen,Services
+1999-01-01,21.6181,Dienstleistungen,Services
+1999-02-01,16.5945,Dienstleistungen,Services
+1999-03-01,15.9802,Dienstleistungen,Services
+1999-04-01,19.4758,Dienstleistungen,Services
+1999-05-01,16.9831,Dienstleistungen,Services
+1999-06-01,12.5146,Dienstleistungen,Services
+1999-07-01,17.4259,Dienstleistungen,Services
+1999-08-01,17.4155,Dienstleistungen,Services
+1999-09-01,16.0327,Dienstleistungen,Services
+1999-10-01,23.5177,Dienstleistungen,Services
+1999-11-01,17.9662,Dienstleistungen,Services
+1999-12-01,17.4058,Dienstleistungen,Services
+2000-01-01,19.7582,Dienstleistungen,Services
+2000-02-01,14.3317,Dienstleistungen,Services
+2000-03-01,18.6935,Dienstleistungen,Services
+2000-04-01,26.3792,Dienstleistungen,Services
+2000-05-01,24.2851,Dienstleistungen,Services
+2000-06-01,21.8884,Dienstleistungen,Services
+2000-07-01,23.0891,Dienstleistungen,Services
+2000-08-01,24.5329,Dienstleistungen,Services
+2000-09-01,19.1453,Dienstleistungen,Services
+2000-10-01,21.516,Dienstleistungen,Services
+2000-11-01,22.2992,Dienstleistungen,Services
+2000-12-01,21.3963,Dienstleistungen,Services
+2001-01-01,18.5932,Dienstleistungen,Services
+2001-02-01,18.7919,Dienstleistungen,Services
+2001-03-01,17.8586,Dienstleistungen,Services
+2001-04-01,17.6668,Dienstleistungen,Services
+2001-05-01,18.2236,Dienstleistungen,Services
+2001-06-01,11.0713,Dienstleistungen,Services
+2001-07-01,7.5578,Dienstleistungen,Services
+2001-08-01,5.8265,Dienstleistungen,Services
+2001-09-01,3.1574,Dienstleistungen,Services
+2001-10-01,-0.762,Dienstleistungen,Services
+2001-11-01,-0.6544,Dienstleistungen,Services
+2001-12-01,-1.7647,Dienstleistungen,Services
+2002-01-01,-0.1301,Dienstleistungen,Services
+2002-02-01,3.8229,Dienstleistungen,Services
+2002-03-01,5.0467,Dienstleistungen,Services
+2002-04-01,5.5931,Dienstleistungen,Services
+2002-05-01,6.277,Dienstleistungen,Services
+2002-06-01,5.7351,Dienstleistungen,Services
+2002-07-01,3.009,Dienstleistungen,Services
+2002-08-01,1.3503,Dienstleistungen,Services
+2002-09-01,1.9619,Dienstleistungen,Services
+2002-10-01,5.511,Dienstleistungen,Services
+2002-11-01,5.262,Dienstleistungen,Services
+2002-12-01,6.2531,Dienstleistungen,Services
+2003-01-01,5.4605,Dienstleistungen,Services
+2003-02-01,5.3875,Dienstleistungen,Services
+2003-03-01,1.693,Dienstleistungen,Services
+2003-04-01,4.262,Dienstleistungen,Services
+2003-05-01,1.4899,Dienstleistungen,Services
+2003-06-01,4.5768,Dienstleistungen,Services
+2003-07-01,7.5315,Dienstleistungen,Services
+2003-08-01,6.828,Dienstleistungen,Services
+2003-09-01,9.6778,Dienstleistungen,Services
+2003-10-01,11.6042,Dienstleistungen,Services
+2003-11-01,10.2189,Dienstleistungen,Services
+2003-12-01,10.4981,Dienstleistungen,Services
+2004-01-01,9.9901,Dienstleistungen,Services
+2004-02-01,9.0258,Dienstleistungen,Services
+2004-03-01,11.4445,Dienstleistungen,Services
+2004-04-01,12.3478,Dienstleistungen,Services
+2004-05-01,11.4807,Dienstleistungen,Services
+2004-06-01,13.0865,Dienstleistungen,Services
+2004-07-01,12.9462,Dienstleistungen,Services
+2004-08-01,14.421,Dienstleistungen,Services
+2004-09-01,14.3011,Dienstleistungen,Services
+2004-10-01,13.7548,Dienstleistungen,Services
+2004-11-01,11.9199,Dienstleistungen,Services
+2004-12-01,13.4244,Dienstleistungen,Services
+2005-01-01,10.4001,Dienstleistungen,Services
+2005-02-01,9.5282,Dienstleistungen,Services
+2005-03-01,7.4499,Dienstleistungen,Services
+2005-04-01,10.5948,Dienstleistungen,Services
+2005-05-01,7.7024,Dienstleistungen,Services
+2005-06-01,5.3338,Dienstleistungen,Services
+2005-07-01,7.8409,Dienstleistungen,Services
+2005-08-01,6.3159,Dienstleistungen,Services
+2005-09-01,6.6653,Dienstleistungen,Services
+2005-10-01,6.8172,Dienstleistungen,Services
+2005-11-01,8.1493,Dienstleistungen,Services
+2005-12-01,10.2203,Dienstleistungen,Services
+2006-01-01,12.1477,Dienstleistungen,Services
+2006-02-01,11.4542,Dienstleistungen,Services
+2006-03-01,10.4068,Dienstleistungen,Services
+2006-04-01,11.9973,Dienstleistungen,Services
+2006-05-01,14.9513,Dienstleistungen,Services
+2006-06-01,17.28,Dienstleistungen,Services
+2006-07-01,17.8194,Dienstleistungen,Services
+2006-08-01,16.7578,Dienstleistungen,Services
+2006-09-01,18.6469,Dienstleistungen,Services
+2006-10-01,16.8798,Dienstleistungen,Services
+2006-11-01,19.2202,Dienstleistungen,Services
+2006-12-01,19.8087,Dienstleistungen,Services
+2007-01-01,19.9734,Dienstleistungen,Services
+2007-02-01,17.0804,Dienstleistungen,Services
+2007-03-01,18.5421,Dienstleistungen,Services
+2007-04-01,20.8706,Dienstleistungen,Services
+2007-05-01,20.7401,Dienstleistungen,Services
+2007-06-01,20.6416,Dienstleistungen,Services
+2007-07-01,19.789,Dienstleistungen,Services
+2007-08-01,19.5217,Dienstleistungen,Services
+2007-09-01,18.9275,Dienstleistungen,Services
+2007-10-01,19.0704,Dienstleistungen,Services
+2007-11-01,16.5951,Dienstleistungen,Services
+2007-12-01,16.3699,Dienstleistungen,Services
+2008-01-01,15.5113,Dienstleistungen,Services
+2008-02-01,14.3323,Dienstleistungen,Services
+2008-03-01,15.0462,Dienstleistungen,Services
+2008-04-01,13.506,Dienstleistungen,Services
+2008-05-01,12.6279,Dienstleistungen,Services
+2008-06-01,13.8706,Dienstleistungen,Services
+2008-07-01,7.6644,Dienstleistungen,Services
+2008-08-01,8.9577,Dienstleistungen,Services
+2008-09-01,9.5037,Dienstleistungen,Services
+2008-10-01,3.9006,Dienstleistungen,Services
+2008-11-01,-4.7659,Dienstleistungen,Services
+2008-12-01,-8.2493,Dienstleistungen,Services
+2009-01-01,-8.5342,Dienstleistungen,Services
+2009-02-01,-13.8909,Dienstleistungen,Services
+2009-03-01,-17.325,Dienstleistungen,Services
+2009-04-01,-19.0181,Dienstleistungen,Services
+2009-05-01,-19.0489,Dienstleistungen,Services
+2009-06-01,-19.1365,Dienstleistungen,Services
+2009-07-01,-16.9551,Dienstleistungen,Services
+2009-08-01,-11.6803,Dienstleistungen,Services
+2009-09-01,-8.9327,Dienstleistungen,Services
+2009-10-01,-1.5042,Dienstleistungen,Services
+2009-11-01,-0.1729,Dienstleistungen,Services
+2009-12-01,-1.6342,Dienstleistungen,Services
+2010-01-01,-0.1461,Dienstleistungen,Services
+2010-02-01,0.9419,Dienstleistungen,Services
+2010-03-01,2.9706,Dienstleistungen,Services
+2010-04-01,7.8564,Dienstleistungen,Services
+2010-05-01,6.8955,Dienstleistungen,Services
+2010-06-01,6.1102,Dienstleistungen,Services
+2010-07-01,8.9864,Dienstleistungen,Services
+2010-08-01,10.7844,Dienstleistungen,Services
+2010-09-01,10.963,Dienstleistungen,Services
+2010-10-01,9.7969,Dienstleistungen,Services
+2010-11-01,11.6486,Dienstleistungen,Services
+2010-12-01,12.9881,Dienstleistungen,Services
+2011-01-01,15.5636,Dienstleistungen,Services
+2011-02-01,18.2006,Dienstleistungen,Services
+2011-03-01,16.0459,Dienstleistungen,Services
+2011-04-01,16.3669,Dienstleistungen,Services
+2011-05-01,15.8358,Dienstleistungen,Services
+2011-06-01,13.9393,Dienstleistungen,Services
+2011-07-01,15.6783,Dienstleistungen,Services
+2011-08-01,11.4359,Dienstleistungen,Services
+2011-09-01,8.7588,Dienstleistungen,Services
+2011-10-01,8.6789,Dienstleistungen,Services
+2011-11-01,7.4269,Dienstleistungen,Services
+2011-12-01,7.7619,Dienstleistungen,Services
+2012-01-01,7.8432,Dienstleistungen,Services
+2012-02-01,7.771,Dienstleistungen,Services
+2012-03-01,10.4538,Dienstleistungen,Services
+2012-04-01,8.7034,Dienstleistungen,Services
+2012-05-01,7.1599,Dienstleistungen,Services
+2012-06-01,5.6751,Dienstleistungen,Services
+2012-07-01,7.2987,Dienstleistungen,Services
+2012-08-01,3.742,Dienstleistungen,Services
+2012-09-01,2.6609,Dienstleistungen,Services
+2012-10-01,4.2935,Dienstleistungen,Services
+2012-11-01,4.4806,Dienstleistungen,Services
+2012-12-01,4.566,Dienstleistungen,Services
+2013-01-01,6.8798,Dienstleistungen,Services
+2013-02-01,7.5361,Dienstleistungen,Services
+2013-03-01,8.6526,Dienstleistungen,Services
+2013-04-01,5.2517,Dienstleistungen,Services
+2013-05-01,4.5365,Dienstleistungen,Services
+2013-06-01,4.8567,Dienstleistungen,Services
+2013-07-01,4.4938,Dienstleistungen,Services
+2013-08-01,7.1635,Dienstleistungen,Services
+2013-09-01,7.3624,Dienstleistungen,Services
+2013-10-01,8.4448,Dienstleistungen,Services
+2013-11-01,8.7872,Dienstleistungen,Services
+2013-12-01,8.3877,Dienstleistungen,Services
+2014-01-01,7.3456,Dienstleistungen,Services
+2014-02-01,7.6631,Dienstleistungen,Services
+2014-03-01,5.9716,Dienstleistungen,Services
+2014-04-01,6.922,Dienstleistungen,Services
+2014-05-01,7.1244,Dienstleistungen,Services
+2014-06-01,6.1802,Dienstleistungen,Services
+2014-07-01,5.0067,Dienstleistungen,Services
+2014-08-01,3.9503,Dienstleistungen,Services
+2014-09-01,2.0678,Dienstleistungen,Services
+2014-10-01,4.8756,Dienstleistungen,Services
+2014-11-01,2.55,Dienstleistungen,Services
+2014-12-01,4.8625,Dienstleistungen,Services
+2015-01-01,2.1842,Dienstleistungen,Services
+2015-02-01,1.3014,Dienstleistungen,Services
+2015-03-01,2.2751,Dienstleistungen,Services
+2015-04-01,3.0316,Dienstleistungen,Services
+2015-05-01,3.4435,Dienstleistungen,Services
+2015-06-01,4.9577,Dienstleistungen,Services
+2015-07-01,2.6145,Dienstleistungen,Services
+2015-08-01,6.3414,Dienstleistungen,Services
+2015-09-01,5.6183,Dienstleistungen,Services
+2015-10-01,5.6832,Dienstleistungen,Services
+2015-11-01,9.7238,Dienstleistungen,Services
+2015-12-01,8.4152,Dienstleistungen,Services
+2016-01-01,6.1929,Dienstleistungen,Services
+2016-02-01,6.7792,Dienstleistungen,Services
+2016-03-01,6.0946,Dienstleistungen,Services
+2016-04-01,5.2324,Dienstleistungen,Services
+2016-05-01,8.4587,Dienstleistungen,Services
+2016-06-01,8.6785,Dienstleistungen,Services
+2016-07-01,9.398,Dienstleistungen,Services
+2016-08-01,9.0829,Dienstleistungen,Services
+2016-09-01,10.046,Dienstleistungen,Services
+2016-10-01,10.1324,Dienstleistungen,Services
+2016-11-01,14.0006,Dienstleistungen,Services
+2016-12-01,15.4065,Dienstleistungen,Services
+2017-01-01,13.5749,Dienstleistungen,Services
+2017-02-01,16.2619,Dienstleistungen,Services
+2017-03-01,16.3297,Dienstleistungen,Services
+2017-04-01,19.0662,Dienstleistungen,Services
+2017-05-01,19.0544,Dienstleistungen,Services
+2017-06-01,20.671,Dienstleistungen,Services
+2017-07-01,21.8919,Dienstleistungen,Services
+2017-08-01,19.3974,Dienstleistungen,Services
+2017-09-01,20.4589,Dienstleistungen,Services
+2017-10-01,22.1816,Dienstleistungen,Services
+2017-11-01,21.6176,Dienstleistungen,Services
+2017-12-01,24.2274,Dienstleistungen,Services
+2018-01-01,25.037,Dienstleistungen,Services
+2018-02-01,25.8409,Dienstleistungen,Services
+2018-03-01,23.9476,Dienstleistungen,Services
+2018-04-01,21.2231,Dienstleistungen,Services
+2018-05-01,22.3253,Dienstleistungen,Services
+2018-06-01,21.1618,Dienstleistungen,Services
+2018-07-01,21.9915,Dienstleistungen,Services
+2018-08-01,20.5236,Dienstleistungen,Services
+2018-09-01,22.9886,Dienstleistungen,Services
+2018-10-01,21.0547,Dienstleistungen,Services
+2018-11-01,18.6562,Dienstleistungen,Services
+2018-12-01,18.9377,Dienstleistungen,Services
+2019-01-01,19.666,Dienstleistungen,Services
+2019-02-01,18.0199,Dienstleistungen,Services
+2019-03-01,16.9695,Dienstleistungen,Services
+2019-04-01,17.8299,Dienstleistungen,Services
+2019-05-01,15.5928,Dienstleistungen,Services
+2019-06-01,14.9409,Dienstleistungen,Services
+2019-07-01,16.7552,Dienstleistungen,Services
+2019-08-01,14.6808,Dienstleistungen,Services
+2019-09-01,15.0018,Dienstleistungen,Services
+2019-10-01,15.6218,Dienstleistungen,Services
+2019-11-01,14.5471,Dienstleistungen,Services
+2019-12-01,13.1598,Dienstleistungen,Services
+2020-01-01,17.7859,Dienstleistungen,Services
+2020-02-01,15.7823,Dienstleistungen,Services
+2020-03-01,4.2823,Dienstleistungen,Services
+2020-04-01,-40.0335,Dienstleistungen,Services
+2020-05-01,-31.4626,Dienstleistungen,Services
+2020-06-01,-23.3584,Dienstleistungen,Services
+2020-07-01,-16.5008,Dienstleistungen,Services
+2020-08-01,-11.3827,Dienstleistungen,Services
+2020-09-01,-10.9265,Dienstleistungen,Services
+2020-10-01,-13.7714,Dienstleistungen,Services
+2020-11-01,-21.4309,Dienstleistungen,Services
+2020-12-01,-20.7919,Dienstleistungen,Services
+2021-01-01,-20.4306,Dienstleistungen,Services
+2021-02-01,-19.7082,Dienstleistungen,Services
+2021-03-01,-11.749,Dienstleistungen,Services
+2021-04-01,5.3849,Dienstleistungen,Services
+2021-05-01,13.9649,Dienstleistungen,Services
+2021-06-01,18.7973,Dienstleistungen,Services
+2021-07-01,19.969,Dienstleistungen,Services
+2021-08-01,16.6152,Dienstleistungen,Services
+2021-09-01,14.8782,Dienstleistungen,Services
+2021-10-01,19.4931,Dienstleistungen,Services
+2021-11-01,17.2265,Dienstleistungen,Services
+2021-12-01,5.7282,Dienstleistungen,Services
+2022-01-01,9.1981,Dienstleistungen,Services
+2022-02-01,13.92,Dienstleistungen,Services
+2022-03-01,19.9146,Dienstleistungen,Services
+2022-04-01,27.9889,Dienstleistungen,Services
+2022-05-01,22.9786,Dienstleistungen,Services
+2022-06-01,18.8591,Dienstleistungen,Services
+2022-07-01,12.2255,Dienstleistungen,Services
+2022-08-01,10.7611,Dienstleistungen,Services
+2022-09-01,6.1057,Dienstleistungen,Services
+2022-10-01,3.869,Dienstleistungen,Services
+2022-11-01,6.6711,Dienstleistungen,Services
+2022-12-01,9.0278,Dienstleistungen,Services
+2023-01-01,10.3778,Dienstleistungen,Services
+2023-02-01,8.7377,Dienstleistungen,Services
+2023-03-01,8.7589,Dienstleistungen,Services
+2023-04-01,18.8515,Dienstleistungen,Services
+2023-05-01,11.6148,Dienstleistungen,Services
+2023-06-01,5.7352,Dienstleistungen,Services
+2023-07-01,-0.49370000000000003,Dienstleistungen,Services
+2023-08-01,-3.6614,Dienstleistungen,Services
+2023-09-01,-1.6571,Dienstleistungen,Services
+2023-10-01,-0.0843,Dienstleistungen,Services
+2023-11-01,0.215,Dienstleistungen,Services
+2023-12-01,3.2258,Dienstleistungen,Services
+2024-01-01,0.5193,Dienstleistungen,Services
+2024-02-01,-2.9128,Dienstleistungen,Services
+1996-01-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1996-02-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1996-03-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1996-04-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1996-05-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1996-06-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1996-07-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1996-08-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1996-09-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1996-10-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1996-11-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1996-12-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1997-01-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1997-02-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1997-03-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1997-04-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1997-05-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1997-06-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1997-07-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1997-08-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1997-09-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1997-10-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1997-11-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1997-12-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1998-01-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1998-02-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1998-03-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1998-04-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1998-05-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1998-06-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1998-07-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1998-08-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1998-09-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1998-10-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1998-11-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1998-12-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1999-01-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1999-02-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1999-03-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1999-04-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1999-05-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1999-06-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1999-07-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1999-08-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1999-09-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1999-10-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1999-11-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+1999-12-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+2000-01-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+2000-02-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+2000-03-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+2000-04-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+2000-05-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+2000-06-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+2000-07-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+2000-08-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+2000-09-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+2000-10-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+2000-11-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+2000-12-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+2001-01-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+2001-02-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+2001-03-01,NA,Beherbergung und Gastronomie,Accommodation and food services
+2001-04-01,9.1676,Beherbergung und Gastronomie,Accommodation and food services
+2001-05-01,8.129,Beherbergung und Gastronomie,Accommodation and food services
+2001-06-01,6.5575,Beherbergung und Gastronomie,Accommodation and food services
+2001-07-01,3.7311,Beherbergung und Gastronomie,Accommodation and food services
+2001-08-01,3.279,Beherbergung und Gastronomie,Accommodation and food services
+2001-09-01,3.7755,Beherbergung und Gastronomie,Accommodation and food services
+2001-10-01,-1.0741,Beherbergung und Gastronomie,Accommodation and food services
+2001-11-01,9.9824,Beherbergung und Gastronomie,Accommodation and food services
+2001-12-01,-8.0109,Beherbergung und Gastronomie,Accommodation and food services
+2002-01-01,2.0535,Beherbergung und Gastronomie,Accommodation and food services
+2002-02-01,12.2613,Beherbergung und Gastronomie,Accommodation and food services
+2002-03-01,7.9709,Beherbergung und Gastronomie,Accommodation and food services
+2002-04-01,-3.6389,Beherbergung und Gastronomie,Accommodation and food services
+2002-05-01,12.317,Beherbergung und Gastronomie,Accommodation and food services
+2002-06-01,8.0789,Beherbergung und Gastronomie,Accommodation and food services
+2002-07-01,-3.0251,Beherbergung und Gastronomie,Accommodation and food services
+2002-08-01,1.9293,Beherbergung und Gastronomie,Accommodation and food services
+2002-09-01,-2.0532,Beherbergung und Gastronomie,Accommodation and food services
+2002-10-01,4.7824,Beherbergung und Gastronomie,Accommodation and food services
+2002-11-01,-3.4003,Beherbergung und Gastronomie,Accommodation and food services
+2002-12-01,8.1267,Beherbergung und Gastronomie,Accommodation and food services
+2003-01-01,14.9604,Beherbergung und Gastronomie,Accommodation and food services
+2003-02-01,1.2817,Beherbergung und Gastronomie,Accommodation and food services
+2003-03-01,5.0731,Beherbergung und Gastronomie,Accommodation and food services
+2003-04-01,10.008,Beherbergung und Gastronomie,Accommodation and food services
+2003-05-01,-3.1305,Beherbergung und Gastronomie,Accommodation and food services
+2003-06-01,0.649,Beherbergung und Gastronomie,Accommodation and food services
+2003-07-01,14.9493,Beherbergung und Gastronomie,Accommodation and food services
+2003-08-01,3.3196,Beherbergung und Gastronomie,Accommodation and food services
+2003-09-01,13.6053,Beherbergung und Gastronomie,Accommodation and food services
+2003-10-01,9.3313,Beherbergung und Gastronomie,Accommodation and food services
+2003-11-01,5.834,Beherbergung und Gastronomie,Accommodation and food services
+2003-12-01,10.2748,Beherbergung und Gastronomie,Accommodation and food services
+2004-01-01,4.7455,Beherbergung und Gastronomie,Accommodation and food services
+2004-02-01,7.2329,Beherbergung und Gastronomie,Accommodation and food services
+2004-03-01,1.5125,Beherbergung und Gastronomie,Accommodation and food services
+2004-04-01,5.5384,Beherbergung und Gastronomie,Accommodation and food services
+2004-05-01,9.0525,Beherbergung und Gastronomie,Accommodation and food services
+2004-06-01,13.9948,Beherbergung und Gastronomie,Accommodation and food services
+2004-07-01,10.9178,Beherbergung und Gastronomie,Accommodation and food services
+2004-08-01,17.0658,Beherbergung und Gastronomie,Accommodation and food services
+2004-09-01,10.0906,Beherbergung und Gastronomie,Accommodation and food services
+2004-10-01,9.5212,Beherbergung und Gastronomie,Accommodation and food services
+2004-11-01,8.1582,Beherbergung und Gastronomie,Accommodation and food services
+2004-12-01,14.0856,Beherbergung und Gastronomie,Accommodation and food services
+2005-01-01,-2.6214,Beherbergung und Gastronomie,Accommodation and food services
+2005-02-01,-1.3942,Beherbergung und Gastronomie,Accommodation and food services
+2005-03-01,8.702,Beherbergung und Gastronomie,Accommodation and food services
+2005-04-01,8.2492,Beherbergung und Gastronomie,Accommodation and food services
+2005-05-01,-0.2259,Beherbergung und Gastronomie,Accommodation and food services
+2005-06-01,-5.8358,Beherbergung und Gastronomie,Accommodation and food services
+2005-07-01,-1.4896,Beherbergung und Gastronomie,Accommodation and food services
+2005-08-01,10.7582,Beherbergung und Gastronomie,Accommodation and food services
+2005-09-01,1.6517,Beherbergung und Gastronomie,Accommodation and food services
+2005-10-01,10.8163,Beherbergung und Gastronomie,Accommodation and food services
+2005-11-01,17.8518,Beherbergung und Gastronomie,Accommodation and food services
+2005-12-01,10.4489,Beherbergung und Gastronomie,Accommodation and food services
+2006-01-01,8.183,Beherbergung und Gastronomie,Accommodation and food services
+2006-02-01,9.3194,Beherbergung und Gastronomie,Accommodation and food services
+2006-03-01,7.2372,Beherbergung und Gastronomie,Accommodation and food services
+2006-04-01,10.0625,Beherbergung und Gastronomie,Accommodation and food services
+2006-05-01,11.7739,Beherbergung und Gastronomie,Accommodation and food services
+2006-06-01,20.6383,Beherbergung und Gastronomie,Accommodation and food services
+2006-07-01,31.0589,Beherbergung und Gastronomie,Accommodation and food services
+2006-08-01,13.4489,Beherbergung und Gastronomie,Accommodation and food services
+2006-09-01,22.9802,Beherbergung und Gastronomie,Accommodation and food services
+2006-10-01,8.8633,Beherbergung und Gastronomie,Accommodation and food services
+2006-11-01,23.4195,Beherbergung und Gastronomie,Accommodation and food services
+2006-12-01,15.1106,Beherbergung und Gastronomie,Accommodation and food services
+2007-01-01,25.1253,Beherbergung und Gastronomie,Accommodation and food services
+2007-02-01,19.7629,Beherbergung und Gastronomie,Accommodation and food services
+2007-03-01,15.1972,Beherbergung und Gastronomie,Accommodation and food services
+2007-04-01,19.3259,Beherbergung und Gastronomie,Accommodation and food services
+2007-05-01,25.3109,Beherbergung und Gastronomie,Accommodation and food services
+2007-06-01,27.5462,Beherbergung und Gastronomie,Accommodation and food services
+2007-07-01,26.1327,Beherbergung und Gastronomie,Accommodation and food services
+2007-08-01,29.6965,Beherbergung und Gastronomie,Accommodation and food services
+2007-09-01,27.074,Beherbergung und Gastronomie,Accommodation and food services
+2007-10-01,23.9521,Beherbergung und Gastronomie,Accommodation and food services
+2007-11-01,22.2393,Beherbergung und Gastronomie,Accommodation and food services
+2007-12-01,24.4846,Beherbergung und Gastronomie,Accommodation and food services
+2008-01-01,22.0613,Beherbergung und Gastronomie,Accommodation and food services
+2008-02-01,23.0537,Beherbergung und Gastronomie,Accommodation and food services
+2008-03-01,17.5665,Beherbergung und Gastronomie,Accommodation and food services
+2008-04-01,15.4092,Beherbergung und Gastronomie,Accommodation and food services
+2008-05-01,21.7899,Beherbergung und Gastronomie,Accommodation and food services
+2008-06-01,15.025,Beherbergung und Gastronomie,Accommodation and food services
+2008-07-01,6.5841,Beherbergung und Gastronomie,Accommodation and food services
+2008-08-01,6.3121,Beherbergung und Gastronomie,Accommodation and food services
+2008-09-01,8.6215,Beherbergung und Gastronomie,Accommodation and food services
+2008-10-01,11.0467,Beherbergung und Gastronomie,Accommodation and food services
+2008-11-01,-8.4358,Beherbergung und Gastronomie,Accommodation and food services
+2008-12-01,-1.3014,Beherbergung und Gastronomie,Accommodation and food services
+2009-01-01,-9.0802,Beherbergung und Gastronomie,Accommodation and food services
+2009-02-01,-12.2157,Beherbergung und Gastronomie,Accommodation and food services
+2009-03-01,-18.6063,Beherbergung und Gastronomie,Accommodation and food services
+2009-04-01,-17.8874,Beherbergung und Gastronomie,Accommodation and food services
+2009-05-01,-20.1795,Beherbergung und Gastronomie,Accommodation and food services
+2009-06-01,-23.6929,Beherbergung und Gastronomie,Accommodation and food services
+2009-07-01,-27.0372,Beherbergung und Gastronomie,Accommodation and food services
+2009-08-01,-11.4087,Beherbergung und Gastronomie,Accommodation and food services
+2009-09-01,-7.3855,Beherbergung und Gastronomie,Accommodation and food services
+2009-10-01,3.3229,Beherbergung und Gastronomie,Accommodation and food services
+2009-11-01,3.7724,Beherbergung und Gastronomie,Accommodation and food services
+2009-12-01,-2.1365,Beherbergung und Gastronomie,Accommodation and food services
+2010-01-01,-0.1708,Beherbergung und Gastronomie,Accommodation and food services
+2010-02-01,-5.7132,Beherbergung und Gastronomie,Accommodation and food services
+2010-03-01,-0.5629,Beherbergung und Gastronomie,Accommodation and food services
+2010-04-01,9.1108,Beherbergung und Gastronomie,Accommodation and food services
+2010-05-01,-1.3126,Beherbergung und Gastronomie,Accommodation and food services
+2010-06-01,-0.3341,Beherbergung und Gastronomie,Accommodation and food services
+2010-07-01,1.7884,Beherbergung und Gastronomie,Accommodation and food services
+2010-08-01,12.3725,Beherbergung und Gastronomie,Accommodation and food services
+2010-09-01,17.1843,Beherbergung und Gastronomie,Accommodation and food services
+2010-10-01,13.9522,Beherbergung und Gastronomie,Accommodation and food services
+2010-11-01,11.2694,Beherbergung und Gastronomie,Accommodation and food services
+2010-12-01,12.5364,Beherbergung und Gastronomie,Accommodation and food services
+2011-01-01,17.1609,Beherbergung und Gastronomie,Accommodation and food services
+2011-02-01,11.6659,Beherbergung und Gastronomie,Accommodation and food services
+2011-03-01,12.0951,Beherbergung und Gastronomie,Accommodation and food services
+2011-04-01,15.5913,Beherbergung und Gastronomie,Accommodation and food services
+2011-05-01,9.9032,Beherbergung und Gastronomie,Accommodation and food services
+2011-06-01,8.81,Beherbergung und Gastronomie,Accommodation and food services
+2011-07-01,18.8596,Beherbergung und Gastronomie,Accommodation and food services
+2011-08-01,10.0641,Beherbergung und Gastronomie,Accommodation and food services
+2011-09-01,14.3124,Beherbergung und Gastronomie,Accommodation and food services
+2011-10-01,9.5865,Beherbergung und Gastronomie,Accommodation and food services
+2011-11-01,6.0945,Beherbergung und Gastronomie,Accommodation and food services
+2011-12-01,5.6772,Beherbergung und Gastronomie,Accommodation and food services
+2012-01-01,8.453,Beherbergung und Gastronomie,Accommodation and food services
+2012-02-01,4.3525,Beherbergung und Gastronomie,Accommodation and food services
+2012-03-01,13.6049,Beherbergung und Gastronomie,Accommodation and food services
+2012-04-01,9.4359,Beherbergung und Gastronomie,Accommodation and food services
+2012-05-01,9.5277,Beherbergung und Gastronomie,Accommodation and food services
+2012-06-01,7.8064,Beherbergung und Gastronomie,Accommodation and food services
+2012-07-01,6.9628,Beherbergung und Gastronomie,Accommodation and food services
+2012-08-01,1.223,Beherbergung und Gastronomie,Accommodation and food services
+2012-09-01,-0.303,Beherbergung und Gastronomie,Accommodation and food services
+2012-10-01,2.0622,Beherbergung und Gastronomie,Accommodation and food services
+2012-11-01,7.6414,Beherbergung und Gastronomie,Accommodation and food services
+2012-12-01,2.7894,Beherbergung und Gastronomie,Accommodation and food services
+2013-01-01,15.4988,Beherbergung und Gastronomie,Accommodation and food services
+2013-02-01,12.1743,Beherbergung und Gastronomie,Accommodation and food services
+2013-03-01,9.0249,Beherbergung und Gastronomie,Accommodation and food services
+2013-04-01,6.7318,Beherbergung und Gastronomie,Accommodation and food services
+2013-05-01,4.94,Beherbergung und Gastronomie,Accommodation and food services
+2013-06-01,-9.7422,Beherbergung und Gastronomie,Accommodation and food services
+2013-07-01,8.0352,Beherbergung und Gastronomie,Accommodation and food services
+2013-08-01,4.2274,Beherbergung und Gastronomie,Accommodation and food services
+2013-09-01,-1.0008,Beherbergung und Gastronomie,Accommodation and food services
+2013-10-01,2.8388,Beherbergung und Gastronomie,Accommodation and food services
+2013-11-01,0.7325,Beherbergung und Gastronomie,Accommodation and food services
+2013-12-01,-1.0405,Beherbergung und Gastronomie,Accommodation and food services
+2014-01-01,-7.6405,Beherbergung und Gastronomie,Accommodation and food services
+2014-02-01,2.7549,Beherbergung und Gastronomie,Accommodation and food services
+2014-03-01,0.8083,Beherbergung und Gastronomie,Accommodation and food services
+2014-04-01,-0.9972,Beherbergung und Gastronomie,Accommodation and food services
+2014-05-01,1.4605,Beherbergung und Gastronomie,Accommodation and food services
+2014-06-01,4.1916,Beherbergung und Gastronomie,Accommodation and food services
+2014-07-01,1.5755,Beherbergung und Gastronomie,Accommodation and food services
+2014-08-01,-2.2823,Beherbergung und Gastronomie,Accommodation and food services
+2014-09-01,-3.5368,Beherbergung und Gastronomie,Accommodation and food services
+2014-10-01,-2.3148,Beherbergung und Gastronomie,Accommodation and food services
+2014-11-01,-0.4225,Beherbergung und Gastronomie,Accommodation and food services
+2014-12-01,-0.4612,Beherbergung und Gastronomie,Accommodation and food services
+2015-01-01,-8.1802,Beherbergung und Gastronomie,Accommodation and food services
+2015-02-01,3.4114,Beherbergung und Gastronomie,Accommodation and food services
+2015-03-01,-4.1975,Beherbergung und Gastronomie,Accommodation and food services
+2015-04-01,-6.7177,Beherbergung und Gastronomie,Accommodation and food services
+2015-05-01,-6.3323,Beherbergung und Gastronomie,Accommodation and food services
+2015-06-01,7.9882,Beherbergung und Gastronomie,Accommodation and food services
+2015-07-01,-0.6644,Beherbergung und Gastronomie,Accommodation and food services
+2015-08-01,6.777,Beherbergung und Gastronomie,Accommodation and food services
+2015-09-01,0.3737,Beherbergung und Gastronomie,Accommodation and food services
+2015-10-01,2.7066,Beherbergung und Gastronomie,Accommodation and food services
+2015-11-01,8.14,Beherbergung und Gastronomie,Accommodation and food services
+2015-12-01,-1.497,Beherbergung und Gastronomie,Accommodation and food services
+2016-01-01,-1.6388,Beherbergung und Gastronomie,Accommodation and food services
+2016-02-01,1.0213,Beherbergung und Gastronomie,Accommodation and food services
+2016-03-01,0.8221,Beherbergung und Gastronomie,Accommodation and food services
+2016-04-01,8.6896,Beherbergung und Gastronomie,Accommodation and food services
+2016-05-01,7.5274,Beherbergung und Gastronomie,Accommodation and food services
+2016-06-01,4.2797,Beherbergung und Gastronomie,Accommodation and food services
+2016-07-01,1.218,Beherbergung und Gastronomie,Accommodation and food services
+2016-08-01,3.7608,Beherbergung und Gastronomie,Accommodation and food services
+2016-09-01,8.552,Beherbergung und Gastronomie,Accommodation and food services
+2016-10-01,7.7807,Beherbergung und Gastronomie,Accommodation and food services
+2016-11-01,5.9924,Beherbergung und Gastronomie,Accommodation and food services
+2016-12-01,10.2828,Beherbergung und Gastronomie,Accommodation and food services
+2017-01-01,4.9469,Beherbergung und Gastronomie,Accommodation and food services
+2017-02-01,3.0809,Beherbergung und Gastronomie,Accommodation and food services
+2017-03-01,4.4591,Beherbergung und Gastronomie,Accommodation and food services
+2017-04-01,11.616,Beherbergung und Gastronomie,Accommodation and food services
+2017-05-01,13.8571,Beherbergung und Gastronomie,Accommodation and food services
+2017-06-01,19.7501,Beherbergung und Gastronomie,Accommodation and food services
+2017-07-01,9.9702,Beherbergung und Gastronomie,Accommodation and food services
+2017-08-01,7.4672,Beherbergung und Gastronomie,Accommodation and food services
+2017-09-01,6.9121,Beherbergung und Gastronomie,Accommodation and food services
+2017-10-01,13.5151,Beherbergung und Gastronomie,Accommodation and food services
+2017-11-01,11.202,Beherbergung und Gastronomie,Accommodation and food services
+2017-12-01,19.2695,Beherbergung und Gastronomie,Accommodation and food services
+2018-01-01,20.4764,Beherbergung und Gastronomie,Accommodation and food services
+2018-02-01,23.513,Beherbergung und Gastronomie,Accommodation and food services
+2018-03-01,22.2471,Beherbergung und Gastronomie,Accommodation and food services
+2018-04-01,10.8037,Beherbergung und Gastronomie,Accommodation and food services
+2018-05-01,20.5794,Beherbergung und Gastronomie,Accommodation and food services
+2018-06-01,12.356,Beherbergung und Gastronomie,Accommodation and food services
+2018-07-01,15.4313,Beherbergung und Gastronomie,Accommodation and food services
+2018-08-01,9.7912,Beherbergung und Gastronomie,Accommodation and food services
+2018-09-01,16.9705,Beherbergung und Gastronomie,Accommodation and food services
+2018-10-01,17.4371,Beherbergung und Gastronomie,Accommodation and food services
+2018-11-01,11.7376,Beherbergung und Gastronomie,Accommodation and food services
+2018-12-01,15.6955,Beherbergung und Gastronomie,Accommodation and food services
+2019-01-01,20.7763,Beherbergung und Gastronomie,Accommodation and food services
+2019-02-01,14.4262,Beherbergung und Gastronomie,Accommodation and food services
+2019-03-01,11.924,Beherbergung und Gastronomie,Accommodation and food services
+2019-04-01,14.8016,Beherbergung und Gastronomie,Accommodation and food services
+2019-05-01,7.3289,Beherbergung und Gastronomie,Accommodation and food services
+2019-06-01,19.0856,Beherbergung und Gastronomie,Accommodation and food services
+2019-07-01,17.3294,Beherbergung und Gastronomie,Accommodation and food services
+2019-08-01,13.9824,Beherbergung und Gastronomie,Accommodation and food services
+2019-09-01,16.6475,Beherbergung und Gastronomie,Accommodation and food services
+2019-10-01,16.2923,Beherbergung und Gastronomie,Accommodation and food services
+2019-11-01,15.1421,Beherbergung und Gastronomie,Accommodation and food services
+2019-12-01,11.3594,Beherbergung und Gastronomie,Accommodation and food services
+2020-01-01,19.0107,Beherbergung und Gastronomie,Accommodation and food services
+2020-02-01,18.4975,Beherbergung und Gastronomie,Accommodation and food services
+2020-03-01,-13.3226,Beherbergung und Gastronomie,Accommodation and food services
+2020-04-01,-62.7675,Beherbergung und Gastronomie,Accommodation and food services
+2020-05-01,-65.6012,Beherbergung und Gastronomie,Accommodation and food services
+2020-06-01,-48.7681,Beherbergung und Gastronomie,Accommodation and food services
+2020-07-01,-35.8788,Beherbergung und Gastronomie,Accommodation and food services
+2020-08-01,-27.5147,Beherbergung und Gastronomie,Accommodation and food services
+2020-09-01,-30.8383,Beherbergung und Gastronomie,Accommodation and food services
+2020-10-01,-57.4289,Beherbergung und Gastronomie,Accommodation and food services
+2020-11-01,-67.4758,Beherbergung und Gastronomie,Accommodation and food services
+2020-12-01,-69.5383,Beherbergung und Gastronomie,Accommodation and food services
+2021-01-01,-66.9475,Beherbergung und Gastronomie,Accommodation and food services
+2021-02-01,-62.6168,Beherbergung und Gastronomie,Accommodation and food services
+2021-03-01,-46.7621,Beherbergung und Gastronomie,Accommodation and food services
+2021-04-01,-28.3202,Beherbergung und Gastronomie,Accommodation and food services
+2021-05-01,-4.3421,Beherbergung und Gastronomie,Accommodation and food services
+2021-06-01,12.9183,Beherbergung und Gastronomie,Accommodation and food services
+2021-07-01,13.7718,Beherbergung und Gastronomie,Accommodation and food services
+2021-08-01,11.623,Beherbergung und Gastronomie,Accommodation and food services
+2021-09-01,2.3918,Beherbergung und Gastronomie,Accommodation and food services
+2021-10-01,9.5864,Beherbergung und Gastronomie,Accommodation and food services
+2021-11-01,4.8483,Beherbergung und Gastronomie,Accommodation and food services
+2021-12-01,-25.8804,Beherbergung und Gastronomie,Accommodation and food services
+2022-01-01,-30.9024,Beherbergung und Gastronomie,Accommodation and food services
+2022-02-01,-8.4832,Beherbergung und Gastronomie,Accommodation and food services
+2022-03-01,23.0573,Beherbergung und Gastronomie,Accommodation and food services
+2022-04-01,27.2973,Beherbergung und Gastronomie,Accommodation and food services
+2022-05-01,30.0404,Beherbergung und Gastronomie,Accommodation and food services
+2022-06-01,12.4542,Beherbergung und Gastronomie,Accommodation and food services
+2022-07-01,2.9172,Beherbergung und Gastronomie,Accommodation and food services
+2022-08-01,-5.9886,Beherbergung und Gastronomie,Accommodation and food services
+2022-09-01,-8.8124,Beherbergung und Gastronomie,Accommodation and food services
+2022-10-01,-5.3443,Beherbergung und Gastronomie,Accommodation and food services
+2022-11-01,1.3917,Beherbergung und Gastronomie,Accommodation and food services
+2022-12-01,12.6915,Beherbergung und Gastronomie,Accommodation and food services
+2023-01-01,15.4533,Beherbergung und Gastronomie,Accommodation and food services
+2023-02-01,9.607,Beherbergung und Gastronomie,Accommodation and food services
+2023-03-01,12.581,Beherbergung und Gastronomie,Accommodation and food services
+2023-04-01,23.2428,Beherbergung und Gastronomie,Accommodation and food services
+2023-05-01,19.2813,Beherbergung und Gastronomie,Accommodation and food services
+2023-06-01,3.846,Beherbergung und Gastronomie,Accommodation and food services
+2023-07-01,-9.894,Beherbergung und Gastronomie,Accommodation and food services
+2023-08-01,-11.7452,Beherbergung und Gastronomie,Accommodation and food services
+2023-09-01,-8.2826,Beherbergung und Gastronomie,Accommodation and food services
+2023-10-01,-0.3739,Beherbergung und Gastronomie,Accommodation and food services
+2023-11-01,2.3303,Beherbergung und Gastronomie,Accommodation and food services
+2023-12-01,10.9946,Beherbergung und Gastronomie,Accommodation and food services
+2024-01-01,10.4057,Beherbergung und Gastronomie,Accommodation and food services
+2024-02-01,-0.0279,Beherbergung und Gastronomie,Accommodation and food services
