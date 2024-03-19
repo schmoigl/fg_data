@@ -8,8 +8,8 @@ wds_series = c(
   "gen_t10clim_s", 
   "gen_t20clim_s", 
   "gen_t40clim_s", 
-  "gen_t30clim_s", 
-  "gen_t32clim_s"
+  "gen_t30clim_s"
+  # "gen_t32clim_s"
   )
 
 wds_names <- c(
