@@ -1,6 +1,7 @@
 
 library(tidyverse)
 library(openxlsx)
+library(countrycode)
 
 time <- Sys.Date()
 time <- format(time, "%y%m")
@@ -55,7 +56,13 @@ bcsData <- bcsData %>%
       "ESI",
       "EEI"
       )
-    )
+    ) %>%
+  mutate(
+    iso3 = countrycode(country, origin = "eurostat", destination = "iso3c"),
+    country_de = countrycode(country, origin = "eurostat", destination = "country.name.de"),
+    country_en = countrycode(country, origin = "eurostat", destination = "country.name")
+    ) %>%
+  select(-country)
   
 write.table(
   bcsData, 
