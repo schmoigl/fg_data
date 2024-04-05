@@ -1,65 +1,57 @@
 
 library(readr)
+library(tidyverse)
+library(readxl)
+library(openxlsx)
 
-ampel <- read_excel("ampel.xlsx") %>%
+options(scipen = 9999)
+
+version <- "202403"
+"//int.wsr.at/Nabu/Themen/Surveys/Konjunkturtest/ktflash/Flash202403/ampel.xlsx"
+
+ampel <- read_excel(paste0(
+  "//int.wsr.at/Nabu/Themen/Surveys/Konjunkturtest/ktflash/Flash",
+  version,
+  "/ampel.xlsx"
+  )) %>%
   rename(date = ...1) %>%
   select(date, ampel) %>%
   drop_na()
 
-write_csv(ampel, file = "../data_ka.csv")
+zsp <- read_excel(paste0(
+  "//int.wsr.at/Nabu/Themen/Surveys/Konjunkturtest/ktflash/Flash",
+  version,
+  "/Zsp_Indices_", 
+  version,
+  "_r.xlsx"
+  )) %>%
+  rename(
+    date = ...1,
+    aktuell = ECON_CONTEMPORARY_INDEX,
+    erwartet = ECON_EXPECTATIONS_INDEX,
+    econclimate = ECON_CLIMATE
+  ) %>%
+  left_join(ampel) %>%
+  drop_na()
+
+write_csv(zsp, file = "../data_ka.csv")
 
 
-# #VERSION UND ZEITBEREICH MANUELL EINTRAGEN 
-# 
-# ##########################################################
-# version <- "202403"  #hier die aktuelle Version eintragen#
-# ##########################################################
-# 
-# #Zeitachse basierend auf dem Versionsinput erstellen
-# endDate = as.Date(paste0(version,"01"), "%Y%m%d")                                         #wandelt Version in Datum um
-# 
-# startDateString = paste0(as.integer(substr(version, 1, 4)) - 3, substr(version, 5, 6))    #generiert Startdatum aus Enddatum
-# startDate = as.Date(paste0(startDateString,"01"), "%Y%m%d")                               #Startdatum als Datumsformat
-# 
-# datehv <- format(seq(startDate, endDate, "3 months"), "%Y-%m")                            #Datumssequenz ohne die leeren Ticks, die f?r Achse n?tig sind
-# 
-# zeitbereich = c()                                    
-# for(i in 1:(length(datehv)-1)) {              
-#   zeitbereich = c(zeitbereich, datehv[i], "", "")       
-# }
-# zeitbereich = c(zeitbereich, datehv[length(datehv)])
-# 
-# rm(startDateString)
-# rm(endDate)
-# rm(datehv)
-# rm(startDate)
-# 
-# ##########################################################
-# 
-# 
-# #SET-UP of WORKSPACE        
-# # ueberpruefen ob benoetigte Packages vorhanden sind und wenn nicht, diese installieren
-# list.of.packages <- c("RODBC", "openxlsx")                #no need for: "ggplot2", Cairo", "xlsx"
-# new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
-# if(length(new.packages)) install.packages(new.packages, repos="http://cran.at.r-project.org/")
-# rm(new.packages)
-# 
-# setwd(paste0("\\\\int.wsr.at/Nabu/Themen/Surveys/Konjunkturtest/ktflash/Konjunkturampel",version))            #working directory je nach version
-# 
-# #Packages laden und Funktionen Sourcen
-# lapply(list.of.packages, require, character.only = TRUE)  #l?dt alle Packages
-# rm(list.of.packages)                                      #wird jetzt nicht mehr ben?tigt
-# 
-# source("achsen.R")                                        #holt unsere Funktionen herein
-# 
-# #READ IN FILES AND DATA
-# 
-# zsp <- read.xlsx(paste0("Zsp_Indices_",version,"_r.xlsx"), colNames = TRUE)       
-# colnames(zsp) <- c("datum", "aktuell", "erwartet", "econclimate")              
-# ampel <- read.xlsx("ampel.xlsx", colNames = TRUE)
-# 
+# # ??
 # #zsp3j=ein datenframe aus zsp der unsere daten fuer die 2 linien fuer die letzten 3 jahre enthaelt, +leichte umformungen
 # zsp3j <- zsp[(nrow(zsp)-36):nrow(zsp),c(1,2,3,4)]
-# zsp3j$datum<-NULL
 # zsp3j$newcol <- c(0:36)
 # zsp3j <- zsp3j[,c(4,1,2,3)]
+# 
+# for (i in 0:35) {
+#   zsp_value <- ampel$ampel [nrow(ampel)-37+i+2]
+#   
+#   if(zsp_value > 0.67) color <- "#00FF00" 
+#   if(zsp_value <= 0.67 & zsp_value > 0.65) color <-  "#E3FF00"
+#   if(zsp_value <= 0.65 & zsp_value > 0.33) color <-  "#FFFF00"
+#   if(zsp_value <= 0.33 & zsp_value > 0.32) color <-  "#FFDB00"
+#   if(zsp_value <= 0.32) color <- "#FF0000"
+#   
+#   rect(i, MinYScale_klima-3, (i+1), MinYScale_klima-1, border = "black" ,col=color, lwd=0.5)
+# }
+
