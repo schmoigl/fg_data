@@ -48,22 +48,65 @@ bcsData <- bcsData %>%
   drop_na() %>%
   filter(
     series %in% c(
-      # "INDU", 
-      # "CONS", 
-      # "BUIL", 
-      # "RETA", 
-      # "SERV", 
+      "INDU",
+      "CONS",
+      "BUIL",
+      "RETA",
+      "SERV",
       "ESI",
       "EEI"
       )
     ) %>%
   mutate(
     iso3 = countrycode(country, origin = "eurostat", destination = "iso3c"),
-    country_de = countrycode(country, origin = "eurostat", destination = "country.name.de"),
-    country_en = countrycode(country, origin = "eurostat", destination = "country.name")
-    ) %>%
-  select(-country)
-  
+    country_de = case_when(
+      country == "EA" ~ "Euroraum",
+      country == "EU" ~ "Europäische Union",
+      .default = countrycode(country, origin = "eurostat", destination = "country.name.de")
+      ),
+    country_en = case_when(
+      country == "EA" ~ "Euro area",
+      country == "EU" ~ "European Union",
+      .default = countrycode(country, origin = "eurostat", destination = "country.name")
+      )
+    )
+
+write.table(
+  bcsData %>% select(country, iso3, country_de, country_en) |> distinct(), 
+  file = paste0("../data_esi_countries.csv"), 
+  append = FALSE, 
+  na = "", 
+  quote = FALSE, 
+  sep = ",", 
+  dec = ".", 
+  row.names = FALSE, 
+  col.names = TRUE
+)
+
+write.table(
+  bcsData %>% select(-iso3, -country_de, -country_en), 
+  file = paste0("../data_esi_values.csv"), 
+  append = FALSE, 
+  na = "", 
+  quote = FALSE, 
+  sep = ",", 
+  dec = ".", 
+  row.names = FALSE, 
+  col.names = TRUE
+  )
+
+write.table(
+  bcsData %>% select(-iso3, -country_de, -country_en) %>% spread(key = "country", value = "value"), 
+  file = paste0("../data_esi_values_wide.csv"), 
+  append = FALSE, 
+  na = "", 
+  quote = FALSE, 
+  sep = ",", 
+  dec = ".", 
+  row.names = FALSE, 
+  col.names = TRUE
+)
+
 write.table(
   bcsData, 
   file = paste0("../data_esi.csv"), 
@@ -74,6 +117,12 @@ write.table(
   dec = ".", 
   row.names = FALSE, 
   col.names = TRUE
-  )
+)
 
+
+# bcsDataJson = bcsData %>%
+#   group_by(value) %>%
+#   nest() %>%
+#   toJSON() %>%
+#   write(file = paste0("../data_esi.json"))
 
