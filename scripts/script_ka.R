@@ -6,7 +6,7 @@ library(openxlsx)
 
 options(scipen = 9999)
 
-version <- "202403"
+version <- "202404"
 "//int.wsr.at/Nabu/Themen/Surveys/Konjunkturtest/ktflash/Flash202403/ampel.xlsx"
 
 ampel <- read_excel(paste0(
