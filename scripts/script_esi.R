@@ -119,6 +119,14 @@ write.table(
   col.names = TRUE
 )
 
+write_parquet(
+  bcsData, 
+  paste0("../data_esi.parquet"), 
+  compression_level = 9,
+  compression = "gzip"
+)
+
+
 
 bcsDataJson = bcsData %>%
   # group_by(value) %>%
