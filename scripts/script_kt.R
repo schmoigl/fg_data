@@ -40,4 +40,4 @@ for (i in 1:length(wds_series)) {
   data <- rbind(data, temp)
 }
 
-write_csv(data, "../data_kt.csv")
+write_csv(data, "data_kt.csv")
