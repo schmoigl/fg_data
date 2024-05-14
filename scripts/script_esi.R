@@ -2,13 +2,11 @@
 library(tidyverse)
 library(openxlsx)
 library(countrycode)
+library(jsonlite)
 
 time <- Sys.Date()
 time <- format(time, "%y%m")
-
-#Download Dataset - automatic
 temp <- tempfile()
-
 time <- as.numeric(time) - 1
 
 download.file(
