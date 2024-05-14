@@ -126,12 +126,10 @@ write_parquet(
   compression = "gzip"
 )
 
-
-
-bcsDataJson = bcsData %>%
-  # group_by(value) %>%
-  nest(.by = c(series, country, iso3, country_de, country_en)) %>%
-  nest(.by= c(country, iso3, country_de, country_en)) %>%
-  toJSON(pretty = T) %>%
-  write(file = paste0("../data_esi.json"))
+# bcsDataJson = bcsData %>%
+#   # group_by(value) %>%
+#   nest(.by = c(series, country, iso3, country_de, country_en)) %>%
+#   nest(.by= c(country, iso3, country_de, country_en)) %>%
+#   toJSON(pretty = T) %>%
+#   write(file = paste0("../data_esi.json"))
 
