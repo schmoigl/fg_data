@@ -1,4 +1,3 @@
-
 library(tidyverse)
 library(openxlsx)
 library(countrycode)
@@ -41,7 +40,7 @@ bcsData <- bcsData %>%
   separate(
     key, 
     into = c("country", "series"), 
-    "//."
+    "\\."
     ) %>%
   drop_na() %>%
   filter(
