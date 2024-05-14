@@ -1,4 +1,3 @@
-#!/bin/sh
 cd k/gitea/fg_data
 git pull
 git add .
