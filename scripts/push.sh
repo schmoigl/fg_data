@@ -1,4 +1,4 @@
-cd k/gitea/fg_data
+cd /k/gitea/fg_data
 git pull
 git add .
 timestamp() {
