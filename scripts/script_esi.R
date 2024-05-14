@@ -92,18 +92,6 @@ write.table(
   col.names = TRUE
   )
 
-# write.table(
-#   bcsData %>% select(-iso3, -country_de, -country_en) %>% spread(key = "country", value = "value"), 
-#   file = paste0("../data_esi_values_wide.csv"), 
-#   append = FALSE, 
-#   na = "", 
-#   quote = FALSE, 
-#   sep = ",", 
-#   dec = ".", 
-#   row.names = FALSE, 
-#   col.names = TRUE
-# )
-
 write.table(
   bcsData, 
   file = paste0("K:/Gitea/fg_data/data_esi.csv"), 
@@ -115,17 +103,3 @@ write.table(
   row.names = FALSE, 
   col.names = TRUE
 )
-
-# write_parquet(
-#   bcsData, 
-#   paste0("K:/Gitea/fg_data/data_esi.parquet"), 
-#   compression_level = 9,
-#   compression = "gzip"
-# )
-
-# bcsDataJson = bcsData %>%
-#   # group_by(value) %>%
-#   nest(.by = c(series, country, iso3, country_de, country_en)) %>%
-#   nest(.by= c(country, iso3, country_de, country_en)) %>%
-#   toJSON(pretty = T) %>%
-#   write(file = paste0("../data_esi.json"))
