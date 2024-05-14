@@ -37,4 +37,4 @@ daten_fb3 <- daten_fb3 |>
     "Production per person employed (right axis)" = "Produktion je Beschäftigtem/Beschäftigter (rechte Achse)"
   ))
   
-write_csv(daten_fb3, file = "../data_fg3.csv")
+write_csv(daten_fb3, file = "K:/Gitea/fg_data/data_fg3.csv")

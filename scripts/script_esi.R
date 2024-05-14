@@ -41,7 +41,7 @@ bcsData <- bcsData %>%
   separate(
     key, 
     into = c("country", "series"), 
-    "\\."
+    "//."
     ) %>%
   drop_na() %>%
   filter(
@@ -71,7 +71,7 @@ bcsData <- bcsData %>%
 
 write.table(
   bcsData %>% select(country, iso3, country_de, country_en) |> distinct(), 
-  file = paste0("data_esi_countries.csv"), 
+  file = paste0("K:/Gitea/fg_data/data_esi_countries.csv"), 
   append = FALSE, 
   na = "", 
   quote = FALSE, 
@@ -83,7 +83,7 @@ write.table(
 
 write.table(
   bcsData %>% select(-iso3, -country_de, -country_en), 
-  file = paste0("data_esi_values.csv"), 
+  file = paste0("K:/Gitea/fg_data/data_esi_values.csv"), 
   append = FALSE, 
   na = "", 
   quote = FALSE, 
@@ -107,7 +107,7 @@ write.table(
 
 write.table(
   bcsData, 
-  file = paste0("data_esi.csv"), 
+  file = paste0("K:/Gitea/fg_data/data_esi.csv"), 
   append = FALSE, 
   na = "", 
   quote = FALSE, 
@@ -117,12 +117,12 @@ write.table(
   col.names = TRUE
 )
 
-write_parquet(
-  bcsData, 
-  paste0("data_esi.parquet"), 
-  compression_level = 9,
-  compression = "gzip"
-)
+# write_parquet(
+#   bcsData, 
+#   paste0("K:/Gitea/fg_data/data_esi.parquet"), 
+#   compression_level = 9,
+#   compression = "gzip"
+# )
 
 # bcsDataJson = bcsData %>%
 #   # group_by(value) %>%
@@ -130,4 +130,3 @@ write_parquet(
 #   nest(.by= c(country, iso3, country_de, country_en)) %>%
 #   toJSON(pretty = T) %>%
 #   write(file = paste0("../data_esi.json"))
-

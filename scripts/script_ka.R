@@ -34,7 +34,7 @@ zsp <- read_excel(paste0(
   left_join(ampel) %>%
   drop_na()
 
-write_csv(zsp, file = "data_ka.csv")
+write_csv(zsp, file = "K:/Gitea/fg_data/data_ka.csv")
 
 
 # # ??
