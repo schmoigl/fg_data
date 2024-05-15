@@ -6,11 +6,12 @@ library(openxlsx)
 
 options(scipen = 9999)
 
-version <- "202404"
+# version <- "202404"
+version <- format(Sys.time(),"%Y%m")    
 # "//int.wsr.at/Nabu/Themen/Surveys/Konjunkturtest/ktflash/Flash202403/ampel.xlsx"
 
 ampel <- read_excel(paste0(
-  "//int.wsr.at/Nabu/Themen/Surveys/Konjunkturtest/ktflash/Flash",
+  "//int.wsr.at/Nabu/Themen/Surveys/Konjunkturtest/ktflash/Konjunkturampel",
   version,
   "/ampel.xlsx"
   )) %>%
@@ -19,7 +20,7 @@ ampel <- read_excel(paste0(
   drop_na()
 
 zsp <- read_excel(paste0(
-  "//int.wsr.at/Nabu/Themen/Surveys/Konjunkturtest/ktflash/Flash",
+  "//int.wsr.at/Nabu/Themen/Surveys/Konjunkturtest/ktflash/Konjunkturampel",
   version,
   "/Zsp_Indices_", 
   version,
