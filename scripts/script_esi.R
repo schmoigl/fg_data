@@ -67,7 +67,7 @@ bcsData <- bcsData %>%
       .default = countrycode(country, origin = "eurostat", destination = "country.name")
       )
     ) |>
-  filter(date >= "1995-01.01")
+  filter(date >= "1995-01-01")
 
 write.table(
   bcsData %>% select(country, iso3, country_de, country_en) |> distinct(), 
@@ -93,14 +93,14 @@ write.table(
   col.names = TRUE
   )
 
-write.table(
-  bcsData, 
-  file = paste0("K:/Gitea/fg_data/data_esi.csv"), 
-  append = FALSE, 
-  na = "", 
-  quote = FALSE, 
-  sep = ",", 
-  dec = ".", 
-  row.names = FALSE, 
-  col.names = TRUE
-)
+# write.table(
+#   bcsData, 
+#   file = paste0("K:/Gitea/fg_data/data_esi.csv"), 
+#   append = FALSE, 
+#   na = "", 
+#   quote = FALSE, 
+#   sep = ",", 
+#   dec = ".", 
+#   row.names = FALSE, 
+#   col.names = TRUE
+# )
