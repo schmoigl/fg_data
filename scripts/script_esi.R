@@ -67,7 +67,7 @@ bcsData <- bcsData %>%
       .default = countrycode(country, origin = "eurostat", destination = "country.name")
       )
     ) |>
-  filter(date >= "2000-01-01")
+  filter(date >= "2004-01-01")
 
 
 ## Detailed NACE 73 data
