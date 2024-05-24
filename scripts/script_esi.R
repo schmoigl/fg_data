@@ -105,9 +105,10 @@ bcsData73 <- bcsData73 %>%
     ) %>%
   separate(
     key, 
-    into = c("series", "country"), 
+    into = c("series", "country", "nace", "sub"), 
     "\\."
     ) %>%
+  filter(sub == "COF") %>%
   drop_na() %>%
   mutate(
     iso3 = countrycode(country, origin = "eurostat", destination = "iso3c"),
@@ -122,8 +123,9 @@ bcsData73 <- bcsData73 %>%
       .default = countrycode(country, origin = "eurostat", destination = "country.name")
       )
     ) |>
-  filter(date >= "2000-01-01") |>
-  mutate(series = paste0(series, 73))
+  filter(date >= "2004-01-01") |>
+  mutate(series = paste0(series, nace)) |>
+  select(-sub, -nace)
 
 ## save
 

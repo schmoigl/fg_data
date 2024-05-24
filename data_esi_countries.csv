@@ -2,6 +2,7 @@ country,iso3,country_de,country_en
 AT,AUT,Österreich,Austria
 BE,BEL,Belgien,Belgium
 BG,BGR,Bulgarien,Bulgaria
+CY,CYP,Zypern,Cyprus
 CZ,CZE,Tschechische Republik,Czechia
 DE,DEU,Deutschland,Germany
 DK,DNK,Dänemark,Denmark
@@ -18,6 +19,7 @@ IT,ITA,Italien,Italy
 LT,LTU,Litauen,Lithuania
 LU,LUX,Luxemburg,Luxembourg
 LV,LVA,Lettland,Latvia
+MT,MLT,Malta,Malta
 NL,NLD,Niederlande,Netherlands
 PL,POL,Polen,Poland
 PT,PRT,Portugal,Portugal
@@ -26,8 +28,6 @@ SE,SWE,Schweden,Sweden
 SI,SVN,Slowenien,Slovenia
 SK,SVK,Slowakei,Slovakia
 UK,GBR,Großbritannien,United Kingdom
-CY,CYP,Zypern,Cyprus
-MT,MLT,Malta,Malta
 HR,HRV,Kroatien,Croatia
 TR,TUR,Türkei,Turkey
 MK,MKD,Nordmazedonien,North Macedonia
