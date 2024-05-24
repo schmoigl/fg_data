@@ -1,30 +1,30 @@
 country,iso3,country_de,country_en
-EU,,Europäische Union,European Union
-EA,,Euroraum,Euro area
+AT,AUT,Österreich,Austria
 BE,BEL,Belgien,Belgium
 BG,BGR,Bulgarien,Bulgaria
 CZ,CZE,Tschechische Republik,Czechia
-DK,DNK,Dänemark,Denmark
 DE,DEU,Deutschland,Germany
+DK,DNK,Dänemark,Denmark
+EA,,Euroraum,Euro area
 EE,EST,Estland,Estonia
-IE,IRL,Irland,Ireland
 EL,GRC,Griechenland,Greece
 ES,ESP,Spanien,Spain
+EU,,Europäische Union,European Union
+FI,FIN,Finnland,Finland
 FR,FRA,Frankreich,France
+HU,HUN,Ungarn,Hungary
+IE,IRL,Irland,Ireland
 IT,ITA,Italien,Italy
-LV,LVA,Lettland,Latvia
 LT,LTU,Litauen,Lithuania
 LU,LUX,Luxemburg,Luxembourg
-HU,HUN,Ungarn,Hungary
+LV,LVA,Lettland,Latvia
 NL,NLD,Niederlande,Netherlands
-AT,AUT,Österreich,Austria
 PL,POL,Polen,Poland
 PT,PRT,Portugal,Portugal
 RO,ROU,Rumänien,Romania
+SE,SWE,Schweden,Sweden
 SI,SVN,Slowenien,Slovenia
 SK,SVK,Slowakei,Slovakia
-FI,FIN,Finnland,Finland
-SE,SWE,Schweden,Sweden
 UK,GBR,Großbritannien,United Kingdom
 CY,CYP,Zypern,Cyprus
 MT,MLT,Malta,Malta

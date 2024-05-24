@@ -69,6 +69,68 @@ bcsData <- bcsData %>%
     ) |>
   filter(date >= "2000-01-01")
 
+
+## Detailed NACE 73 data
+
+temp <- tempfile()
+
+download.file(
+  paste0(
+    "https://ec.europa.eu/economy_finance/",
+    "db_indicators/surveys/documents/series/nace2_ecfin_",
+    time,
+    "/services_subsectors_sa_nace2.zip"
+    ), 
+  temp
+  )
+
+bcsData73 <- read.xlsx(
+  unzip(temp, "services_subsectors_sa_m_nace2.xlsx"), 
+  colNames = TRUE, 
+  sheet = "73", 
+  detectDates = F
+  )
+
+unlink(temp)
+rm(temp)
+
+bcsData73 <- bcsData73 %>% 
+  mutate_all(as.numeric) %>%
+  rename(date = `73`) %>% 
+  mutate(date = format(convertToDate(date))) %>%
+  pivot_longer(
+    cols = 2:ncol(bcsData73), 
+    names_to = "key", 
+    values_to = "value"
+    ) %>%
+  separate(
+    key, 
+    into = c("series", "country"), 
+    "\\."
+    ) %>%
+  drop_na() %>%
+  mutate(
+    iso3 = countrycode(country, origin = "eurostat", destination = "iso3c"),
+    country_de = case_when(
+      country == "EA" ~ "Euroraum",
+      country == "EU" ~ "Europäische Union",
+      .default = countrycode(country, origin = "eurostat", destination = "country.name.de")
+      ),
+    country_en = case_when(
+      country == "EA" ~ "Euro area",
+      country == "EU" ~ "European Union",
+      .default = countrycode(country, origin = "eurostat", destination = "country.name")
+      )
+    ) |>
+  filter(date >= "2000-01-01") |>
+  mutate(series = paste0(series, 73))
+
+## save
+
+bcsData <- bcsData |>
+  add_row(bcsData73) |>
+  arrange(date, country, series)
+
 write.table(
   bcsData %>% select(country, iso3, country_de, country_en) |> distinct(), 
   file = paste0("K:/Gitea/fg_data/data_esi_countries.csv"), 
@@ -104,3 +166,4 @@ write.table(
 #   row.names = FALSE, 
 #   col.names = TRUE
 # )
+
