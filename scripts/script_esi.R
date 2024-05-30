@@ -6,7 +6,7 @@ library(jsonlite)
 time <- Sys.Date()
 time <- format(time, "%y%m")
 temp <- tempfile()
-time <- as.numeric(time) - 1
+time <- as.numeric(time)
 
 download.file(
   paste0(
