@@ -22,7 +22,7 @@ wds_names <- c(
 
 wds_names_en <- c(
   "Overall economy",
-  "Goods production", # (manufacturing industry and commerce)
+  "Manufacturing", # (manufacturing industry and commerce)
   "Construction",
   "Retail",
   "Services"
