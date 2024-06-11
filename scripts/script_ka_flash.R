@@ -9,7 +9,7 @@ options(scipen = 9999)
 version <- format(Sys.time(), "%Y%m")
 
 ampel <- read_excel(paste0(
-  "//int.wsr.at/Nabu/Themen/Surveys/Konjunkturtest/ktflash/Konjunkturampel",
+  "//int.wsr.at/Nabu/Themen/Surveys/Konjunkturtest/ktflash/Flash",
   version,
   "/ampel.xlsx"
   )) %>%
@@ -18,7 +18,7 @@ ampel <- read_excel(paste0(
   drop_na()
 
 zsp <- read_excel(paste0(
-  "//int.wsr.at/Nabu/Themen/Surveys/Konjunkturtest/ktflash/Konjunkturampel",
+  "//int.wsr.at/Nabu/Themen/Surveys/Konjunkturtest/ktflash/Flash",
   version,
   "/Zsp_Indices_", 
   version,
@@ -33,4 +33,4 @@ zsp <- read_excel(paste0(
   left_join(ampel) %>%
   drop_na()
 
-write_csv(zsp, file = "K:/Gitea/fg_data/data_ka.csv")
+write_csv(zsp, file = "K:/Gitea/fg_data/data_ka_flash.csv")
