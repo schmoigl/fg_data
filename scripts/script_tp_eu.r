@@ -1,8 +1,8 @@
 library(readr)
 library(tidyverse)
-data <- read_csv("C:/Users/schmo/Downloads/dot_2022_final@1.csv")
-
 options(scipen=9999)
+
+data <- read_csv("scripts/dot_2022_final.csv")
 
 data <- data %>% 
   mutate(export_value = export_value / 1000000000) %>%
@@ -12,7 +12,7 @@ data <- data %>%
   arrange(desc(export_value)) %>%
   mutate(rank = row_number())
 
-write.csv(data, "data.csv", fileEncoding = "UTF-8")
+write.csv(data, "data_AUT.csv", fileEncoding = "UTF-8")
 
 toplist <- t(data$partner_country_ger[1:13])
 
