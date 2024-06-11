@@ -3,7 +3,7 @@ rm(list = ls())
 library(wifo.base)
 loadPackages(c('data.table', 'readr','microbenchmark', 'haven', 'RODBC', 'lubridate', 'tidyverse'))
 
-source(file = 'functions_create_csv.R', encoding = 'UTF8')
+source(file = 'scripts/functions_create_csv.R', encoding = 'UTF8')
 
 create_fb3()
 
@@ -38,3 +38,4 @@ daten_fb3 <- daten_fb3 |>
   ))
   
 write_csv(daten_fb3, file = "K:/Gitea/fg_data/data_fg3.csv")
+file.remove("daten_fb3.csv")
