@@ -27,8 +27,8 @@
 2021,4.2,Österreich,
 2022,4.8,Österreich,
 2023,-0.8,Österreich,
-2024,0.2,Österreich,1
-2025,1.8,Österreich,1
+2024,0,Österreich,1
+2025,1.5,Österreich,1
 1996,0.8,Deutschland,
 1997,1.8,Deutschland,
 1998,2,Deutschland,
@@ -56,8 +56,8 @@
 2020,-3.8,Deutschland,
 2021,3.2,Deutschland,
 2022,1.8,Deutschland,
-2023,-0.3,Deutschland,
-2024,0.2,Deutschland,1
+2023,-0.2,Deutschland,
+2024,0.4,Deutschland,1
 2025,1.5,Deutschland,1
 1996,1.6,Euro-Raum,
 1997,2.6,Euro-Raum,
@@ -86,9 +86,9 @@
 2020,-6.1,Euro-Raum,
 2021,5.9,Euro-Raum,
 2022,3.4,Euro-Raum,
-2023,0.4,Euro-Raum,
-2024,0.7,Euro-Raum,1
-2025,1.7,Euro-Raum,1
+2023,0.5,Euro-Raum,
+2024,0.9,Euro-Raum,1
+2025,1.8,Euro-Raum,1
 1996,3.8,USA,
 1997,4.4,USA,
 1998,4.5,USA,
@@ -117,5 +117,5 @@
 2021,5.8,USA,
 2022,1.9,USA,
 2023,2.5,USA,
-2024,2.3,USA,1
-2025,1.7,USA,1
+2024,2.2,USA,1
+2025,1.8,USA,1
