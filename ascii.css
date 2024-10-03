@@ -1,0 +1,75 @@
+select, option, output, input, button, form, datalist {
+    font-family: "Arial" !important;
+    font-size: 16px !important;
+}
+[id^=observable] {
+    /* max-width: 1200px; */
+    margin-left: auto;
+    margin-right: auto;
+}
+[name="output"] {
+    font: 16px "Arial" !important;
+}
+form > label {
+    font-family: "Arial" !important;
+    font-size: 16px !important;
+}
+optgroup {
+    font-size: 12px !important;
+}
+output[name="output"] {
+    font-family: "Arial" !important;
+    font-size: 16px !important;
+}
+.item-label {
+    font-family: "Arial";
+}
+span[class*="yams"] {
+    font-family: "Arial" !important;
+    font-size: 16px !important;
+}
+.range-track {
+    background-color: #EFEFEF !important;
+    margin: 0px 8px 0px 8px;
+}
+
+/* tooltip:   */
+#vg-tooltip-element {
+    font-family: "Arial" !important;
+    font-Size: 13px !important;
+    line-height: 16px;
+    background-color: rgba(255,255,255,1);
+    border-radius: 0px;
+    border: 0px solid;
+    max-width: 500px;
+  }
+#vg-tooltip-element > table {
+    border-collapse: separate;
+    border-spacing: 0px 0px;
+    line-height: 16px;
+    font-family: "Arial" !important;
+    font-Size: 13px !important;
+    margin: 0px 0px 0px 0px;
+  }
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 10px;
+    background-color: #ccc;
+    padding: 10px;
+  }
+.grid-container > div {
+    background-color: #666;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 20px;
+  }
+#tooltip_eurostat {
+    font-family: "Arial" !important;
+    font-size: 16px !important;
+    margin: 0px 2px 0px 2px;
+  }
+
+#bottomtext {
+    display: none;
+}
