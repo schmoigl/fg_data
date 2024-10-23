@@ -135,7 +135,7 @@ bcsData <- bcsData |>
 
 write.table(
   bcsData %>% select(country, iso3, country_de, country_en) |> distinct(), 
-  file = paste0("K:/Gitea/fg_data/data_esi_countries.csv"), 
+  file = paste0("data_esi_countries.csv"), 
   append = FALSE, 
   na = "", 
   quote = FALSE, 
@@ -147,7 +147,7 @@ write.table(
 
 write.table(
   bcsData %>% select(-iso3, -country_de, -country_en), 
-  file = paste0("K:/Gitea/fg_data/data_esi_values.csv"), 
+  file = paste0("data_esi_values.csv"), 
   append = FALSE, 
   na = "", 
   quote = FALSE, 
