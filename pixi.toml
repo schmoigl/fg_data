@@ -1,0 +1,11 @@
+[project]
+channels = ["conda-forge"]
+description = "Add a short description here"
+name = "fg_data"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+r-base = ">=4.4.2,<4.5"
