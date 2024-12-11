@@ -1,4 +1,5 @@
 cd ~/Github/fg_data
+pixi shell
 git pull
 Rscript scripts/script_esi.R
 git add .
