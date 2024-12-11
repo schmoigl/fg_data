@@ -6,7 +6,7 @@ echo "git pull"
 git pull
 
 echo "pixi run update"
-pixi run update
+/home/lschmoigl/.pixi/bin/pixi run update
 
 echo "git"
 git add .
