@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 echo "Starting"
 cd /home/lschmoigl/Github/fg_data
 
