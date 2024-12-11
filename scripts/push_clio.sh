@@ -1,4 +1,4 @@
-cd Github/fg_data
+cd ~/Github/fg_data
 git pull
 Rscript scripts/script_esi.R
 git add .
