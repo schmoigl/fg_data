@@ -39,4 +39,4 @@ for (i in 1:length(wds_series)) {
   data <- rbind(data, temp)
 }
 
-write_csv(data, "K:/Gitea/fg_data/data_kt.csv")
+write_csv(data, "K:/Github/fg_data/data_kt.csv")

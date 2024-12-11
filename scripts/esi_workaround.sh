@@ -1,1 +1,0 @@
-/c/Program\ Files/R/R-4.3.1/bin/Rscript.exe /k/gitea/fg_data/scripts/script_esi.R

@@ -1,4 +1,4 @@
-cd /k/Github/fg_data
+cd /Github/fg_data
 git pull
 git add .
 timestamp() {
