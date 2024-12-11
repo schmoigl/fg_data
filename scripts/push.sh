@@ -1,8 +1,5 @@
 cd /k/Github/fg_data
 git pull
 git add .
-timestamp() {
-  date +"at %H:%M:%S on %d/%m/%Y"
-}
-git commit -m "auto-commit $(timestamp)"
+git commit -m "auto-commit"
 git push
