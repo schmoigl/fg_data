@@ -1,5 +1,4 @@
-cd ~/Github/fg_data
-
+cd /home/lschmoigl/Github/fg_data
 git pull
 pixi run update
 git add .
