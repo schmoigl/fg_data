@@ -1,10 +1,7 @@
 cd ~/Github/fg_data
-pixi shell
+
 git pull
-Rscript scripts/script_esi.R
+pixi run update
 git add .
-timestamp() {
-  date +"at %H:%M:%S on %d/%m/%Y"
-}
-git commit -m "auto-commit $(timestamp)"
+git commit -m "auto-commit"
 git push

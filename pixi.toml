@@ -6,6 +6,8 @@ platforms = ["linux-64"]
 version = "0.1.0"
 
 [tasks]
+update = "Rscript scripts/script_esi.R"
+
 
 [dependencies]
 r-base = ">=4.4.2,<4.5"
