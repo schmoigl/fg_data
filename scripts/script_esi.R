@@ -9,8 +9,6 @@ time <- format(time, "%y%m")
 temp <- tempfile()
 time <- as.numeric(time)
 
-time = 2412
-
 download.file(
   paste0(
     "https://ec.europa.eu/economy_finance/",
