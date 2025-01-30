@@ -339,14 +339,15 @@ month,value,indicator,indicator_en
 2024-02-01,-9.6715,Gesamtwirtschaft,Overall economy
 2024-03-01,-7.1762,Gesamtwirtschaft,Overall economy
 2024-04-01,-3.3215,Gesamtwirtschaft,Overall economy
-2024-05-01,-4.1777,Gesamtwirtschaft,Overall economy
-2024-06-01,-6.743,Gesamtwirtschaft,Overall economy
-2024-07-01,-8.0551,Gesamtwirtschaft,Overall economy
-2024-08-01,-7.5881,Gesamtwirtschaft,Overall economy
-2024-09-01,-5.9525,Gesamtwirtschaft,Overall economy
-2024-10-01,-6.7152,Gesamtwirtschaft,Overall economy
-2024-11-01,-4.2498,Gesamtwirtschaft,Overall economy
-2024-12-01,-6.1011,Gesamtwirtschaft,Overall economy
+2024-05-01,-4.1609,Gesamtwirtschaft,Overall economy
+2024-06-01,-6.7416,Gesamtwirtschaft,Overall economy
+2024-07-01,-8.0532,Gesamtwirtschaft,Overall economy
+2024-08-01,-7.5864,Gesamtwirtschaft,Overall economy
+2024-09-01,-5.951,Gesamtwirtschaft,Overall economy
+2024-10-01,-6.7144,Gesamtwirtschaft,Overall economy
+2024-11-01,-4.2365,Gesamtwirtschaft,Overall economy
+2024-12-01,-6.0182,Gesamtwirtschaft,Overall economy
+2025-01-01,-5.1748,Gesamtwirtschaft,Overall economy
 1996-01-01,-22.6392,Sachgütererzeugung,Manufacturing
 1996-02-01,-21.7181,Sachgütererzeugung,Manufacturing
 1996-03-01,-23.4675,Sachgütererzeugung,Manufacturing
@@ -693,8 +694,9 @@ month,value,indicator,indicator_en
 2024-08-01,-18.424,Sachgütererzeugung,Manufacturing
 2024-09-01,-18.924,Sachgütererzeugung,Manufacturing
 2024-10-01,-16.3685,Sachgütererzeugung,Manufacturing
-2024-11-01,-16.1706,Sachgütererzeugung,Manufacturing
-2024-12-01,-23.8241,Sachgütererzeugung,Manufacturing
+2024-11-01,-16.1404,Sachgütererzeugung,Manufacturing
+2024-12-01,-23.4948,Sachgütererzeugung,Manufacturing
+2025-01-01,-19.0177,Sachgütererzeugung,Manufacturing
 1996-01-01,-31.5685,Bau,Construction
 1996-02-01,-28.9672,Bau,Construction
 1996-03-01,-30.5788,Bau,Construction
@@ -1042,7 +1044,8 @@ month,value,indicator,indicator_en
 2024-09-01,-2.5766,Bau,Construction
 2024-10-01,-1.3422,Bau,Construction
 2024-11-01,1.8009,Bau,Construction
-2024-12-01,0.0524,Bau,Construction
+2024-12-01,-0.6233,Bau,Construction
+2025-01-01,-3.587,Bau,Construction
 1996-01-01,-30.569,Einzelhandel,Retail
 1996-02-01,-24.3027,Einzelhandel,Retail
 1996-03-01,-25.8905,Einzelhandel,Retail
@@ -1391,6 +1394,7 @@ month,value,indicator,indicator_en
 2024-10-01,-11.4252,Einzelhandel,Retail
 2024-11-01,-7.7913,Einzelhandel,Retail
 2024-12-01,-5.597,Einzelhandel,Retail
+2025-01-01,-3.2767,Einzelhandel,Retail
 1996-01-01,NA,Dienstleistungen,Services
 1996-02-01,NA,Dienstleistungen,Services
 1996-03-01,NA,Dienstleistungen,Services
@@ -1731,11 +1735,12 @@ month,value,indicator,indicator_en
 2024-02-01,-3.1211,Dienstleistungen,Services
 2024-03-01,1.4047,Dienstleistungen,Services
 2024-04-01,4.4002,Dienstleistungen,Services
-2024-05-01,3.5323,Dienstleistungen,Services
-2024-06-01,0.155,Dienstleistungen,Services
-2024-07-01,-3.5773,Dienstleistungen,Services
-2024-08-01,-1.4934,Dienstleistungen,Services
-2024-09-01,0.8686,Dienstleistungen,Services
-2024-10-01,-2.1179,Dienstleistungen,Services
-2024-11-01,1.9632,Dienstleistungen,Services
-2024-12-01,2.4071,Dienstleistungen,Services
+2024-05-01,3.5656,Dienstleistungen,Services
+2024-06-01,0.1572,Dienstleistungen,Services
+2024-07-01,-3.5742,Dienstleistungen,Services
+2024-08-01,-1.4899,Dienstleistungen,Services
+2024-09-01,0.8721,Dienstleistungen,Services
+2024-10-01,-2.1153,Dienstleistungen,Services
+2024-11-01,1.9732,Dienstleistungen,Services
+2024-12-01,2.5193,Dienstleistungen,Services
+2025-01-01,1.967,Dienstleistungen,Services
