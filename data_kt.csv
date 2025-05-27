@@ -348,9 +348,10 @@ month,value,indicator,indicator_en
 2024-11-01,-4.2136,Gesamtwirtschaft,Overall economy
 2024-12-01,-5.9626,Gesamtwirtschaft,Overall economy
 2025-01-01,-5.0582,Gesamtwirtschaft,Overall economy
-2025-02-01,-6.7041,Gesamtwirtschaft,Overall economy
-2025-03-01,-6.7404,Gesamtwirtschaft,Overall economy
-2025-04-01,-7.1119,Gesamtwirtschaft,Overall economy
+2025-02-01,-6.7072,Gesamtwirtschaft,Overall economy
+2025-03-01,-6.7911,Gesamtwirtschaft,Overall economy
+2025-04-01,-7.0254,Gesamtwirtschaft,Overall economy
+2025-05-01,-4.8709,Gesamtwirtschaft,Overall economy
 1996-01-01,-22.6392,Sachgütererzeugung,Manufacturing
 1996-02-01,-21.7181,Sachgütererzeugung,Manufacturing
 1996-03-01,-23.4675,Sachgütererzeugung,Manufacturing
@@ -700,9 +701,10 @@ month,value,indicator,indicator_en
 2024-11-01,-16.1404,Sachgütererzeugung,Manufacturing
 2024-12-01,-23.4948,Sachgütererzeugung,Manufacturing
 2025-01-01,-18.9848,Sachgütererzeugung,Manufacturing
-2025-02-01,-19.9915,Sachgütererzeugung,Manufacturing
-2025-03-01,-16.1218,Sachgütererzeugung,Manufacturing
-2025-04-01,-14.9275,Sachgütererzeugung,Manufacturing
+2025-02-01,-20.0022,Sachgütererzeugung,Manufacturing
+2025-03-01,-16.1381,Sachgütererzeugung,Manufacturing
+2025-04-01,-15.0226,Sachgütererzeugung,Manufacturing
+2025-05-01,-10.503,Sachgütererzeugung,Manufacturing
 1996-01-01,-31.5685,Bau,Construction
 1996-02-01,-28.9672,Bau,Construction
 1996-03-01,-30.5788,Bau,Construction
@@ -1054,7 +1056,8 @@ month,value,indicator,indicator_en
 2025-01-01,-3.7339,Bau,Construction
 2025-02-01,-0.7061,Bau,Construction
 2025-03-01,-4.2528,Bau,Construction
-2025-04-01,-2.9262,Bau,Construction
+2025-04-01,-2.9649,Bau,Construction
+2025-05-01,-0.3063,Bau,Construction
 1996-01-01,-30.569,Einzelhandel,Retail
 1996-02-01,-24.3027,Einzelhandel,Retail
 1996-03-01,-25.8905,Einzelhandel,Retail
@@ -1407,6 +1410,7 @@ month,value,indicator,indicator_en
 2025-02-01,-3.3629,Einzelhandel,Retail
 2025-03-01,-6.0575,Einzelhandel,Retail
 2025-04-01,-9.1181,Einzelhandel,Retail
+2025-05-01,-3.9394,Einzelhandel,Retail
 1996-01-01,NA,Dienstleistungen,Services
 1996-02-01,NA,Dienstleistungen,Services
 1996-03-01,NA,Dienstleistungen,Services
@@ -1757,5 +1761,6 @@ month,value,indicator,indicator_en
 2024-12-01,2.6296,Dienstleistungen,Services
 2025-01-01,2.2059,Dienstleistungen,Services
 2025-02-01,-0.9904,Dienstleistungen,Services
-2025-03-01,-1.8104,Dienstleistungen,Services
-2025-04-01,-1.9589,Dienstleistungen,Services
+2025-03-01,-1.9035,Dienstleistungen,Services
+2025-04-01,-1.7273,Dienstleistungen,Services
+2025-05-01,-2.1664,Dienstleistungen,Services
