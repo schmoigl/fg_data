@@ -1,9 +1,17 @@
-
 rm(list = ls())
 library(wifo.base)
-loadPackages(c('data.table', 'readr','microbenchmark', 'haven', 'RODBC', 'lubridate', 'tidyverse'))
+loadPackages(c(
+  "data.table",
+  "readr",
+  "microbenchmark",
+  "haven",
+  "RODBC",
+  "lubridate",
+  "tidyverse"
+))
 
-source(file = 'scripts/functions_create_csv.R', encoding = 'UTF8')
+source(file = "scripts/functions_create_csv.R", encoding = "UTF8")
+
 
 create_fb3()
 
@@ -12,7 +20,7 @@ daten_fb3 <- read_delim(
   delim = ";",
   escape_double = FALSE,
   trim_ws = TRUE
-  )
+)
 
 daten_fb3 <- daten_fb3 |>
   mutate(Jahr = substr(SeriesDate, 1, 4)) |>
@@ -29,7 +37,7 @@ daten_fb3 <- daten_fb3 |>
     "Produktion je Beschäftigtem/Beschäftigter (rechte Achse)" = "prodbesch"
   )) |>
   mutate(Variable_en = fct_recode(
-    Variable, 
+    Variable,
     "Gross domestic expenditure for R&D in % of GDP" = "Bruttoinlandsausgaben für F&E in % des BIP",
     "Austria's market share of exports to the world in %" = "AT Marktanteil am Export in die Welt in %",
     "Austria's market share to the EU-28 in %" = "AT Marktanteil am Export der Welt in die EU28 in %",

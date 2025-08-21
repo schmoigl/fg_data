@@ -2,17 +2,17 @@ library(wifo.base)
 library(wifo.data)
 library(tidyverse)
 
-wds_series = c(
-  "gen_t00clim_s", 
-  "gen_t10clim_s", 
-  "gen_t20clim_s", 
-  "gen_t40clim_s", 
+wds_series <- c(
+  "gen_t00clim_s",
+  "gen_t10clim_s",
+  "gen_t20clim_s",
+  "gen_t40clim_s",
   "gen_t30clim_s"
   # "gen_t32clim_s"
-  )
+)
 
 wds_names <- c(
-  "Gesamtwirtschaft", 
+  "Gesamtwirtschaft",
   "Sachgütererzeugung", #  (produzierende Industrie und Gewerbe)
   "Bau",
   "Einzelhandel",

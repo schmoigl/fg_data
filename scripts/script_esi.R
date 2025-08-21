@@ -15,34 +15,34 @@ download.file(
     "db_indicators/surveys/documents/series/nace2_ecfin_",
     time,
     "/main_indicators_sa_nace2.zip"
-    ), 
+  ),
   temp
-  )
+)
 
 bcsData <- read.xlsx(
-  unzip(temp, "main_indicators_nace2.xlsx"), 
-  colNames = TRUE, 
-  sheet = "MONTHLY", 
-  detectDates = F
-  )
+  unzip(temp, "main_indicators_nace2.xlsx"),
+  colNames = TRUE,
+  sheet = "MONTHLY",
+  detectDates = FALSE
+)
 
 unlink(temp)
 rm(temp)
 
-bcsData <- bcsData %>% 
+bcsData <- bcsData %>%
   mutate_all(as.numeric) %>%
-  rename(date = X1) %>% 
+  rename(date = X1) %>%
   mutate(date = format(convertToDate(date))) %>%
   pivot_longer(
-    cols = 2:ncol(bcsData), 
-    names_to = "key", 
+    cols = 2:ncol(bcsData),
+    names_to = "key",
     values_to = "value"
-    ) %>%
+  ) %>%
   separate(
-    key, 
-    into = c("country", "series"), 
+    key,
+    into = c("country", "series"),
     "\\."
-    ) %>%
+  ) %>%
   drop_na() %>%
   filter(
     series %in% c(
@@ -81,34 +81,34 @@ download.file(
     "db_indicators/surveys/documents/series/nace2_ecfin_",
     time,
     "/services_subsectors_sa_nace2.zip"
-    ), 
+  ),
   temp
-  )
+)
 
 bcsData73 <- read.xlsx(
-  unzip(temp, "services_subsectors_sa_m_nace2.xlsx"), 
-  colNames = TRUE, 
-  sheet = "73", 
-  detectDates = F
-  )
+  unzip(temp, "services_subsectors_sa_m_nace2.xlsx"),
+  colNames = TRUE,
+  sheet = "73",
+  detectDates = FALSE
+)
 
 unlink(temp)
 rm(temp)
 
-bcsData73 <- bcsData73 %>% 
+bcsData73 <- bcsData73 %>%
   mutate_all(as.numeric) %>%
-  rename(date = `73`) %>% 
+  rename(date = `73`) %>%
   mutate(date = format(convertToDate(date))) %>%
   pivot_longer(
-    cols = 2:ncol(bcsData73), 
-    names_to = "key", 
+    cols = 2:ncol(bcsData73),
+    names_to = "key",
     values_to = "value"
-    ) %>%
+  ) %>%
   separate(
-    key, 
-    into = c("series", "country", "nace", "sub"), 
+    key,
+    into = c("series", "country", "nace", "sub"),
     "\\."
-    ) %>%
+  ) %>%
   filter(sub == "COF") %>%
   drop_na() %>%
   mutate(
@@ -136,24 +136,24 @@ bcsData <- bcsData |>
 
 write.table(
   bcsData %>% select(country, iso3, country_de, country_en) |> distinct(), 
-  file = paste0("data_esi_countries.csv"), 
-  append = FALSE, 
-  na = "", 
-  quote = FALSE, 
-  sep = ",", 
-  dec = ".", 
-  row.names = FALSE, 
+  file = paste0("data_esi_countries.csv"),
+  append = FALSE,
+  na = "",
+  quote = FALSE,
+  sep = ",",
+  dec = ".",
+  row.names = FALSE,
   col.names = TRUE
 )
 
 write.table(
-  bcsData %>% select(-iso3, -country_de, -country_en), 
-  file = paste0("data_esi_values.csv"), 
-  append = FALSE, 
-  na = "", 
-  quote = FALSE, 
-  sep = ",", 
-  dec = ".", 
-  row.names = FALSE, 
+  bcsData %>% select(-iso3, -country_de, -country_en),
+  file = paste0("data_esi_values.csv"),
+  append = FALSE,
+  na = "",
+  quote = FALSE,
+  sep = ",",
+  dec = ".",
+  row.names = FALSE,
   col.names = TRUE
-  )
+)

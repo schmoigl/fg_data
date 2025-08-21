@@ -12,7 +12,7 @@ ampel <- read_excel(paste0(
   "//int.wsr.at/Nabu/Themen/Surveys/Konjunkturtest/ktflash/Flash",
   version,
   "/ampel.xlsx"
-  )) %>%
+)) %>%
   rename(date = ...1) %>%
   select(date, ampel) %>%
   drop_na()
@@ -20,10 +20,10 @@ ampel <- read_excel(paste0(
 zsp <- read_excel(paste0(
   "//int.wsr.at/Nabu/Themen/Surveys/Konjunkturtest/ktflash/Flash",
   version,
-  "/Zsp_Indices_", 
+  "/Zsp_Indices_",
   version,
   "_r.xlsx"
-  )) %>%
+)) %>%
   rename(
     date = ...1,
     aktuell = ECON_CONTEMPORARY_INDEX,
