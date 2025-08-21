@@ -8,9 +8,9 @@ source(file = 'scripts/functions_create_csv.R', encoding = 'UTF8')
 create_fb3()
 
 daten_fb3 <- read_delim(
-  "daten_fb3.csv", 
-  delim = ";", 
-  escape_double = FALSE, 
+  "daten_fb3.csv",
+  delim = ";",
+  escape_double = FALSE,
   trim_ws = TRUE
   )
 
@@ -36,6 +36,6 @@ daten_fb3 <- daten_fb3 |>
     "Expenditures in the business sector on R&D in % of GDP" = "Ausgaben des Unternehmenssektors für F&E in % des BIP",
     "Production per person employed (right axis)" = "Produktion je Beschäftigtem/Beschäftigter (rechte Achse)"
   ))
-  
+
 write_csv(daten_fb3, file = "K:/Github/fg_data/data_fg3.csv")
 file.remove("daten_fb3.csv")
