@@ -352,8 +352,9 @@ month,value,indicator,indicator_en
 2025-03-01,-6.7904,Gesamtwirtschaft,Overall economy
 2025-04-01,-7.0104,Gesamtwirtschaft,Overall economy
 2025-05-01,-4.5197,Gesamtwirtschaft,Overall economy
-2025-06-01,-3.9139,Gesamtwirtschaft,Overall economy
-2025-07-01,-2.4355,Gesamtwirtschaft,Overall economy
+2025-06-01,-3.8896,Gesamtwirtschaft,Overall economy
+2025-07-01,-2.3456,Gesamtwirtschaft,Overall economy
+2025-08-01,-2.5606,Gesamtwirtschaft,Overall economy
 1996-01-01,-22.6392,Sachgütererzeugung,Manufacturing
 1996-02-01,-21.7181,Sachgütererzeugung,Manufacturing
 1996-03-01,-23.4675,Sachgütererzeugung,Manufacturing
@@ -708,7 +709,8 @@ month,value,indicator,indicator_en
 2025-04-01,-15.0013,Sachgütererzeugung,Manufacturing
 2025-05-01,-9.8837,Sachgütererzeugung,Manufacturing
 2025-06-01,-12.2242,Sachgütererzeugung,Manufacturing
-2025-07-01,-9.925,Sachgütererzeugung,Manufacturing
+2025-07-01,-9.9417,Sachgütererzeugung,Manufacturing
+2025-08-01,-8.1413,Sachgütererzeugung,Manufacturing
 1996-01-01,-31.5685,Bau,Construction
 1996-02-01,-28.9672,Bau,Construction
 1996-03-01,-30.5788,Bau,Construction
@@ -1062,8 +1064,9 @@ month,value,indicator,indicator_en
 2025-03-01,-4.2528,Bau,Construction
 2025-04-01,-2.9649,Bau,Construction
 2025-05-01,-0.1838,Bau,Construction
-2025-06-01,-0.2455,Bau,Construction
-2025-07-01,2.4468,Bau,Construction
+2025-06-01,-0.2262,Bau,Construction
+2025-07-01,2.5793,Bau,Construction
+2025-08-01,3.6234,Bau,Construction
 1996-01-01,-30.569,Einzelhandel,Retail
 1996-02-01,-24.3027,Einzelhandel,Retail
 1996-03-01,-25.8905,Einzelhandel,Retail
@@ -1419,6 +1422,7 @@ month,value,indicator,indicator_en
 2025-05-01,-3.9394,Einzelhandel,Retail
 2025-06-01,-3.282,Einzelhandel,Retail
 2025-07-01,-3.3844,Einzelhandel,Retail
+2025-08-01,-4.941,Einzelhandel,Retail
 1996-01-01,NA,Dienstleistungen,Services
 1996-02-01,NA,Dienstleistungen,Services
 1996-03-01,NA,Dienstleistungen,Services
@@ -1772,5 +1776,6 @@ month,value,indicator,indicator_en
 2025-03-01,-1.9051,Dienstleistungen,Services
 2025-04-01,-1.7142,Dienstleistungen,Services
 2025-05-01,-1.8896,Dienstleistungen,Services
-2025-06-01,0.1419,Dienstleistungen,Services
-2025-07-01,1.0753,Dienstleistungen,Services
+2025-06-01,0.1872,Dienstleistungen,Services
+2025-07-01,1.2391,Dienstleistungen,Services
+2025-08-01,-0.1924,Dienstleistungen,Services
